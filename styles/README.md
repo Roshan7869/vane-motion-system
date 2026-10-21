@@ -10,6 +10,7 @@ a video task instead of the 26K router or the 190K of lessons.
 | `3d-camera-text.md` | cinematic title/logo piece | ~548 |
 | `saas-ui.md` | calm technical product reel, letterboxed | ~487 |
 | `ai-broll.md` | narrative/mood piece, no design system, no budget | ~404 |
+| `clean-bold.md` | **Hindi/Chhattisgarh local-business ad, CTA-led** — our own shipped build | ~700 |
 | `captions.md` | any piece that must read muted (all 3 placements) | ~690 |
 
 ## Load pattern
