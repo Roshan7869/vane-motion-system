@@ -24,6 +24,8 @@ measured:
   cuts: 9
   median_cut_s: 5.89
   mean_frame_delta: 14.714
+  median_frame_delta: 11.362
+  p95_frame_delta: 37.007
   static_ratio: 0.085
 ---
 

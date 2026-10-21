@@ -18,11 +18,33 @@ are floors, not totals.
 
 | | Tier 1 + 3 | Tier 2 | All |
 |---|---|---|---|
-| Raw Shorts in tabs | **1,307** | **661** | **1,968** |
+| Raw entries in Shorts tabs | **1,307** | **661** | **1,968** |
 | Title-filtered as relevant | **59** | **33** | **92** |
-| After reading the titles (high confidence) | ~45 | ~28 | ~70 |
+| **Verified portrait (true Shorts)** | **50** | **11** | **61** |
+| Landscape 1080p (not Shorts) | 8 | 22 | 30 |
+| Square | 1 | 0 | 1 |
 
-**Answer: 59 Shorts from Tier 1 + Tier 3. 92 if Tier 2 is included.**
+**Corrected answer: 50 true Shorts from Tier 1 + 3. 61 if Tier 2 is included.**
+
+### Correction — the tab is not a format filter
+
+The first pass reported 59 and 92 based on Shorts-tab membership plus title relevance. Every video
+was then actually measured, and the resolution audit contradicts the tab:
+
+```
+portrait  (h > w)  : 61   ← true Shorts
+landscape (w > h)  : 30   ← regular 1920x1080 videos parked in the Shorts tab
+square             :  1
+```
+
+Tier 2 is the worst offender: **22 of its 33 are landscape.** Ripple Training's "Shorts" are its
+regular Final Cut Pro episodes appearing in the tab — which is also why they scored so well on
+craft. They are 16:9 broadcast-style tutorials, not vertical.
+
+So the honest numbers are **50 and 61**, and the earlier 59 / 92 were overstated by 15% and 34%
+respectively.
+
+**Rule for future counts: resolution is authoritative, tab membership is not.**
 
 ---
 

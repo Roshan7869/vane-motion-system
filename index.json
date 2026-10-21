@@ -30,9 +30,81 @@
       "cuts": 15.0,
       "median_cut_s": 1.0,
       "mean_frame_delta": 39.216,
+      "median_frame_delta": 25.312,
+      "p95_frame_delta": 65.639,
       "static_ratio": 0.0
     },
     "lesson": "lessons/-C1IrekULXE.md"
+  },
+  {
+    "id": "-lSsgm-wVdU",
+    "title": "Why I stopped using After Effects for simple edits #producti",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 36.1,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 16.0,
+      "median_cut_s": 1.68,
+      "mean_frame_delta": 19.066,
+      "median_frame_delta": 7.128,
+      "p95_frame_delta": 64.031,
+      "static_ratio": 0.099
+    },
+    "lesson": "lessons/-lSsgm-wVdU.md"
+  },
+  {
+    "id": "-qHdnUBOS88",
+    "title": "Ep 33: Creating an Animated Grid in Motion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 65.2,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 5.77,
+      "mean_frame_delta": 5.446,
+      "median_frame_delta": 0.622,
+      "p95_frame_delta": 24.756,
+      "static_ratio": 0.55
+    },
+    "lesson": "lessons/-qHdnUBOS88.md"
   },
   {
     "id": "0Mxn45UZw2E",
@@ -61,6 +133,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 4.644,
+      "median_frame_delta": 2.38,
+      "p95_frame_delta": 13.667,
       "static_ratio": 0.053
     },
     "lesson": "lessons/0Mxn45UZw2E.md"
@@ -95,9 +169,79 @@
       "cuts": 2.0,
       "median_cut_s": 6.93,
       "mean_frame_delta": 33.077,
+      "median_frame_delta": 27.234,
+      "p95_frame_delta": 82.637,
       "static_ratio": 0.054
     },
     "lesson": "lessons/1logZo2iPpY.md"
+  },
+  {
+    "id": "2b4LjglXJvs",
+    "title": "Ep 37: Fast Lower Thirds in FCP X",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 64.2,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 23.84,
+      "mean_frame_delta": 6.77,
+      "median_frame_delta": 0.308,
+      "p95_frame_delta": 33.487,
+      "static_ratio": 0.591
+    },
+    "lesson": "lessons/2b4LjglXJvs.md"
+  },
+  {
+    "id": "3DZYbsSwOeU",
+    "title": "Every Cut Tells A Story: Behind The Timeline #reelseditor #v",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 5.1,
+    "resolution": "608x1080",
+    "fps": "147/5",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 11.141,
+      "median_frame_delta": 14.125,
+      "p95_frame_delta": 14.166,
+      "static_ratio": 0.111
+    },
+    "lesson": "lessons/3DZYbsSwOeU.md"
   },
   {
     "id": "3Gf_8827t7o",
@@ -126,9 +270,113 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 6.326,
+      "median_frame_delta": 5.311,
+      "p95_frame_delta": 15.199,
       "static_ratio": 0.0
     },
     "lesson": "lessons/3Gf_8827t7o.md"
+  },
+  {
+    "id": "3u1cG41D0yE",
+    "title": "Ep 34: Creating Animated GIFs",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 60.9,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 4.84,
+      "mean_frame_delta": 6.544,
+      "median_frame_delta": 0.184,
+      "p95_frame_delta": 46.423,
+      "static_ratio": 0.694
+    },
+    "lesson": "lessons/3u1cG41D0yE.md"
+  },
+  {
+    "id": "4ht2Afy4ykQ",
+    "title": "Ep 35: Animate a Color Mask in FCP X",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 69.3,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 5.55,
+      "median_frame_delta": 0.17,
+      "p95_frame_delta": 29.019,
+      "static_ratio": 0.717
+    },
+    "lesson": "lessons/4ht2Afy4ykQ.md"
+  },
+  {
+    "id": "4io5r4hw8DA",
+    "title": "Claude 5.5 + GPT-6 + Perplexity Video = INSANE (3 Massive AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 56.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 15.0,
+      "median_cut_s": 2.25,
+      "mean_frame_delta": 22.479,
+      "median_frame_delta": 13.287,
+      "p95_frame_delta": 83.357,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/4io5r4hw8DA.md"
   },
   {
     "id": "6ZIGjG9mX0M",
@@ -159,9 +407,255 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 24.292,
+      "median_frame_delta": 19.606,
+      "p95_frame_delta": 55.597,
       "static_ratio": 0.0
     },
     "lesson": "lessons/6ZIGjG9mX0M.md"
+  },
+  {
+    "id": "7TI2LgS1y0g",
+    "title": "EDIT TEXT LIKE After Effects IN CAPCUT TUTORIAL 🔥",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 135.1,
+    "resolution": "1918x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "type"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 8.0,
+      "median_cut_s": 10.7,
+      "mean_frame_delta": 8.076,
+      "median_frame_delta": 3.873,
+      "p95_frame_delta": 29.92,
+      "static_ratio": 0.286
+    },
+    "lesson": "lessons/7TI2LgS1y0g.md"
+  },
+  {
+    "id": "7h7dU9dzu7E",
+    "title": "Ep 52 Create a 3D Object Transition",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 68.4,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "transition",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 3.0,
+      "median_cut_s": 26.28,
+      "mean_frame_delta": 9.086,
+      "median_frame_delta": 1.55,
+      "p95_frame_delta": 35.418,
+      "static_ratio": 0.419
+    },
+    "lesson": "lessons/7h7dU9dzu7E.md"
+  },
+  {
+    "id": "7y_jO09EHlI",
+    "title": "2011 Indian World Cup : An AI Animated Short Film",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 67.0,
+    "resolution": "1920x1080",
+    "fps": "12/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 26.0,
+      "median_cut_s": 1.83,
+      "mean_frame_delta": 26.33,
+      "median_frame_delta": 10.346,
+      "p95_frame_delta": 90.929,
+      "static_ratio": 0.113
+    },
+    "lesson": "lessons/7y_jO09EHlI.md"
+  },
+  {
+    "id": "8dffyu-YmKI",
+    "title": "I just figured out AI making motion graphic on my videos",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 30.5,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 2.8,
+      "mean_frame_delta": 20.244,
+      "median_frame_delta": 13.489,
+      "p95_frame_delta": 57.501,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/8dffyu-YmKI.md"
+  },
+  {
+    "id": "ARd0bfwi-y0",
+    "title": "How to hide the impossible in a cut #vfx #filmmaking #shorts",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 61.8,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "short"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 11.0,
+      "median_cut_s": 4.5,
+      "mean_frame_delta": 15.023,
+      "median_frame_delta": 10.098,
+      "p95_frame_delta": 63.89,
+      "static_ratio": 0.041
+    },
+    "lesson": "lessons/ARd0bfwi-y0.md"
+  },
+  {
+    "id": "B1sFo-KYuSQ",
+    "title": "Mastering Android 15 Memory: The 16 KB Page Transition",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 111.6,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "transition"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.092,
+      "median_frame_delta": 0.006,
+      "p95_frame_delta": 21.1,
+      "static_ratio": 0.635
+    },
+    "lesson": "lessons/B1sFo-KYuSQ.md"
+  },
+  {
+    "id": "ByBgv79OTEI",
+    "title": "Make animated story using AI!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 49.9,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 4.92,
+      "mean_frame_delta": 27.097,
+      "median_frame_delta": 15.466,
+      "p95_frame_delta": 129.703,
+      "static_ratio": 0.091
+    },
+    "lesson": "lessons/ByBgv79OTEI.md"
   },
   {
     "id": "C-yZlQXN3rQ",
@@ -193,9 +687,118 @@
       "cuts": 2.0,
       "median_cut_s": 6.8,
       "mean_frame_delta": 20.963,
+      "median_frame_delta": 14.393,
+      "p95_frame_delta": 48.1,
       "static_ratio": 0.037
     },
     "lesson": "lessons/C-yZlQXN3rQ.md"
+  },
+  {
+    "id": "CntYmgB3UWM",
+    "title": "Animate Scenes Using Tooncrafter AI!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 35.8,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 11.0,
+      "median_cut_s": 2.04,
+      "mean_frame_delta": 39.216,
+      "median_frame_delta": 37.264,
+      "p95_frame_delta": 105.882,
+      "static_ratio": 0.127
+    },
+    "lesson": "lessons/CntYmgB3UWM.md"
+  },
+  {
+    "id": "CtWgD1qPdkA",
+    "title": "What happens when you skip storyboarding? #animation #mistak",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 42.6,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 2.66,
+      "mean_frame_delta": 10.993,
+      "median_frame_delta": 4.21,
+      "p95_frame_delta": 54.44,
+      "static_ratio": 0.024
+    },
+    "lesson": "lessons/CtWgD1qPdkA.md"
+  },
+  {
+    "id": "E0sKPI3-pRk",
+    "title": "How I add motion graphics using AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 93.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 11.0,
+      "median_cut_s": 5.42,
+      "mean_frame_delta": 12.684,
+      "median_frame_delta": 6.563,
+      "p95_frame_delta": 48.751,
+      "static_ratio": 0.156
+    },
+    "lesson": "lessons/E0sKPI3-pRk.md"
   },
   {
     "id": "ETkuKj-XxAg",
@@ -222,6 +825,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 4.897,
+      "median_frame_delta": 4.445,
+      "p95_frame_delta": 8.731,
       "static_ratio": 0.0
     },
     "lesson": "lessons/ETkuKj-XxAg.md"
@@ -255,6 +860,8 @@
       "cuts": 6.0,
       "median_cut_s": 3.73,
       "mean_frame_delta": 22.73,
+      "median_frame_delta": 15.495,
+      "p95_frame_delta": 68.937,
       "static_ratio": 0.099
     },
     "lesson": "lessons/Ed34TjjLiRU.md"
@@ -287,9 +894,80 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 28.592,
+      "median_frame_delta": 23.182,
+      "p95_frame_delta": 75.038,
       "static_ratio": 0.087
     },
     "lesson": "lessons/EjadIKcJPmw.md"
+  },
+  {
+    "id": "FDeaiNff8mw",
+    "title": "Make 3D Animation Using AI!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 44.3,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 12.0,
+      "median_cut_s": 1.33,
+      "mean_frame_delta": 26.221,
+      "median_frame_delta": 7.816,
+      "p95_frame_delta": 128.48,
+      "static_ratio": 0.102
+    },
+    "lesson": "lessons/FDeaiNff8mw.md"
+  },
+  {
+    "id": "FE6CQNgIfXQ",
+    "title": "editing journey ⭐ #videoediting #contentfactory #creativecon",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 35.3,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "editing",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 6.132,
+      "median_frame_delta": 2.456,
+      "p95_frame_delta": 25.146,
+      "static_ratio": 0.243
+    },
+    "lesson": "lessons/FE6CQNgIfXQ.md"
   },
   {
     "id": "FG8NB_IMLa4",
@@ -322,6 +1000,8 @@
       "cuts": 2.0,
       "median_cut_s": 0.8,
       "mean_frame_delta": 29.478,
+      "median_frame_delta": 14.483,
+      "p95_frame_delta": 84.311,
       "static_ratio": 0.0
     },
     "lesson": "lessons/FG8NB_IMLa4.md"
@@ -355,6 +1035,8 @@
       "cuts": 9.0,
       "median_cut_s": 5.89,
       "mean_frame_delta": 14.714,
+      "median_frame_delta": 11.362,
+      "p95_frame_delta": 37.007,
       "static_ratio": 0.085
     },
     "lesson": "lessons/FNj7PMK8SPo.md"
@@ -387,6 +1069,8 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 23.004,
+      "median_frame_delta": 14.349,
+      "p95_frame_delta": 60.474,
       "static_ratio": 0.125
     },
     "lesson": "lessons/FQuqN_1wgN0.md"
@@ -418,9 +1102,77 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 11.801,
+      "median_frame_delta": 11.046,
+      "p95_frame_delta": 23.558,
       "static_ratio": 0.082
     },
     "lesson": "lessons/FeDF9ywCCYM.md"
+  },
+  {
+    "id": "FfcYctIpocg",
+    "title": "Make Viral Sticky Animation For Free!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 36.7,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 6.18,
+      "mean_frame_delta": 23.666,
+      "median_frame_delta": 10.655,
+      "p95_frame_delta": 91.1,
+      "static_ratio": 0.125
+    },
+    "lesson": "lessons/FfcYctIpocg.md"
+  },
+  {
+    "id": "GQUJyBClKE8",
+    "title": "Ep 28: Animate Anything to Music in Motion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 98.2,
+    "resolution": "1920x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 3.758,
+      "median_frame_delta": 0.936,
+      "p95_frame_delta": 11.535,
+      "static_ratio": 0.518
+    },
+    "lesson": "lessons/GQUJyBClKE8.md"
   },
   {
     "id": "HVTuxncA9JU",
@@ -459,6 +1211,8 @@
       "cuts": 2.0,
       "median_cut_s": 4.5,
       "mean_frame_delta": 8.362,
+      "median_frame_delta": 2.953,
+      "p95_frame_delta": 22.9,
       "static_ratio": 0.243
     },
     "lesson": "lessons/HVTuxncA9JU.md"
@@ -492,9 +1246,47 @@
       "cuts": 2.0,
       "median_cut_s": 18.6,
       "mean_frame_delta": 9.753,
+      "median_frame_delta": 5.182,
+      "p95_frame_delta": 40.658,
       "static_ratio": 0.168
     },
     "lesson": "lessons/I1Iv3Ykbk00.md"
+  },
+  {
+    "id": "IGVOdYAholA",
+    "title": "Make 3D Animations In Minutes!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 57.1,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 22.0,
+      "median_cut_s": 1.43,
+      "mean_frame_delta": 31.64,
+      "median_frame_delta": 14.444,
+      "p95_frame_delta": 133.862,
+      "static_ratio": 0.088
+    },
+    "lesson": "lessons/IGVOdYAholA.md"
   },
   {
     "id": "ISV9R4fYWik",
@@ -533,9 +1325,47 @@
       "cuts": 2.0,
       "median_cut_s": 7.44,
       "mean_frame_delta": 43.971,
+      "median_frame_delta": 42.374,
+      "p95_frame_delta": 83.121,
       "static_ratio": 0.0
     },
     "lesson": "lessons/ISV9R4fYWik.md"
+  },
+  {
+    "id": "IdcOR7faLag",
+    "title": "Hollywood VFX in one prompt",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 23.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 3.71,
+      "mean_frame_delta": 18.724,
+      "median_frame_delta": 15.549,
+      "p95_frame_delta": 61.152,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/IdcOR7faLag.md"
   },
   {
     "id": "Inbq3t8_TXA",
@@ -566,9 +1396,46 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 34.603,
+      "median_frame_delta": 21.502,
+      "p95_frame_delta": 133.948,
       "static_ratio": 0.0
     },
     "lesson": "lessons/Inbq3t8_TXA.md"
+  },
+  {
+    "id": "J2XAkWjIP9o",
+    "title": "Tesla in village??? #videoediting #creativecontentcreator",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 10.1,
+    "resolution": "608x1080",
+    "fps": "24/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 4.5,
+      "mean_frame_delta": 28.253,
+      "median_frame_delta": 29.657,
+      "p95_frame_delta": 49.198,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/J2XAkWjIP9o.md"
   },
   {
     "id": "JNMtnj4-q1U",
@@ -597,9 +1464,45 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 7.565,
+      "median_frame_delta": 4.616,
+      "p95_frame_delta": 26.656,
       "static_ratio": 0.061
     },
     "lesson": "lessons/JNMtnj4-q1U.md"
+  },
+  {
+    "id": "K--DmHCND7s",
+    "title": "Ep 07: Animated Maps in Motion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 66.4,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "map",
+      "motion"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 4.776,
+      "median_frame_delta": 0.431,
+      "p95_frame_delta": 19.609,
+      "static_ratio": 0.606
+    },
+    "lesson": "lessons/K--DmHCND7s.md"
   },
   {
     "id": "KGYqKhlGI6Y",
@@ -629,9 +1532,47 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 12.779,
+      "median_frame_delta": 6.303,
+      "p95_frame_delta": 45.09,
       "static_ratio": 0.089
     },
     "lesson": "lessons/KGYqKhlGI6Y.md"
+  },
+  {
+    "id": "KRTU140Q7Z0",
+    "title": "Wan 2.2 Animate tutorial on our YouTube channel",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 51.5,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 23.0,
+      "median_cut_s": 1.0,
+      "mean_frame_delta": 28.603,
+      "median_frame_delta": 18.704,
+      "p95_frame_delta": 77.555,
+      "static_ratio": 0.078
+    },
+    "lesson": "lessons/KRTU140Q7Z0.md"
   },
   {
     "id": "Kf0PRjSM3Jc",
@@ -662,9 +1603,48 @@
       "cuts": 4.0,
       "median_cut_s": 9.33,
       "mean_frame_delta": 9.961,
+      "median_frame_delta": 1.638,
+      "p95_frame_delta": 62.373,
       "static_ratio": 0.417
     },
     "lesson": "lessons/Kf0PRjSM3Jc.md"
+  },
+  {
+    "id": "KweiXzvm8mo",
+    "title": "3 Best Video Editing Softwares #viral #videoediting #faceboo",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 33.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 1.47,
+      "mean_frame_delta": 23.882,
+      "median_frame_delta": 13.833,
+      "p95_frame_delta": 72.982,
+      "static_ratio": 0.046
+    },
+    "lesson": "lessons/KweiXzvm8mo.md"
   },
   {
     "id": "KzuKj44a620",
@@ -696,6 +1676,8 @@
       "cuts": 7.0,
       "median_cut_s": 4.45,
       "mean_frame_delta": 30.676,
+      "median_frame_delta": 25.264,
+      "p95_frame_delta": 76.086,
       "static_ratio": 0.051
     },
     "lesson": "lessons/KzuKj44a620.md"
@@ -728,9 +1710,45 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 11.325,
+      "median_frame_delta": 4.123,
+      "p95_frame_delta": 45.204,
       "static_ratio": 0.159
     },
     "lesson": "lessons/L2kBejduZ-I.md"
+  },
+  {
+    "id": "LOWl-NF7v9g",
+    "title": "Nothing ever stops: The secret to smooth UI #animation #tuto",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 56.0,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 11.0,
+      "median_cut_s": 4.28,
+      "mean_frame_delta": 17.264,
+      "median_frame_delta": 7.687,
+      "p95_frame_delta": 89.67,
+      "static_ratio": 0.108
+    },
+    "lesson": "lessons/LOWl-NF7v9g.md"
   },
   {
     "id": "Ld5LkPkQodQ",
@@ -764,9 +1782,121 @@
       "cuts": 7.0,
       "median_cut_s": 2.67,
       "mean_frame_delta": 33.156,
+      "median_frame_delta": 16.504,
+      "p95_frame_delta": 143.324,
       "static_ratio": 0.0
     },
     "lesson": "lessons/Ld5LkPkQodQ.md"
+  },
+  {
+    "id": "Lt1jJmG3l_k",
+    "title": "Don't sleep on this AI motion tool #ai #higgsfield #claude",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 62.6,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 18.0,
+      "median_cut_s": 2.14,
+      "mean_frame_delta": 22.523,
+      "median_frame_delta": 12.024,
+      "p95_frame_delta": 82.53,
+      "static_ratio": 0.024
+    },
+    "lesson": "lessons/Lt1jJmG3l_k.md"
+  },
+  {
+    "id": "M8qlFIHCwZ4",
+    "title": "How to create motion graphics using AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 30.2,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 16.0,
+      "median_cut_s": 1.5,
+      "mean_frame_delta": 25.832,
+      "median_frame_delta": 4.166,
+      "p95_frame_delta": 102.598,
+      "static_ratio": 0.068
+    },
+    "lesson": "lessons/M8qlFIHCwZ4.md"
+  },
+  {
+    "id": "MJo2UIjJ6LU",
+    "title": "This AI Tool Saves You Thousands in API Costs and Claude Cre",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 48.4,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 19.0,
+      "median_cut_s": 2.06,
+      "mean_frame_delta": 28.119,
+      "median_frame_delta": 5.134,
+      "p95_frame_delta": 129.176,
+      "static_ratio": 0.156
+    },
+    "lesson": "lessons/MJo2UIjJ6LU.md"
   },
   {
     "id": "MTXVNh3L7h4",
@@ -797,9 +1927,48 @@
       "cuts": 2.0,
       "median_cut_s": 15.7,
       "mean_frame_delta": 31.919,
+      "median_frame_delta": 25.53,
+      "p95_frame_delta": 67.14,
       "static_ratio": 0.03
     },
     "lesson": "lessons/MTXVNh3L7h4.md"
+  },
+  {
+    "id": "NdGhkJNcn7U",
+    "title": "How I Used Claude for Motion Design",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 49.1,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 16.0,
+      "median_cut_s": 2.6,
+      "mean_frame_delta": 27.765,
+      "median_frame_delta": 14.259,
+      "p95_frame_delta": 94.796,
+      "static_ratio": 0.062
+    },
+    "lesson": "lessons/NdGhkJNcn7U.md"
   },
   {
     "id": "NoGRmd2qaPY",
@@ -831,6 +2000,8 @@
       "cuts": 18.0,
       "median_cut_s": 3.27,
       "mean_frame_delta": 25.458,
+      "median_frame_delta": 19.221,
+      "p95_frame_delta": 73.959,
       "static_ratio": 0.029
     },
     "lesson": "lessons/NoGRmd2qaPY.md"
@@ -860,6 +2031,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 3.984,
+      "median_frame_delta": 3.707,
+      "p95_frame_delta": 7.172,
       "static_ratio": 0.0
     },
     "lesson": "lessons/OwDVLnFG7-M.md"
@@ -891,9 +2064,78 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 17.812,
+      "median_frame_delta": 13.36,
+      "p95_frame_delta": 57.705,
       "static_ratio": 0.136
     },
     "lesson": "lessons/P9qT6XtgSI4.md"
+  },
+  {
+    "id": "Pawe7hLSW9o",
+    "title": "Typography Components: Text - Lesson 7",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 84.9,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "type"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 54.07,
+      "mean_frame_delta": 0.74,
+      "median_frame_delta": 0.017,
+      "p95_frame_delta": 0.336,
+      "static_ratio": 0.982
+    },
+    "lesson": "lessons/Pawe7hLSW9o.md"
+  },
+  {
+    "id": "PxzhaOqkE9c",
+    "title": "10x Your Motion Graphics with Code #shorts #aianimation #mot",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 33.8,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "short",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 5.856,
+      "median_frame_delta": 1.988,
+      "p95_frame_delta": 20.907,
+      "static_ratio": 0.373
+    },
+    "lesson": "lessons/PxzhaOqkE9c.md"
   },
   {
     "id": "Q6H_fYhn3x0",
@@ -931,9 +2173,117 @@
       "cuts": 14.0,
       "median_cut_s": 1.0,
       "mean_frame_delta": 73.09,
+      "median_frame_delta": 83.685,
+      "p95_frame_delta": 127.424,
       "static_ratio": 0.0
     },
     "lesson": "lessons/Q6H_fYhn3x0.md"
+  },
+  {
+    "id": "QRBp9mqDtUw",
+    "title": "Ep 15: Publishing Paint-On Transitions",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 68.2,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "transition",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 4.723,
+      "median_frame_delta": 0.502,
+      "p95_frame_delta": 19.713,
+      "static_ratio": 0.6
+    },
+    "lesson": "lessons/QRBp9mqDtUw.md"
+  },
+  {
+    "id": "Qaa9NSEpq0w",
+    "title": "La revolución del motion graphics YA ESTÁ AQUÍ",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 47.3,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 15.0,
+      "median_cut_s": 2.28,
+      "mean_frame_delta": 22.697,
+      "median_frame_delta": 10.213,
+      "p95_frame_delta": 70.303,
+      "static_ratio": 0.022
+    },
+    "lesson": "lessons/Qaa9NSEpq0w.md"
+  },
+  {
+    "id": "RaGn-CAHCPo",
+    "title": "Bookmark this if you're learning AI motion design",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 41.8,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 23.0,
+      "median_cut_s": 1.1,
+      "mean_frame_delta": 45.785,
+      "median_frame_delta": 16.448,
+      "p95_frame_delta": 186.044,
+      "static_ratio": 0.072
+    },
+    "lesson": "lessons/RaGn-CAHCPo.md"
   },
   {
     "id": "Rgkfq5xpiao",
@@ -963,6 +2313,8 @@
       "cuts": 3.0,
       "median_cut_s": 28.43,
       "mean_frame_delta": 4.314,
+      "median_frame_delta": 0.364,
+      "p95_frame_delta": 14.715,
       "static_ratio": 0.678
     },
     "lesson": "lessons/Rgkfq5xpiao.md"
@@ -994,9 +2346,116 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 14.484,
+      "median_frame_delta": 8.331,
+      "p95_frame_delta": 35.657,
       "static_ratio": 0.19
     },
     "lesson": "lessons/Rvsi6TDsH2M.md"
+  },
+  {
+    "id": "U-3WWFDDxLo",
+    "title": "I Built an AI Video Editing System… Here’s How",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 143.4,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "editing",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 7.598,
+      "median_frame_delta": 2.116,
+      "p95_frame_delta": 29.668,
+      "static_ratio": 0.329
+    },
+    "lesson": "lessons/U-3WWFDDxLo.md"
+  },
+  {
+    "id": "U-xkcBdc6Nw",
+    "title": "YouTube Video Editing #viral #youtube #youtubeshorts",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 22.7,
+    "resolution": "480x854",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut",
+      "short"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 3.0,
+      "mean_frame_delta": 26.858,
+      "median_frame_delta": 12.122,
+      "p95_frame_delta": 126.655,
+      "static_ratio": 0.25
+    },
+    "lesson": "lessons/U-xkcBdc6Nw.md"
+  },
+  {
+    "id": "UYshgIfGkOo",
+    "title": "Claude Code can animate in After Effects?!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 30.9,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 5.2,
+      "mean_frame_delta": 8.324,
+      "median_frame_delta": 4.221,
+      "p95_frame_delta": 48.075,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/UYshgIfGkOo.md"
   },
   {
     "id": "UtxfMYGDdFk",
@@ -1026,6 +2485,8 @@
       "cuts": 5.0,
       "median_cut_s": 2.71,
       "mean_frame_delta": 22.763,
+      "median_frame_delta": 18.268,
+      "p95_frame_delta": 50.429,
       "static_ratio": 0.0
     },
     "lesson": "lessons/UtxfMYGDdFk.md"
@@ -1058,9 +2519,44 @@
       "cuts": 4.0,
       "median_cut_s": 14.86,
       "mean_frame_delta": 9.841,
+      "median_frame_delta": 2.064,
+      "p95_frame_delta": 46.682,
       "static_ratio": 0.28
     },
     "lesson": "lessons/V4NGcJS5uIo.md"
+  },
+  {
+    "id": "VAbbjYzmPEE",
+    "title": "Ep 39: Embed or Burn In Captions in FCP X",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 65.7,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "caption",
+      "hold-and-burst"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.362,
+      "median_frame_delta": 0.478,
+      "p95_frame_delta": 24.793,
+      "static_ratio": 0.708
+    },
+    "lesson": "lessons/VAbbjYzmPEE.md"
   },
   {
     "id": "VPpnrbNnSs8",
@@ -1090,9 +2586,80 @@
       "cuts": 8.0,
       "median_cut_s": 4.37,
       "mean_frame_delta": 17.32,
+      "median_frame_delta": 6.658,
+      "p95_frame_delta": 52.245,
       "static_ratio": 0.243
     },
     "lesson": "lessons/VPpnrbNnSs8.md"
+  },
+  {
+    "id": "Yn6uug_qBhM",
+    "title": "Embed or Burn In Captions in Final Cut Pro #finalcutpro  #tu",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 50.5,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "caption",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 6.804,
+      "median_frame_delta": 3.786,
+      "p95_frame_delta": 21.43,
+      "static_ratio": 0.14
+    },
+    "lesson": "lessons/Yn6uug_qBhM.md"
+  },
+  {
+    "id": "Ytw5FKFnSrk",
+    "title": "¡Aprende todas las herramientas y técnicas principales de AF",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 77.0,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 40.0,
+      "median_cut_s": 0.84,
+      "mean_frame_delta": 31.949,
+      "median_frame_delta": 21.323,
+      "p95_frame_delta": 87.327,
+      "static_ratio": 0.033
+    },
+    "lesson": "lessons/Ytw5FKFnSrk.md"
   },
   {
     "id": "Yx-1KRcFm6U",
@@ -1122,6 +2689,8 @@
       "cuts": 7.0,
       "median_cut_s": 4.33,
       "mean_frame_delta": 25.718,
+      "median_frame_delta": 3.255,
+      "p95_frame_delta": 129.551,
       "static_ratio": 0.432
     },
     "lesson": "lessons/Yx-1KRcFm6U.md"
@@ -1153,9 +2722,117 @@
       "cuts": 5.0,
       "median_cut_s": 10.94,
       "mean_frame_delta": 7.982,
+      "median_frame_delta": 2.506,
+      "p95_frame_delta": 25.606,
       "static_ratio": 0.333
     },
     "lesson": "lessons/Z2xK0L-YDb0.md"
+  },
+  {
+    "id": "Z4846Hhk0Sk",
+    "title": "The AI Trick Everyone Is Using #vox #animation #shorts",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 70.8,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "short"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 17.0,
+      "median_cut_s": 3.82,
+      "mean_frame_delta": 21.386,
+      "median_frame_delta": 11.813,
+      "p95_frame_delta": 70.651,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/Z4846Hhk0Sk.md"
+  },
+  {
+    "id": "ZIYnjS-xWlM",
+    "title": "Ep 48 Animated Text Highlights in FCPX",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 67.5,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "type"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.325,
+      "median_frame_delta": 0.421,
+      "p95_frame_delta": 22.238,
+      "static_ratio": 0.627
+    },
+    "lesson": "lessons/ZIYnjS-xWlM.md"
+  },
+  {
+    "id": "ZVWMwp68aVg",
+    "title": "YouTube Video Editing Class #viral #yshorts #youtube",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 29.3,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "short"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 2.22,
+      "mean_frame_delta": 12.022,
+      "median_frame_delta": 7.839,
+      "p95_frame_delta": 55.236,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/ZVWMwp68aVg.md"
   },
   {
     "id": "_WCJ0dAf0qE",
@@ -1185,9 +2862,48 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 31.56,
+      "median_frame_delta": 30.768,
+      "p95_frame_delta": 47.907,
       "static_ratio": 0.0
     },
     "lesson": "lessons/_WCJ0dAf0qE.md"
+  },
+  {
+    "id": "_sXy3d7atRs",
+    "title": "motivational video edited by samrin #reelseditor #motiongrap",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 55.9,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 11.0,
+      "median_cut_s": 4.19,
+      "mean_frame_delta": 23.638,
+      "median_frame_delta": 16.054,
+      "p95_frame_delta": 74.163,
+      "static_ratio": 0.018
+    },
+    "lesson": "lessons/_sXy3d7atRs.md"
   },
   {
     "id": "aNZeXQmVOjQ",
@@ -1227,6 +2943,8 @@
       "cuts": 10.0,
       "median_cut_s": 8.18,
       "mean_frame_delta": 26.172,
+      "median_frame_delta": 4.705,
+      "p95_frame_delta": 108.35,
       "static_ratio": 0.091
     },
     "lesson": "lessons/aNZeXQmVOjQ.md"
@@ -1262,6 +2980,8 @@
       "cuts": 2.0,
       "median_cut_s": 10.9,
       "mean_frame_delta": 27.963,
+      "median_frame_delta": 27.363,
+      "p95_frame_delta": 60.75,
       "static_ratio": 0.0
     },
     "lesson": "lessons/bMSnD47XAuk.md"
@@ -1296,9 +3016,77 @@
       "cuts": 2.0,
       "median_cut_s": 12.57,
       "mean_frame_delta": 27.915,
+      "median_frame_delta": 19.001,
+      "p95_frame_delta": 71.998,
       "static_ratio": 0.049
     },
     "lesson": "lessons/bRpEwZ9w6-w.md"
+  },
+  {
+    "id": "cTAm7DsWW20",
+    "title": "Free Remotion + Claude Code Alternative 🤯 (100% Local) #Shor",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 30.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 7.483,
+      "median_frame_delta": 2.553,
+      "p95_frame_delta": 21.622,
+      "static_ratio": 0.034
+    },
+    "lesson": "lessons/cTAm7DsWW20.md"
+  },
+  {
+    "id": "d1MonWlzC48",
+    "title": "Ep 41: Animating a Flower in Motion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 69.2,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "motion"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 4.712,
+      "median_frame_delta": 0.22,
+      "p95_frame_delta": 23.867,
+      "static_ratio": 0.642
+    },
+    "lesson": "lessons/d1MonWlzC48.md"
   },
   {
     "id": "d6EVIGiRWik",
@@ -1327,6 +3115,8 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 7.896,
+      "median_frame_delta": 2.658,
+      "p95_frame_delta": 20.311,
       "static_ratio": 0.391
     },
     "lesson": "lessons/d6EVIGiRWik.md"
@@ -1360,6 +3150,8 @@
       "cuts": 7.0,
       "median_cut_s": 5.21,
       "mean_frame_delta": 18.068,
+      "median_frame_delta": 6.938,
+      "p95_frame_delta": 85.352,
       "static_ratio": 0.098
     },
     "lesson": "lessons/f8mE8RZyICI.md"
@@ -1391,6 +3183,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 15.537,
+      "median_frame_delta": 15.288,
+      "p95_frame_delta": 21.681,
       "static_ratio": 0.0
     },
     "lesson": "lessons/fHZidlnJIV4.md"
@@ -1420,6 +3214,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 4.044,
+      "median_frame_delta": 3.672,
+      "p95_frame_delta": 8.207,
       "static_ratio": 0.293
     },
     "lesson": "lessons/ff9wM-ANse0.md"
@@ -1451,6 +3247,8 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 8.194,
+      "median_frame_delta": 4.345,
+      "p95_frame_delta": 27.448,
       "static_ratio": 0.0
     },
     "lesson": "lessons/getK6x-MepU.md"
@@ -1484,6 +3282,8 @@
       "cuts": 6.0,
       "median_cut_s": 5.94,
       "mean_frame_delta": 12.309,
+      "median_frame_delta": 7.962,
+      "p95_frame_delta": 51.034,
       "static_ratio": 0.0
     },
     "lesson": "lessons/gwJxE--IS0A.md"
@@ -1517,9 +3317,43 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 21.741,
+      "median_frame_delta": 22.845,
+      "p95_frame_delta": 43.785,
       "static_ratio": 0.0
     },
     "lesson": "lessons/hmk9nkwzLrc.md"
+  },
+  {
+    "id": "iCJXowra3x8",
+    "title": "Claude can make animated videos now? 🤯👀 #Claude #MotionGraph",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 42.5,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 4.534,
+      "median_frame_delta": 2.456,
+      "p95_frame_delta": 14.047,
+      "static_ratio": 0.024
+    },
+    "lesson": "lessons/iCJXowra3x8.md"
   },
   {
     "id": "jT0zCngmnpM",
@@ -1549,9 +3383,47 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 9.385,
+      "median_frame_delta": 0.983,
+      "p95_frame_delta": 52.07,
       "static_ratio": 0.522
     },
     "lesson": "lessons/jT0zCngmnpM.md"
+  },
+  {
+    "id": "jy0Stu4I65I",
+    "title": "Here's how you can use Claude without burning through your c",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 45.5,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 28.0,
+      "median_cut_s": 1.24,
+      "mean_frame_delta": 36.269,
+      "median_frame_delta": 15.519,
+      "p95_frame_delta": 127.458,
+      "static_ratio": 0.033
+    },
+    "lesson": "lessons/jy0Stu4I65I.md"
   },
   {
     "id": "k2e8WnvTCiI",
@@ -1580,6 +3452,8 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 4.318,
+      "median_frame_delta": 3.089,
+      "p95_frame_delta": 10.389,
       "static_ratio": 0.033
     },
     "lesson": "lessons/k2e8WnvTCiI.md"
@@ -1612,9 +3486,46 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 10.429,
+      "median_frame_delta": 7.89,
+      "p95_frame_delta": 21.019,
       "static_ratio": 0.024
     },
     "lesson": "lessons/kOoAnPnb9ME.md"
+  },
+  {
+    "id": "klcpQA-BWY0",
+    "title": "How to Use Remotion to Automate CapCut Text Animation (Viral",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 137.6,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "type",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 6.27,
+      "mean_frame_delta": 7.949,
+      "median_frame_delta": 4.915,
+      "p95_frame_delta": 22.929,
+      "static_ratio": 0.263
+    },
+    "lesson": "lessons/klcpQA-BWY0.md"
   },
   {
     "id": "kxuA_QkPSDM",
@@ -1646,6 +3557,8 @@
       "cuts": 24.0,
       "median_cut_s": 2.12,
       "mean_frame_delta": 20.244,
+      "median_frame_delta": 4.349,
+      "p95_frame_delta": 108.147,
       "static_ratio": 0.11
     },
     "lesson": "lessons/kxuA_QkPSDM.md"
@@ -1675,6 +3588,8 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 5.11,
+      "median_frame_delta": 2.019,
+      "p95_frame_delta": 20.303,
       "static_ratio": 0.259
     },
     "lesson": "lessons/llNAdLPXMYk.md"
@@ -1708,9 +3623,47 @@
       "cuts": 25.0,
       "median_cut_s": 2.82,
       "mean_frame_delta": 18.476,
+      "median_frame_delta": 4.717,
+      "p95_frame_delta": 136.187,
       "static_ratio": 0.069
     },
     "lesson": "lessons/mQmyQZRGQJ4.md"
+  },
+  {
+    "id": "mSlzJqMZu2Y",
+    "title": "AI Updates: ChatGPT Interactive Tools, Claude Cuts Costs 75%",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 48.8,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 13.0,
+      "median_cut_s": 3.34,
+      "mean_frame_delta": 20.55,
+      "median_frame_delta": 9.911,
+      "p95_frame_delta": 80.059,
+      "static_ratio": 0.041
+    },
+    "lesson": "lessons/mSlzJqMZu2Y.md"
   },
   {
     "id": "mWhxJPiizXI",
@@ -1740,9 +3693,48 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 13.413,
+      "median_frame_delta": 12.033,
+      "p95_frame_delta": 35.667,
       "static_ratio": 0.011
     },
     "lesson": "lessons/mWhxJPiizXI.md"
+  },
+  {
+    "id": "maHR11JFOFk",
+    "title": "The BEST keyboard for video editing with #davinciresolve",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 42.1,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 2.36,
+      "mean_frame_delta": 16.513,
+      "median_frame_delta": 12.508,
+      "p95_frame_delta": 46.801,
+      "static_ratio": 0.036
+    },
+    "lesson": "lessons/maHR11JFOFk.md"
   },
   {
     "id": "me3sFZCXxlg",
@@ -1771,9 +3763,77 @@
       "cuts": 2.0,
       "median_cut_s": 15.0,
       "mean_frame_delta": 7.779,
+      "median_frame_delta": 4.717,
+      "p95_frame_delta": 21.599,
       "static_ratio": 0.226
     },
     "lesson": "lessons/me3sFZCXxlg.md"
+  },
+  {
+    "id": "n-vhkZJe6fw",
+    "title": "Ep 63 Animating a Light in Motion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 68.6,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 6.117,
+      "median_frame_delta": 0.461,
+      "p95_frame_delta": 35.77,
+      "static_ratio": 0.581
+    },
+    "lesson": "lessons/n-vhkZJe6fw.md"
+  },
+  {
+    "id": "n8TUH9j116U",
+    "title": "Create any After Effects 3D model with AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 97.2,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 6.0,
+      "median_cut_s": 3.5,
+      "mean_frame_delta": 6.112,
+      "median_frame_delta": 0.957,
+      "p95_frame_delta": 30.928,
+      "static_ratio": 0.503
+    },
+    "lesson": "lessons/n8TUH9j116U.md"
   },
   {
     "id": "nkcbLo4DaYE",
@@ -1802,9 +3862,79 @@
       "cuts": 5.0,
       "median_cut_s": 7.5,
       "mean_frame_delta": 7.164,
+      "median_frame_delta": 1.532,
+      "p95_frame_delta": 19.258,
       "static_ratio": 0.325
     },
     "lesson": "lessons/nkcbLo4DaYE.md"
+  },
+  {
+    "id": "okFBYF1N3Dg",
+    "title": "Blender + Claude Code = Insane Animations",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 71.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 3.75,
+      "mean_frame_delta": 11.911,
+      "median_frame_delta": 5.15,
+      "p95_frame_delta": 40.038,
+      "static_ratio": 0.007
+    },
+    "lesson": "lessons/okFBYF1N3Dg.md"
+  },
+  {
+    "id": "owheCZ1yJNA",
+    "title": "Ep 57 Animating with Transitions in FCP",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 71.4,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "transition",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 10.33,
+      "mean_frame_delta": 7.825,
+      "median_frame_delta": 0.441,
+      "p95_frame_delta": 45.498,
+      "static_ratio": 0.57
+    },
+    "lesson": "lessons/owheCZ1yJNA.md"
   },
   {
     "id": "p8F-X-56iAY",
@@ -1836,6 +3966,8 @@
       "cuts": 10.0,
       "median_cut_s": 3.01,
       "mean_frame_delta": 27.209,
+      "median_frame_delta": 11.034,
+      "p95_frame_delta": 127.954,
       "static_ratio": 0.13
     },
     "lesson": "lessons/p8F-X-56iAY.md"
@@ -1872,6 +4004,8 @@
       "cuts": 3.0,
       "median_cut_s": 1.4,
       "mean_frame_delta": 55.072,
+      "median_frame_delta": 35.335,
+      "p95_frame_delta": 134.112,
       "static_ratio": 0.0
     },
     "lesson": "lessons/pAZQ-L7skFY.md"
@@ -1904,9 +4038,149 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 38.269,
+      "median_frame_delta": 37.94,
+      "p95_frame_delta": 48.899,
       "static_ratio": 0.0
     },
     "lesson": "lessons/p_zd6TbrFcc.md"
+  },
+  {
+    "id": "pgQuGENPIFU",
+    "title": "😲 VIRAL Outline Text Effect Animation 😲",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 157.3,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "type"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 25.9,
+      "mean_frame_delta": 12.29,
+      "median_frame_delta": 8.65,
+      "p95_frame_delta": 32.591,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/pgQuGENPIFU.md"
+  },
+  {
+    "id": "q3JpTqQp0YQ",
+    "title": "Animate Any Image! (Runway ML)",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 31.5,
+    "resolution": "480x854",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 2.38,
+      "mean_frame_delta": 26.202,
+      "median_frame_delta": 9.675,
+      "p95_frame_delta": 125.55,
+      "static_ratio": 0.177
+    },
+    "lesson": "lessons/q3JpTqQp0YQ.md"
+  },
+  {
+    "id": "qSv_P_acE_o",
+    "title": "Typography Components: Heading - Lesson 8",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 78.0,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "type"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 1.124,
+      "median_frame_delta": 0.04,
+      "p95_frame_delta": 2.737,
+      "static_ratio": 0.832
+    },
+    "lesson": "lessons/qSv_P_acE_o.md"
+  },
+  {
+    "id": "rAZBn6Ai2k4",
+    "title": "Ep 83 Avoiding Forced Transitions in FCP",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 62.7,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "transition"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 8.35,
+      "mean_frame_delta": 4.117,
+      "median_frame_delta": 0.039,
+      "p95_frame_delta": 18.659,
+      "static_ratio": 0.702
+    },
+    "lesson": "lessons/rAZBn6Ai2k4.md"
   },
   {
     "id": "rglfuEehdSY",
@@ -1936,9 +4210,47 @@
     "measured": {
       "cuts": 0.0,
       "mean_frame_delta": 12.304,
+      "median_frame_delta": 6.211,
+      "p95_frame_delta": 35.43,
       "static_ratio": 0.048
     },
     "lesson": "lessons/rglfuEehdSY.md"
+  },
+  {
+    "id": "soJRgpL6238",
+    "title": "¡Aprende AFTER EFFECTS! Así es el módulo 1 del próximo curso",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 81.6,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 45.0,
+      "median_cut_s": 1.32,
+      "mean_frame_delta": 31.743,
+      "median_frame_delta": 18.023,
+      "p95_frame_delta": 89.623,
+      "static_ratio": 0.019
+    },
+    "lesson": "lessons/soJRgpL6238.md"
   },
   {
     "id": "t5rLzpXZ5o8",
@@ -1969,9 +4281,47 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 8.821,
+      "median_frame_delta": 7.695,
+      "p95_frame_delta": 18.658,
       "static_ratio": 0.138
     },
     "lesson": "lessons/t5rLzpXZ5o8.md"
+  },
+  {
+    "id": "tCO0dH5otcY",
+    "title": "ai is editing my video with motion graphics! Check out my re",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 18.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 3.0,
+      "median_cut_s": 7.42,
+      "mean_frame_delta": 18.362,
+      "median_frame_delta": 15.01,
+      "p95_frame_delta": 42.45,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/tCO0dH5otcY.md"
   },
   {
     "id": "tR7wRshIsX8",
@@ -2000,9 +4350,111 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 16.704,
+      "median_frame_delta": 10.662,
+      "p95_frame_delta": 63.78,
       "static_ratio": 0.26
     },
     "lesson": "lessons/tR7wRshIsX8.md"
+  },
+  {
+    "id": "vg2bNzJ4K-o",
+    "title": "HeyGen HyperFrames: Complete Usage Guide",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 148.3,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.171,
+      "median_frame_delta": 0.796,
+      "p95_frame_delta": 15.276,
+      "static_ratio": 0.514
+    },
+    "lesson": "lessons/vg2bNzJ4K-o.md"
+  },
+  {
+    "id": "vpGBQ5y9FIM",
+    "title": "DOMINA los efectos visuales con #aftereffects #vfx",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 90.0,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 58.0,
+      "median_cut_s": 0.96,
+      "mean_frame_delta": 35.503,
+      "median_frame_delta": 26.36,
+      "p95_frame_delta": 89.78,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/vpGBQ5y9FIM.md"
+  },
+  {
+    "id": "wMwP3cgsDWo",
+    "title": "Ep 45 3D Animated 3D Text Reflections",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 58.6,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "type",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 6.186,
+      "median_frame_delta": 0.69,
+      "p95_frame_delta": 34.011,
+      "static_ratio": 0.526
+    },
+    "lesson": "lessons/wMwP3cgsDWo.md"
   },
   {
     "id": "xHdHoejEuSg",
@@ -2032,9 +4484,151 @@
       "cuts": 7.0,
       "median_cut_s": 9.73,
       "mean_frame_delta": 8.129,
+      "median_frame_delta": 2.623,
+      "p95_frame_delta": 24.887,
       "static_ratio": 0.322
     },
     "lesson": "lessons/xHdHoejEuSg.md"
+  },
+  {
+    "id": "x_54BAsE1VE",
+    "title": "Simple AI Hack for Animation Channels #ai #animation #tips",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 54.1,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 15.0,
+      "median_cut_s": 3.32,
+      "mean_frame_delta": 19.577,
+      "median_frame_delta": 4.528,
+      "p95_frame_delta": 123.071,
+      "static_ratio": 0.131
+    },
+    "lesson": "lessons/x_54BAsE1VE.md"
+  },
+  {
+    "id": "xiLGX1Z3nbE",
+    "title": "Diseñador e ilustrador: ¡da el salto a Motion Graphics con A",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 100.2,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 60.0,
+      "median_cut_s": 0.88,
+      "mean_frame_delta": 32.88,
+      "median_frame_delta": 23.94,
+      "p95_frame_delta": 96.604,
+      "static_ratio": 0.035
+    },
+    "lesson": "lessons/xiLGX1Z3nbE.md"
+  },
+  {
+    "id": "y1QxnmfQsqk",
+    "title": "Samrin Edits #videoediting #creativecontentcreator #shorts #",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 56.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "editing",
+      "short",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 6.587,
+      "median_frame_delta": 4.925,
+      "p95_frame_delta": 18.851,
+      "static_ratio": 0.045
+    },
+    "lesson": "lessons/y1QxnmfQsqk.md"
+  },
+  {
+    "id": "y1y5gSfVGko",
+    "title": "Ep 74 Email Motion Graphics with Alpha Channel",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 60.3,
+    "resolution": "1920x1080",
+    "fps": "24000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 7.046,
+      "median_frame_delta": 0.807,
+      "p95_frame_delta": 38.044,
+      "static_ratio": 0.525
+    },
+    "lesson": "lessons/y1y5gSfVGko.md"
   },
   {
     "id": "ythRPCzx4e8",
@@ -2064,9 +4658,45 @@
       "cuts": 3.0,
       "median_cut_s": 5.67,
       "mean_frame_delta": 10.26,
+      "median_frame_delta": 1.904,
+      "p95_frame_delta": 56.681,
       "static_ratio": 0.292
     },
     "lesson": "lessons/ythRPCzx4e8.md"
+  },
+  {
+    "id": "zb_nj_06I_w",
+    "title": "Claude Fable 5 Mythos INCREDIBILE: mi ha montato questo Vide",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 93.6,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 5.28,
+      "mean_frame_delta": 17.406,
+      "median_frame_delta": 13.027,
+      "p95_frame_delta": 45.821,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/zb_nj_06I_w.md"
   },
   {
     "id": "zipjTtkONUo",
@@ -2095,8 +4725,46 @@
     "measured": {
       "cuts": 1.0,
       "mean_frame_delta": 15.379,
+      "median_frame_delta": 11.179,
+      "p95_frame_delta": 45.127,
       "static_ratio": 0.0
     },
     "lesson": "lessons/zipjTtkONUo.md"
+  },
+  {
+    "id": "zrKSBDRq1nw",
+    "title": "Aesthetic life",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 21.8,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 14.0,
+      "median_cut_s": 1.4,
+      "mean_frame_delta": 37.543,
+      "median_frame_delta": 32.545,
+      "p95_frame_delta": 80.503,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/zrKSBDRq1nw.md"
   }
 ]

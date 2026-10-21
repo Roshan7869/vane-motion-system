@@ -20,6 +20,8 @@ caption_script: unknown
 measured:
   cuts: 0
   mean_frame_delta: 4.044
+  median_frame_delta: 3.672
+  p95_frame_delta: 8.207
   static_ratio: 0.293
 ---
 
