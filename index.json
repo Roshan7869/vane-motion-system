@@ -1,9 +1,43 @@
 [
   {
+    "id": "-C1IrekULXE",
+    "title": "Smooth 3D Camera animation",
+    "form": "short",
+    "duration_s": 16.5,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "camera",
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 15.0,
+      "median_cut_s": 1.0,
+      "mean_frame_delta": 39.216,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/-C1IrekULXE.md"
+  },
+  {
     "id": "0Mxn45UZw2E",
     "title": "🔥How to edit viral reels in After Effects [The COMPLETE Guide]",
     "form": "short",
-    "duration_s": "10.0",
+    "duration_s": 10.0,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "false",
@@ -22,13 +56,51 @@
     "easing": [
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.644,
+      "static_ratio": 0.053
+    },
     "lesson": "lessons/0Mxn45UZw2E.md"
+  },
+  {
+    "id": "1logZo2iPpY",
+    "title": "🔥3D Viral Reel #aftereffectstutorial #viralreels #motiongraphics",
+    "form": "short",
+    "duration_s": 19.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 6.93,
+      "mean_frame_delta": 33.077,
+      "static_ratio": 0.054
+    },
+    "lesson": "lessons/1logZo2iPpY.md"
   },
   {
     "id": "3Gf_8827t7o",
     "title": "🔥Viral reel animation",
     "form": "short",
-    "duration_s": "20.0",
+    "duration_s": 20.0,
     "resolution": "608x1080",
     "fps": "24/1",
     "has_captions": "false",
@@ -47,13 +119,111 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 6.326,
+      "static_ratio": 0.0
+    },
     "lesson": "lessons/3Gf_8827t7o.md"
+  },
+  {
+    "id": "6ZIGjG9mX0M",
+    "title": "🔥Viral Reels Editing #viralreels #tiktokvideos #viralreel",
+    "form": "short",
+    "duration_s": 9.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 24.292,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/6ZIGjG9mX0M.md"
+  },
+  {
+    "id": "C-yZlQXN3rQ",
+    "title": "How to edit viral reels in After Effects",
+    "form": "short",
+    "duration_s": 14.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 6.8,
+      "mean_frame_delta": 20.963,
+      "static_ratio": 0.037
+    },
+    "lesson": "lessons/C-yZlQXN3rQ.md"
+  },
+  {
+    "id": "ETkuKj-XxAg",
+    "title": "Who is the GOAT?",
+    "form": "short",
+    "duration_s": 22.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.897,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/ETkuKj-XxAg.md"
   },
   {
     "id": "EjadIKcJPmw",
     "title": "🔥Clean Motion Graphics in After Effects",
     "form": "short",
-    "duration_s": "12.1",
+    "duration_s": 12.1,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -73,13 +243,52 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 28.592,
+      "static_ratio": 0.087
+    },
     "lesson": "lessons/EjadIKcJPmw.md"
+  },
+  {
+    "id": "FG8NB_IMLa4",
+    "title": "How to edit like Houston Kold",
+    "form": "short",
+    "duration_s": 8.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 0.8,
+      "mean_frame_delta": 29.478,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/FG8NB_IMLa4.md"
   },
   {
     "id": "FNj7PMK8SPo",
     "title": "🔥Sport Masterclass Motion Graphics",
     "form": "short",
-    "duration_s": "58.9",
+    "duration_s": 58.9,
     "resolution": "608x1080",
     "fps": "24/1",
     "has_captions": "true",
@@ -99,13 +308,80 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 9.0,
+      "median_cut_s": 5.89,
+      "mean_frame_delta": 14.714,
+      "static_ratio": 0.085
+    },
     "lesson": "lessons/FNj7PMK8SPo.md"
+  },
+  {
+    "id": "FQuqN_1wgN0",
+    "title": "How to animate VIRAL REELS in After Effects (Full tutorial)",
+    "form": "short",
+    "duration_s": 12.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 23.004,
+      "static_ratio": 0.125
+    },
+    "lesson": "lessons/FQuqN_1wgN0.md"
+  },
+  {
+    "id": "FeDF9ywCCYM",
+    "title": "Bracket Champions League Animation",
+    "form": "short",
+    "duration_s": 25.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 11.801,
+      "static_ratio": 0.082
+    },
+    "lesson": "lessons/FeDF9ywCCYM.md"
   },
   {
     "id": "HVTuxncA9JU",
     "title": "SaaS Explainer video",
     "form": "short",
-    "duration_s": "19.0",
+    "duration_s": 19.0,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -124,13 +400,18 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 8.362,
+      "static_ratio": 0.243
+    },
     "lesson": "lessons/HVTuxncA9JU.md"
   },
   {
     "id": "ISV9R4fYWik",
     "title": "How to Create VIRAL REELS",
     "form": "short",
-    "duration_s": "10.0",
+    "duration_s": 10.0,
     "resolution": "608x1080",
     "fps": "16/1",
     "has_captions": "true",
@@ -158,13 +439,19 @@
       "power4.out",
       "none"
     ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 7.44,
+      "mean_frame_delta": 43.971,
+      "static_ratio": 0.0
+    },
     "lesson": "lessons/ISV9R4fYWik.md"
   },
   {
     "id": "Inbq3t8_TXA",
     "title": "How to edit viral reels in after effects [COMPLETE Guide]",
     "form": "short",
-    "duration_s": "23.1",
+    "duration_s": 23.1,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -185,13 +472,81 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 34.603,
+      "static_ratio": 0.0
+    },
     "lesson": "lessons/Inbq3t8_TXA.md"
+  },
+  {
+    "id": "KGYqKhlGI6Y",
+    "title": "How to learn motion graphics in After Effects - FULL Tutorial",
+    "form": "short",
+    "duration_s": 28.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 12.779,
+      "static_ratio": 0.089
+    },
+    "lesson": "lessons/KGYqKhlGI6Y.md"
+  },
+  {
+    "id": "Kf0PRjSM3Jc",
+    "title": "🎥🤔Hidden Camera After Effects - SOLUTION✔️",
+    "form": "short",
+    "duration_s": 51.8,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "camera",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 9.33,
+      "mean_frame_delta": 9.961,
+      "static_ratio": 0.417
+    },
+    "lesson": "lessons/Kf0PRjSM3Jc.md"
   },
   {
     "id": "KzuKj44a620",
     "title": "How to edit VIRAL REELS in after effects",
     "form": "short",
-    "duration_s": "40.2",
+    "duration_s": 40.2,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -212,13 +567,19 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 4.45,
+      "mean_frame_delta": 30.676,
+      "static_ratio": 0.051
+    },
     "lesson": "lessons/KzuKj44a620.md"
   },
   {
     "id": "L2kBejduZ-I",
     "title": "How to Create a 3D Map Animation in After Effects",
     "form": "short",
-    "duration_s": "35.0",
+    "duration_s": 35.0,
     "resolution": "360x640",
     "fps": "30/1",
     "has_captions": "false",
@@ -238,13 +599,18 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 11.325,
+      "static_ratio": 0.159
+    },
     "lesson": "lessons/L2kBejduZ-I.md"
   },
   {
     "id": "Ld5LkPkQodQ",
     "title": "🔥How to Edit VIRAL REELS Animations in After Effects",
     "form": "short",
-    "duration_s": "23.3",
+    "duration_s": 23.3,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -267,13 +633,19 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 2.67,
+      "mean_frame_delta": 33.156,
+      "static_ratio": 0.0
+    },
     "lesson": "lessons/Ld5LkPkQodQ.md"
   },
   {
     "id": "MTXVNh3L7h4",
     "title": "🔥Viral Reel Animation",
     "form": "short",
-    "duration_s": "17.1",
+    "duration_s": 17.1,
     "resolution": "360x640",
     "fps": "30/1",
     "has_captions": "true",
@@ -293,13 +665,204 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 15.7,
+      "mean_frame_delta": 31.919,
+      "static_ratio": 0.03
+    },
     "lesson": "lessons/MTXVNh3L7h4.md"
+  },
+  {
+    "id": "OwDVLnFG7-M",
+    "title": "Who is the GOAT?",
+    "form": "short",
+    "duration_s": 22.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 3.984,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/OwDVLnFG7-M.md"
+  },
+  {
+    "id": "P9qT6XtgSI4",
+    "title": "How to create UI animation like Apple Style   Full After Effects Tutorial",
+    "form": "short",
+    "duration_s": 22.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 17.812,
+      "static_ratio": 0.136
+    },
+    "lesson": "lessons/P9qT6XtgSI4.md"
+  },
+  {
+    "id": "Q6H_fYhn3x0",
+    "title": "🔥3D Camera TEXT ANIMATION After Effects",
+    "form": "short",
+    "duration_s": 16.5,
+    "resolution": "1080x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "camera",
+      "continuous-motion",
+      "fast-cut",
+      "type"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 14.0,
+      "median_cut_s": 1.0,
+      "mean_frame_delta": 73.09,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/Q6H_fYhn3x0.md"
+  },
+  {
+    "id": "Rgkfq5xpiao",
+    "title": "🔥Logo JUMP After Effects",
+    "form": "short",
+    "duration_s": 59.5,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "hold-and-burst"
+    ],
+    "emotion": [
+      "reflective",
+      "deliberate"
+    ],
+    "tags": [
+      "hold-and-burst",
+      "logo"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 3.0,
+      "median_cut_s": 28.43,
+      "mean_frame_delta": 4.314,
+      "static_ratio": 0.678
+    },
+    "lesson": "lessons/Rgkfq5xpiao.md"
+  },
+  {
+    "id": "Rvsi6TDsH2M",
+    "title": "🔥Apple UI animation after effects",
+    "form": "short",
+    "duration_s": 11.2,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 14.484,
+      "static_ratio": 0.19
+    },
+    "lesson": "lessons/Rvsi6TDsH2M.md"
+  },
+  {
+    "id": "V4NGcJS5uIo",
+    "title": "🔥Free ORDER SCRIPT for After Effects",
+    "form": "short",
+    "duration_s": 59.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 4.0,
+      "median_cut_s": 14.86,
+      "mean_frame_delta": 9.841,
+      "static_ratio": 0.28
+    },
+    "lesson": "lessons/V4NGcJS5uIo.md"
   },
   {
     "id": "_WCJ0dAf0qE",
     "title": "🔥Smooth 3D Camera movement in After Effects",
     "form": "short",
-    "duration_s": "8.5",
+    "duration_s": 8.5,
     "resolution": "360x640",
     "fps": "30/1",
     "has_captions": "false",
@@ -319,13 +882,85 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 31.56,
+      "static_ratio": 0.0
+    },
     "lesson": "lessons/_WCJ0dAf0qE.md"
+  },
+  {
+    "id": "bMSnD47XAuk",
+    "title": "🔥Motion Graphics Reel #editlikeapro #motiondesigner #motiongraphics",
+    "form": "short",
+    "duration_s": 21.8,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 10.9,
+      "mean_frame_delta": 27.963,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/bMSnD47XAuk.md"
+  },
+  {
+    "id": "bRpEwZ9w6-w",
+    "title": "🔥How to Edit 3D Viral Reels",
+    "form": "short",
+    "duration_s": 21.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 12.57,
+      "mean_frame_delta": 27.915,
+      "static_ratio": 0.049
+    },
+    "lesson": "lessons/bRpEwZ9w6-w.md"
   },
   {
     "id": "d6EVIGiRWik",
     "title": "How to make Split Screen transition after effects tutorial",
     "form": "short",
-    "duration_s": "12.1",
+    "duration_s": 12.1,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -344,13 +979,139 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 7.896,
+      "static_ratio": 0.391
+    },
     "lesson": "lessons/d6EVIGiRWik.md"
+  },
+  {
+    "id": "fHZidlnJIV4",
+    "title": "Liquid glass animation like Apple",
+    "form": "short",
+    "duration_s": 18.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 15.537,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/fHZidlnJIV4.md"
+  },
+  {
+    "id": "ff9wM-ANse0",
+    "title": "Viral Neon Effect",
+    "form": "short",
+    "duration_s": 20.9,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.044,
+      "static_ratio": 0.293
+    },
+    "lesson": "lessons/ff9wM-ANse0.md"
+  },
+  {
+    "id": "hmk9nkwzLrc",
+    "title": "🔥Viral Reels Editing 🔒Bloqueo  Creativo  #viralreels #tiktokvideos #viralreel",
+    "form": "short",
+    "duration_s": 10.7,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 21.741,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/hmk9nkwzLrc.md"
+  },
+  {
+    "id": "jT0zCngmnpM",
+    "title": "🤔¿Cuál es tu software de animación favorito?  #motiondesigner #motiongraphics #aftereffects",
+    "form": "short",
+    "duration_s": 12.2,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 9.385,
+      "static_ratio": 0.522
+    },
+    "lesson": "lessons/jT0zCngmnpM.md"
   },
   {
     "id": "k2e8WnvTCiI",
     "title": "🔥How to edit documentary style videos in After Effects",
     "form": "short",
-    "duration_s": "46.5",
+    "duration_s": 46.5,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "false",
@@ -369,13 +1130,18 @@
     "easing": [
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 4.318,
+      "static_ratio": 0.033
+    },
     "lesson": "lessons/k2e8WnvTCiI.md"
   },
   {
     "id": "kOoAnPnb9ME",
     "title": "How to edit like MagnatesMedia in After Effects Full Guide",
     "form": "short",
-    "duration_s": "20.9",
+    "duration_s": 20.9,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -395,37 +1161,18 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 10.429,
+      "static_ratio": 0.024
+    },
     "lesson": "lessons/kOoAnPnb9ME.md"
   },
   {
-    "id": "nkcbLo4DaYE",
-    "title": "Animate Line Graphs Like Cleo Abram After Effects Tutorial",
+    "id": "mWhxJPiizXI",
+    "title": "How to become a Motion Graphics Designer",
     "form": "short",
-    "duration_s": "57.4",
-    "resolution": "608x1080",
-    "fps": "30/1",
-    "has_captions": "true",
-    "caption_script": "unknown",
-    "primitives": [
-      "unclassified"
-    ],
-    "emotion": [
-      "neutral"
-    ],
-    "tags": [
-      "unclassified"
-    ],
-    "easing": [
-      "linear",
-      "power2.out"
-    ],
-    "lesson": "lessons/nkcbLo4DaYE.md"
-  },
-  {
-    "id": "rglfuEehdSY",
-    "title": "How to learn motion graphics in After Effects",
-    "form": "short",
-    "duration_s": "11.0",
+    "duration_s": 48.0,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "false",
@@ -445,13 +1192,175 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 13.413,
+      "static_ratio": 0.011
+    },
+    "lesson": "lessons/mWhxJPiizXI.md"
+  },
+  {
+    "id": "me3sFZCXxlg",
+    "title": "How to Animate like MagnatesMedia",
+    "form": "short",
+    "duration_s": 16.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 15.0,
+      "mean_frame_delta": 7.779,
+      "static_ratio": 0.226
+    },
+    "lesson": "lessons/me3sFZCXxlg.md"
+  },
+  {
+    "id": "nkcbLo4DaYE",
+    "title": "Animate Line Graphs Like Cleo Abram After Effects Tutorial",
+    "form": "short",
+    "duration_s": 57.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 7.5,
+      "mean_frame_delta": 7.164,
+      "static_ratio": 0.325
+    },
+    "lesson": "lessons/nkcbLo4DaYE.md"
+  },
+  {
+    "id": "pAZQ-L7skFY",
+    "title": "3D Viral Reels  #aftereffectstutorial #viralreels #motiongraphics",
+    "form": "short",
+    "duration_s": 8.1,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut",
+      "motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 3.0,
+      "median_cut_s": 1.4,
+      "mean_frame_delta": 55.072,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/pAZQ-L7skFY.md"
+  },
+  {
+    "id": "p_zd6TbrFcc",
+    "title": "🔥Become a Motion Graphics Designer #aftereffectstutorial #3dcompositing #motiongraphics",
+    "form": "short",
+    "duration_s": 30.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 38.269,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/p_zd6TbrFcc.md"
+  },
+  {
+    "id": "rglfuEehdSY",
+    "title": "How to learn motion graphics in After Effects",
+    "form": "short",
+    "duration_s": 11.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 0.0,
+      "mean_frame_delta": 12.304,
+      "static_ratio": 0.048
+    },
     "lesson": "lessons/rglfuEehdSY.md"
   },
   {
     "id": "t5rLzpXZ5o8",
     "title": "🚀How to Edit Documentary Style Videos",
     "form": "short",
-    "duration_s": "47.4",
+    "duration_s": 47.4,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -472,13 +1381,18 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 8.821,
+      "static_ratio": 0.138
+    },
     "lesson": "lessons/t5rLzpXZ5o8.md"
   },
   {
     "id": "ythRPCzx4e8",
     "title": "🔥How to Create a SaaS Explainer Ad in After Effects",
     "form": "short",
-    "duration_s": "24.4",
+    "duration_s": 24.4,
     "resolution": "608x1080",
     "fps": "30/1",
     "has_captions": "true",
@@ -497,6 +1411,12 @@
       "linear",
       "power2.out"
     ],
+    "measured": {
+      "cuts": 3.0,
+      "median_cut_s": 5.67,
+      "mean_frame_delta": 10.26,
+      "static_ratio": 0.292
+    },
     "lesson": "lessons/ythRPCzx4e8.md"
   }
 ]

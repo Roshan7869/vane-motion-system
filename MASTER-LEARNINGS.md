@@ -152,6 +152,26 @@ One curve per **scene**, not per element — per-element curves destroy coherenc
 
 ---
 
+## 11. Short-form is not fast-cutting — it is continuously moving
+
+**Why.** The intuition is that viral Shorts are cut fast. Measured across 45 Shorts from a
+professional motion-graphics channel, the **median cut count is 1** (range 0–15) at a
+**median duration of 20.9 s**. What is actually high is motion: median frame delta **14.48**,
+and **91% of the 45 shorts hold `static_ratio` below 0.35** — median 0.05.
+
+So the mechanism is not more cuts. It is *one continuous movement per shot*, with the cut
+reserved for a genuine change of world.
+
+**Apply.** Do not add cuts to buy energy. Add motion inside the shot: a push-in, a warp, a
+grain churn, a parallax. Then cut only when the palette, location or subject changes.
+A 20 s piece with 1 cut and delta 30 will outperform a 20 s piece with 12 cuts and delta 6 —
+and the second is what a template produces.
+
+Corollary: high cut count is not a quality signal. The one outlier with 15 cuts in 16.5 s
+(`-C1IrekULXE`, delta 39.2) is a *camera* tutorial demonstrating moves, not a reference edit.
+
+---
+
 ## Open questions this corpus has not answered
 
 - Whether karaoke per-word highlight survives Devanagari at small sizes on mobile
