@@ -1,0 +1,23 @@
+# .gitignore — this repo stores knowledge, never media
+
+# source videos are deleted after extraction; if one survives, it must not be committed
+*.mp4
+*.mkv
+*.webm
+*.mov
+*.m4v
+
+# keyframes are kept locally for audit but are large; the lesson records their
+# timestamps so a reader does not need the stills
+frames/
+
+# extraction workspace
+work/
+*.log
+processed.json
+
+# editors / OS
+.DS_Store
+*.swp
+.vscode/
+.idea/
