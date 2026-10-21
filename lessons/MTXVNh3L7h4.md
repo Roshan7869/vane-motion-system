@@ -3,6 +3,7 @@ id: MTXVNh3L7h4
 title: "🔥Viral Reel Animation"
 source_url: https://www.youtube.com/watch?v=MTXVNh3L7h4
 form: short
+depth: structural
 duration_s: 17.1
 resolution: 360x640
 fps: 30/1

@@ -3,6 +3,7 @@ id: _WCJ0dAf0qE
 title: "🔥Smooth 3D Camera movement in After Effects"
 source_url: https://www.youtube.com/watch?v=_WCJ0dAf0qE
 form: short
+depth: structural
 duration_s: 8.5
 resolution: 360x640
 fps: 30/1

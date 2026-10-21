@@ -3,6 +3,7 @@ id: -C1IrekULXE
 title: "Smooth 3D Camera animation"
 source_url: https://www.youtube.com/watch?v=-C1IrekULXE
 form: short
+depth: structural
 duration_s: 16.5
 resolution: 608x1080
 fps: 30/1

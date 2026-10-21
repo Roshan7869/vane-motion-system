@@ -3,6 +3,7 @@ id: ythRPCzx4e8
 title: "🔥How to Create a SaaS Explainer Ad in After Effects"
 source_url: https://www.youtube.com/watch?v=ythRPCzx4e8
 form: short
+depth: structural
 duration_s: 24.4
 resolution: 608x1080
 fps: 30/1

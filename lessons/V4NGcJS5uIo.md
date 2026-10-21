@@ -3,6 +3,7 @@ id: V4NGcJS5uIo
 title: "🔥Free ORDER SCRIPT for After Effects"
 source_url: https://www.youtube.com/watch?v=V4NGcJS5uIo
 form: short
+depth: structural
 duration_s: 59.7
 resolution: 608x1080
 fps: 30/1

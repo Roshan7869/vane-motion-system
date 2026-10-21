@@ -3,6 +3,7 @@ id: d6EVIGiRWik
 title: "How to make Split Screen transition after effects tutorial"
 source_url: https://www.youtube.com/watch?v=d6EVIGiRWik
 form: short
+depth: structural
 duration_s: 12.1
 resolution: 608x1080
 fps: 30/1

@@ -3,6 +3,7 @@ id: Kf0PRjSM3Jc
 title: "🎥🤔Hidden Camera After Effects - SOLUTION✔️"
 source_url: https://www.youtube.com/watch?v=Kf0PRjSM3Jc
 form: short
+depth: structural
 duration_s: 51.8
 resolution: 608x1080
 fps: 30/1

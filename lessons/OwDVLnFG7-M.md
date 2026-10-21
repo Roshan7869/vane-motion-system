@@ -3,6 +3,7 @@ id: OwDVLnFG7-M
 title: "Who is the GOAT?"
 source_url: https://www.youtube.com/watch?v=OwDVLnFG7-M
 form: short
+depth: structural
 duration_s: 22.0
 resolution: 608x1080
 fps: 30/1

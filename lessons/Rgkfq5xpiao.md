@@ -3,6 +3,7 @@ id: Rgkfq5xpiao
 title: "🔥Logo JUMP After Effects"
 source_url: https://www.youtube.com/watch?v=Rgkfq5xpiao
 form: short
+depth: structural
 duration_s: 59.5
 resolution: 608x1080
 fps: 30/1

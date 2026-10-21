@@ -3,6 +3,7 @@ id: 1logZo2iPpY
 title: "🔥3D Viral Reel #aftereffectstutorial #viralreels #motiongraphics"
 source_url: https://www.youtube.com/watch?v=1logZo2iPpY
 form: short
+depth: structural
 duration_s: 19.1
 resolution: 608x1080
 fps: 30/1

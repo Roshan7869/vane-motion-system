@@ -3,6 +3,7 @@ id: Rvsi6TDsH2M
 title: "🔥Apple UI animation after effects"
 source_url: https://www.youtube.com/watch?v=Rvsi6TDsH2M
 form: short
+depth: structural
 duration_s: 11.2
 resolution: 608x1080
 fps: 30/1

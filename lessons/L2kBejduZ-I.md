@@ -3,6 +3,7 @@ id: L2kBejduZ-I
 title: "How to Create a 3D Map Animation in After Effects"
 source_url: https://www.youtube.com/watch?v=L2kBejduZ-I
 form: short
+depth: structural
 duration_s: 35.0
 resolution: 360x640
 fps: 30/1

@@ -44,6 +44,59 @@ not in there is a reading of the frames and is labelled as such in prose.
 
 ---
 
+## Two depth tiers
+
+Every lesson is one of two kinds. The frontmatter records which, in `depth`.
+
+| Tier | Meaning | What it contains |
+|---|---|---|
+| `structural` | the pipeline wrote it; no visual read | frontmatter, cut list, motion profile, palette, keyframe table, and `_pending visual read_` placeholders |
+| `deep` | a full shot-by-shot read | everything below, in the order given by `templates/shot-breakdown.md` |
+
+A `structural` lesson is honest but thin: it says what the video *measures*, not how to build
+it. Only a `deep` lesson can rebuild the piece. Never present a structural lesson as if it
+were deep — that is the one misrepresentation this schema exists to prevent.
+
+### Required sections for a `deep` lesson
+
+Full field list lives in **`templates/shot-breakdown.md`**. In order:
+
+1. `## 1. Motive` — what the piece is for, who it targets, what it wants the viewer to do.
+2. `## 2. Global specification` — mood, lighting, grade, camera language, finish, resolution,
+   aspect, fps, duration, palette with coverage, type system, audio. A table, with a `source`
+   column marking each row `measured` or `judged`.
+3. `## 3. Shot-by-shot breakdown` — one block per beat, tiling the whole duration with no gaps.
+   Each beat carries: timestamp range, composition and focal point, camera (framing, angle,
+   move, DOF — or an explicit "none"), an element inventory table (type, shape, position, size,
+   depth), exact text with font/weight/size/tracking/case/colour, colour and gradients with
+   hex and stops, lighting and shadow per element, texture, a motion table
+   (`property | from → to | start | duration | ease | trigger`), the transition into the next
+   beat, and the audio state.
+4. `## 4. Visual effects timing` — every effect with in/out points.
+5. `## 5. Final frame spec` — the last held frame, its hold length, and an explicit loop
+   verdict with the measurement behind it.
+6. `## 6. Rebuild prompt` — a single self-contained pasteable block. Shape and the override
+   block are defined in `prompts/agent-rebuild.md`.
+7. `## 7. Caveats` — where it breaks.
+
+Also required in a deep lesson: `## Transfer to HyperFrames`, `## Transfer to Remotion`,
+`## Emotion → motion mapping`, `## Timing rules extracted`, `## Reusable snippet`.
+
+### Rules specific to the shot-by-shot
+
+- **Beat boundaries must state provenance**: `measured` (a keyframe-delta peak) or `inferred`
+  (read from the delta profile). Soft transitions do not trip a 0.30 scene threshold, so a
+  video with 6 visible beats may report only 2 cuts. Saying which is which is not optional.
+- **A beat with no motion must say so.** "Static hold, measured inter-frame delta 0.00" is a
+  finding. Leaving it blank reads as an oversight.
+- **Reproduce source text verbatim, including errors**, and flag the error. Do not silently
+  correct copy.
+- **The override block keeps everything it does not name.** Brand, palette, text, duration,
+  aspect, type style and added elements are all opt-in; anything unspecified is inherited from
+  the analysis.
+
+---
+
 ## Body sections (in this order)
 
 ### 1. `## What this video teaches`

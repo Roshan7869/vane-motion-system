@@ -3,6 +3,7 @@ id: P9qT6XtgSI4
 title: "How to create UI animation like Apple Style   Full After Effects Tutorial"
 source_url: https://www.youtube.com/watch?v=P9qT6XtgSI4
 form: short
+depth: structural
 duration_s: 22.4
 resolution: 608x1080
 fps: 30/1

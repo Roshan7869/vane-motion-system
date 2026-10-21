@@ -3,6 +3,7 @@ id: mWhxJPiizXI
 title: "How to become a Motion Graphics Designer"
 source_url: https://www.youtube.com/watch?v=mWhxJPiizXI
 form: short
+depth: structural
 duration_s: 48.0
 resolution: 608x1080
 fps: 30/1

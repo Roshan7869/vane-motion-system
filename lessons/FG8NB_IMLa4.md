@@ -3,6 +3,7 @@ id: FG8NB_IMLa4
 title: "How to edit like Houston Kold"
 source_url: https://www.youtube.com/watch?v=FG8NB_IMLa4
 form: short
+depth: structural
 duration_s: 8.1
 resolution: 608x1080
 fps: 30/1

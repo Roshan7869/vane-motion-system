@@ -3,6 +3,7 @@ id: FNj7PMK8SPo
 title: "🔥Sport Masterclass Motion Graphics"
 source_url: https://www.youtube.com/watch?v=FNj7PMK8SPo
 form: short
+depth: structural
 duration_s: 58.9
 resolution: 608x1080
 fps: 24/1

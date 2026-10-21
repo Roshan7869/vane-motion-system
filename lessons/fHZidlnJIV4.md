@@ -3,6 +3,7 @@ id: fHZidlnJIV4
 title: "Liquid glass animation like Apple"
 source_url: https://www.youtube.com/watch?v=fHZidlnJIV4
 form: short
+depth: structural
 duration_s: 18.0
 resolution: 608x1080
 fps: 30/1

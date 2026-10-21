@@ -3,6 +3,7 @@ id: bMSnD47XAuk
 title: "🔥Motion Graphics Reel #editlikeapro #motiondesigner #motiongraphics"
 source_url: https://www.youtube.com/watch?v=bMSnD47XAuk
 form: short
+depth: structural
 duration_s: 21.8
 resolution: 608x1080
 fps: 30/1

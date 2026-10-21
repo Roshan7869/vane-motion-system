@@ -3,6 +3,7 @@ id: 6ZIGjG9mX0M
 title: "🔥Viral Reels Editing #viralreels #tiktokvideos #viralreel"
 source_url: https://www.youtube.com/watch?v=6ZIGjG9mX0M
 form: short
+depth: structural
 duration_s: 9.1
 resolution: 608x1080
 fps: 30/1

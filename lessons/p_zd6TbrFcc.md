@@ -3,6 +3,7 @@ id: p_zd6TbrFcc
 title: "🔥Become a Motion Graphics Designer #aftereffectstutorial #3dcompositing #motiongraphics"
 source_url: https://www.youtube.com/watch?v=p_zd6TbrFcc
 form: short
+depth: structural
 duration_s: 30.4
 resolution: 608x1080
 fps: 30/1

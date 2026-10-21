@@ -3,6 +3,7 @@ id: jT0zCngmnpM
 title: "🤔¿Cuál es tu software de animación favorito?  #motiondesigner #motiongraphics #aftereffects"
 source_url: https://www.youtube.com/watch?v=jT0zCngmnpM
 form: short
+depth: structural
 duration_s: 12.2
 resolution: 608x1080
 fps: 30/1

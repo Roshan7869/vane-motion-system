@@ -3,6 +3,7 @@ id: t5rLzpXZ5o8
 title: "🚀How to Edit Documentary Style Videos"
 source_url: https://www.youtube.com/watch?v=t5rLzpXZ5o8
 form: short
+depth: structural
 duration_s: 47.4
 resolution: 608x1080
 fps: 30/1

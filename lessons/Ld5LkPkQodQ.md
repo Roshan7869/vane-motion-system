@@ -3,6 +3,7 @@ id: Ld5LkPkQodQ
 title: "🔥How to Edit VIRAL REELS Animations in After Effects"
 source_url: https://www.youtube.com/watch?v=Ld5LkPkQodQ
 form: short
+depth: structural
 duration_s: 23.3
 resolution: 608x1080
 fps: 30/1

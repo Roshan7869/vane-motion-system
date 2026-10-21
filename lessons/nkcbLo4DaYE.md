@@ -3,6 +3,7 @@ id: nkcbLo4DaYE
 title: "Animate Line Graphs Like Cleo Abram After Effects Tutorial"
 source_url: https://www.youtube.com/watch?v=nkcbLo4DaYE
 form: short
+depth: structural
 duration_s: 57.4
 resolution: 608x1080
 fps: 30/1

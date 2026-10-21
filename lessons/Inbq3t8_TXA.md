@@ -3,6 +3,7 @@ id: Inbq3t8_TXA
 title: "How to edit viral reels in after effects [COMPLETE Guide]"
 source_url: https://www.youtube.com/watch?v=Inbq3t8_TXA
 form: short
+depth: structural
 duration_s: 23.1
 resolution: 608x1080
 fps: 30/1

@@ -3,6 +3,7 @@ id: hmk9nkwzLrc
 title: "🔥Viral Reels Editing 🔒Bloqueo  Creativo  #viralreels #tiktokvideos #viralreel"
 source_url: https://www.youtube.com/watch?v=hmk9nkwzLrc
 form: short
+depth: structural
 duration_s: 10.7
 resolution: 608x1080
 fps: 30/1

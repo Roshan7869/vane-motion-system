@@ -3,6 +3,7 @@ id: ff9wM-ANse0
 title: "Viral Neon Effect"
 source_url: https://www.youtube.com/watch?v=ff9wM-ANse0
 form: short
+depth: structural
 duration_s: 20.9
 resolution: 608x1080
 fps: 30/1

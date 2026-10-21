@@ -3,6 +3,7 @@ id: ETkuKj-XxAg
 title: "Who is the GOAT?"
 source_url: https://www.youtube.com/watch?v=ETkuKj-XxAg
 form: short
+depth: structural
 duration_s: 22.0
 resolution: 608x1080
 fps: 30/1

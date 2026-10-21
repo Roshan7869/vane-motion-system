@@ -3,6 +3,7 @@ id: kOoAnPnb9ME
 title: "How to edit like MagnatesMedia in After Effects Full Guide"
 source_url: https://www.youtube.com/watch?v=kOoAnPnb9ME
 form: short
+depth: structural
 duration_s: 20.9
 resolution: 608x1080
 fps: 30/1

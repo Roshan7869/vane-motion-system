@@ -3,6 +3,7 @@ id: k2e8WnvTCiI
 title: "🔥How to edit documentary style videos in After Effects"
 source_url: https://www.youtube.com/watch?v=k2e8WnvTCiI
 form: short
+depth: structural
 duration_s: 46.5
 resolution: 608x1080
 fps: 30/1

@@ -3,6 +3,7 @@ id: bRpEwZ9w6-w
 title: "🔥How to Edit 3D Viral Reels"
 source_url: https://www.youtube.com/watch?v=bRpEwZ9w6-w
 form: short
+depth: structural
 duration_s: 21.0
 resolution: 608x1080
 fps: 30/1

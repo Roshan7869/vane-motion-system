@@ -3,6 +3,7 @@ id: FQuqN_1wgN0
 title: "How to animate VIRAL REELS in After Effects (Full tutorial)"
 source_url: https://www.youtube.com/watch?v=FQuqN_1wgN0
 form: short
+depth: structural
 duration_s: 12.7
 resolution: 608x1080
 fps: 30/1

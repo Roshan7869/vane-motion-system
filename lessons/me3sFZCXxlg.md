@@ -3,6 +3,7 @@ id: me3sFZCXxlg
 title: "How to Animate like MagnatesMedia"
 source_url: https://www.youtube.com/watch?v=me3sFZCXxlg
 form: short
+depth: structural
 duration_s: 16.0
 resolution: 608x1080
 fps: 30/1

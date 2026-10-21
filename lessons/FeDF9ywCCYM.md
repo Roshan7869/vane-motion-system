@@ -3,6 +3,7 @@ id: FeDF9ywCCYM
 title: "Bracket Champions League Animation"
 source_url: https://www.youtube.com/watch?v=FeDF9ywCCYM
 form: short
+depth: structural
 duration_s: 25.0
 resolution: 608x1080
 fps: 30/1

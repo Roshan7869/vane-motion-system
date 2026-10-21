@@ -3,6 +3,7 @@ id: KGYqKhlGI6Y
 title: "How to learn motion graphics in After Effects - FULL Tutorial"
 source_url: https://www.youtube.com/watch?v=KGYqKhlGI6Y
 form: short
+depth: structural
 duration_s: 28.7
 resolution: 608x1080
 fps: 30/1
