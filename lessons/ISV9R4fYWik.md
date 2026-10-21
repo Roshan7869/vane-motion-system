@@ -4,6 +4,7 @@ title: "How to Create VIRAL REELS"
 source_url: https://www.youtube.com/watch?v=ISV9R4fYWik
 form: short
 depth: deep
+kind: shot-breakdown
 duration_s: 10.0
 resolution: 608x1080
 fps: 16/1

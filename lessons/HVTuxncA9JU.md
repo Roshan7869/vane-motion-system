@@ -4,6 +4,7 @@ title: "SaaS Explainer video"
 source_url: https://www.youtube.com/watch?v=HVTuxncA9JU
 form: short
 depth: deep
+kind: shot-breakdown
 duration_s: 19.0
 resolution: 608x1080
 aspect: "9:16 wrapper / 16:9 content band"

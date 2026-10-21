@@ -4,6 +4,7 @@ title: "🔥3D Camera TEXT ANIMATION After Effects"
 source_url: https://www.youtube.com/watch?v=Q6H_fYhn3x0
 form: short
 depth: deep
+kind: shot-breakdown
 duration_s: 16.5
 resolution: 1080x1080
 fps: 30/1

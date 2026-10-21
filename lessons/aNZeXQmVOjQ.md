@@ -4,6 +4,7 @@ title: "How to Use HyperFrames in HeyGen's AI Video Agent"
 source_url: https://www.youtube.com/watch?v=aNZeXQmVOjQ
 form: short
 depth: deep
+kind: shot-breakdown
 duration_s: 66.5
 resolution: 1920x1080
 aspect: "16:9"
