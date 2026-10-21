@@ -18,29 +18,37 @@ easing family, a duration and a stagger value, so motion can be driven by a meas
 
 ## How an agent should read this repo
 
-Read in this order. Do not read `lessons/` first — it is 245 files of detail and you will
+Read in this order. Do not read `lessons/` first — it is 137 files of detail and you will
 drown.
 
 ```
 1. README.md              ← you are here: contract + routing table
-2. SCHEMA.md              ← the shape of a lesson file
-3. MASTER-LEARNINGS.md    ← cross-cutting rules that hold across the whole corpus
-4. index.json             ← machine-readable index: query this, don't grep prose
-5. patterns/*.md          ← one file per technique family
-6. lessons/<id>.md        ← per-video detail, only the ones index.json points you at
-7. snippets/              ← copy-pasteable implementations
+2. TAXONOMY.md            ← the 7 facets + ingestibility numbers
+3. capabilities.json      ← THE ROUTER: filter this, never read linearly (~26K tokens)
+4. SCHEMA.md              ← the shape of a lesson file
+5. MASTER-LEARNINGS.md    ← 14 cross-cutting rules that hold across the whole corpus
+6. patterns/*.md          ← one file per technique family (3 exist)
+7. lessons/<id>.md        ← per-video detail, only the 1-3 that your filter selected
+8. snippets/              ← copy-pasteable implementations
 ```
+
+**Do not bulk-ingest `lessons/`.** The whole tracked repo is ~248K tokens; the router is
+~26K. Filter `capabilities.json`, sort `basis == "visual-read"` first, open at most 3
+lessons. See TAXONOMY.md for the full protocol and worked retrievals.
 
 ### Routing table — start from the effect you need
 
 | You need | Read |
 |---|---|
+| To find which lesson supplies a capability | `capabilities.json` — filter `capability` |
+| To know what a lesson verified vs inferred | `capabilities.json` — check `basis` |
 | A text/caption reveal | `patterns/caption-systems.md` |
 | To know which easing encodes which feeling | `patterns/easing-and-emotion.md` |
-| A transition between two shots | `patterns/transitions.md` |
-| Camera movement (push, parallax, whip) | `patterns/camera-and-depth.md` |
 | To animate Hindi/Devanagari text | `patterns/devanagari-constraints.md` |
-| A specific primitive's code | `snippets/hyperframes/` or `snippets/remotion/` |
+| A specific primitive's code | `snippets/hyperframes/` (4 snippets) |
+| Whether a piece is a loop | `loop_analysis.json` |
+| Who to learn from next | `CREATORS.md` |
+| How many Shorts exist per tier | `SHORTS-INVENTORY.md` |
 
 ### Querying `index.json`
 

@@ -1,0 +1,3755 @@
+[
+ {
+  "id": "-C1IrekULXE",
+  "title": "Smooth 3D Camera animation",
+  "system": null,
+  "capability": [
+   "camera-and-depth",
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 16.5,
+  "cuts": 15.0,
+  "median_cut_s": 1.0,
+  "primitives": [],
+  "use_when": "supplies camera-and-depth / extrude-and-3d / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 15.0,
+   "median_cut_s": 1.0,
+   "mean_frame_delta": 39.216,
+   "median_frame_delta": 25.312,
+   "p95_frame_delta": 65.639,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/-C1IrekULXE.md"
+ },
+ {
+  "id": "-lSsgm-wVdU",
+  "title": "Why I stopped using After Effects for simple edits #producti",
+  "system": null,
+  "capability": [
+   "editing-cadence",
+   "ui-and-product-motion"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 36.1,
+  "cuts": 16.0,
+  "median_cut_s": 1.68,
+  "primitives": [],
+  "use_when": "supplies editing-cadence / ui-and-product-motion; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 16.0,
+   "median_cut_s": 1.68,
+   "mean_frame_delta": 19.066,
+   "median_frame_delta": 7.128,
+   "p95_frame_delta": 64.031,
+   "static_ratio": 0.099
+  },
+  "lesson": "lessons/-lSsgm-wVdU.md"
+ },
+ {
+  "id": "-qHdnUBOS88",
+  "title": "Ep 33: Creating an Animated Grid in Motion",
+  "system": null,
+  "capability": [
+   "grid-and-layout",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 65.2,
+  "cuts": 2.0,
+  "median_cut_s": 5.77,
+  "primitives": [],
+  "use_when": "supplies grid-and-layout / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 5.77,
+   "mean_frame_delta": 5.446,
+   "median_frame_delta": 0.622,
+   "p95_frame_delta": 24.756,
+   "static_ratio": 0.55
+  },
+  "lesson": "lessons/-qHdnUBOS88.md"
+ },
+ {
+  "id": "0Mxn45UZw2E",
+  "title": "🔥How to edit viral reels in After Effects [The COMPLETE Guide]",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 10.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; static pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.644,
+   "median_frame_delta": 2.38,
+   "p95_frame_delta": 13.667,
+   "static_ratio": 0.053
+  },
+  "lesson": "lessons/0Mxn45UZw2E.md"
+ },
+ {
+  "id": "1logZo2iPpY",
+  "title": "🔥3D Viral Reel #aftereffectstutorial #viralreels #motiongraphics",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "extrude-and-3d",
+   "loop-construction"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 19.1,
+  "cuts": 2.0,
+  "median_cut_s": 6.93,
+  "primitives": [],
+  "use_when": "supplies data-viz / extrude-and-3d / loop-construction; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 6.93,
+   "mean_frame_delta": 33.077,
+   "median_frame_delta": 27.234,
+   "p95_frame_delta": 82.637,
+   "static_ratio": 0.054
+  },
+  "lesson": "lessons/1logZo2iPpY.md"
+ },
+ {
+  "id": "2b4LjglXJvs",
+  "title": "Ep 37: Fast Lower Thirds in FCP X",
+  "system": null,
+  "capability": [
+   "lower-thirds"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 64.2,
+  "cuts": 2.0,
+  "median_cut_s": 23.84,
+  "primitives": [],
+  "use_when": "supplies lower-thirds; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 23.84,
+   "mean_frame_delta": 6.77,
+   "median_frame_delta": 0.308,
+   "p95_frame_delta": 33.487,
+   "static_ratio": 0.591
+  },
+  "lesson": "lessons/2b4LjglXJvs.md"
+ },
+ {
+  "id": "3DZYbsSwOeU",
+  "title": "Every Cut Tells A Story: Behind The Timeline #reelseditor #v",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 5.1,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 11.141,
+   "median_frame_delta": 14.125,
+   "p95_frame_delta": 14.166,
+   "static_ratio": 0.111
+  },
+  "lesson": "lessons/3DZYbsSwOeU.md"
+ },
+ {
+  "id": "3Gf_8827t7o",
+  "title": "🔥Viral reel animation",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 20.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 6.326,
+   "median_frame_delta": 5.311,
+   "p95_frame_delta": 15.199,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/3Gf_8827t7o.md"
+ },
+ {
+  "id": "3u1cG41D0yE",
+  "title": "Ep 34: Creating Animated GIFs",
+  "system": null,
+  "capability": [
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 60.9,
+  "cuts": 4.0,
+  "median_cut_s": 4.84,
+  "primitives": [],
+  "use_when": "supplies animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 4.84,
+   "mean_frame_delta": 6.544,
+   "median_frame_delta": 0.184,
+   "p95_frame_delta": 46.423,
+   "static_ratio": 0.694
+  },
+  "lesson": "lessons/3u1cG41D0yE.md"
+ },
+ {
+  "id": "4ht2Afy4ykQ",
+  "title": "Ep 35: Animate a Color Mask in FCP X",
+  "system": null,
+  "capability": [
+   "color-and-mask",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 69.3,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies color-and-mask / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 5.55,
+   "median_frame_delta": 0.17,
+   "p95_frame_delta": 29.019,
+   "static_ratio": 0.717
+  },
+  "lesson": "lessons/4ht2Afy4ykQ.md"
+ },
+ {
+  "id": "4io5r4hw8DA",
+  "title": "Claude 5.5 + GPT-6 + Perplexity Video = INSANE (3 Massive AI",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 56.7,
+  "cuts": 15.0,
+  "median_cut_s": 2.25,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 15.0,
+   "median_cut_s": 2.25,
+   "mean_frame_delta": 22.479,
+   "median_frame_delta": 13.287,
+   "p95_frame_delta": 83.357,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/4io5r4hw8DA.md"
+ },
+ {
+  "id": "6ZIGjG9mX0M",
+  "title": "🔥Viral Reels Editing #viralreels #tiktokvideos #viralreel",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 9.1,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 24.292,
+   "median_frame_delta": 19.606,
+   "p95_frame_delta": 55.597,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/6ZIGjG9mX0M.md"
+ },
+ {
+  "id": "7TI2LgS1y0g",
+  "title": "EDIT TEXT LIKE After Effects IN CAPCUT TUTORIAL 🔥",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 135.1,
+  "cuts": 8.0,
+  "median_cut_s": 10.7,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; static pacing; 16:9; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 8.0,
+   "median_cut_s": 10.7,
+   "mean_frame_delta": 8.076,
+   "median_frame_delta": 3.873,
+   "p95_frame_delta": 29.92,
+   "static_ratio": 0.286
+  },
+  "lesson": "lessons/7TI2LgS1y0g.md"
+ },
+ {
+  "id": "7h7dU9dzu7E",
+  "title": "Ep 52 Create a 3D Object Transition",
+  "system": null,
+  "capability": [
+   "transitions",
+   "extrude-and-3d"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 68.4,
+  "cuts": 3.0,
+  "median_cut_s": 26.28,
+  "primitives": [],
+  "use_when": "supplies transitions / extrude-and-3d; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 3.0,
+   "median_cut_s": 26.28,
+   "mean_frame_delta": 9.086,
+   "median_frame_delta": 1.55,
+   "p95_frame_delta": 35.418,
+   "static_ratio": 0.419
+  },
+  "lesson": "lessons/7h7dU9dzu7E.md"
+ },
+ {
+  "id": "7y_jO09EHlI",
+  "title": "2011 Indian World Cup : An AI Animated Short Film",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 67.0,
+  "cuts": 26.0,
+  "median_cut_s": 1.83,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; hold-and-burst pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 26.0,
+   "median_cut_s": 1.83,
+   "mean_frame_delta": 26.33,
+   "median_frame_delta": 10.346,
+   "p95_frame_delta": 90.929,
+   "static_ratio": 0.113
+  },
+  "lesson": "lessons/7y_jO09EHlI.md"
+ },
+ {
+  "id": "8dffyu-YmKI",
+  "title": "I just figured out AI making motion graphic on my videos",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 30.5,
+  "cuts": 2.0,
+  "median_cut_s": 2.8,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 2.8,
+   "mean_frame_delta": 20.244,
+   "median_frame_delta": 13.489,
+   "p95_frame_delta": 57.501,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/8dffyu-YmKI.md"
+ },
+ {
+  "id": "ARd0bfwi-y0",
+  "title": "How to hide the impossible in a cut #vfx #filmmaking #shorts",
+  "system": null,
+  "capability": [
+   "glitch-and-distortion",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 61.8,
+  "cuts": 11.0,
+  "median_cut_s": 4.5,
+  "primitives": [],
+  "use_when": "supplies glitch-and-distortion / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 11.0,
+   "median_cut_s": 4.5,
+   "mean_frame_delta": 15.023,
+   "median_frame_delta": 10.098,
+   "p95_frame_delta": 63.89,
+   "static_ratio": 0.041
+  },
+  "lesson": "lessons/ARd0bfwi-y0.md"
+ },
+ {
+  "id": "B1sFo-KYuSQ",
+  "title": "Mastering Android 15 Memory: The 16 KB Page Transition",
+  "system": null,
+  "capability": [
+   "transitions"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 111.6,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies transitions; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.092,
+   "median_frame_delta": 0.006,
+   "p95_frame_delta": 21.1,
+   "static_ratio": 0.635
+  },
+  "lesson": "lessons/B1sFo-KYuSQ.md"
+ },
+ {
+  "id": "ByBgv79OTEI",
+  "title": "Make animated story using AI!",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 49.9,
+  "cuts": 9.0,
+  "median_cut_s": 4.92,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 4.92,
+   "mean_frame_delta": 27.097,
+   "median_frame_delta": 15.466,
+   "p95_frame_delta": 129.703,
+   "static_ratio": 0.091
+  },
+  "lesson": "lessons/ByBgv79OTEI.md"
+ },
+ {
+  "id": "C-yZlQXN3rQ",
+  "title": "How to edit viral reels in After Effects",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 14.0,
+  "cuts": 2.0,
+  "median_cut_s": 6.8,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 6.8,
+   "mean_frame_delta": 20.963,
+   "median_frame_delta": 14.393,
+   "p95_frame_delta": 48.1,
+   "static_ratio": 0.037
+  },
+  "lesson": "lessons/C-yZlQXN3rQ.md"
+ },
+ {
+  "id": "CntYmgB3UWM",
+  "title": "Animate Scenes Using Tooncrafter AI!",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 35.8,
+  "cuts": 11.0,
+  "median_cut_s": 2.04,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 11.0,
+   "median_cut_s": 2.04,
+   "mean_frame_delta": 39.216,
+   "median_frame_delta": 37.264,
+   "p95_frame_delta": 105.882,
+   "static_ratio": 0.127
+  },
+  "lesson": "lessons/CntYmgB3UWM.md"
+ },
+ {
+  "id": "CtWgD1qPdkA",
+  "title": "What happens when you skip storyboarding? #animation #mistak",
+  "system": null,
+  "capability": [
+   "storyboard-and-structure",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 42.6,
+  "cuts": 9.0,
+  "median_cut_s": 2.66,
+  "primitives": [],
+  "use_when": "supplies storyboard-and-structure / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 2.66,
+   "mean_frame_delta": 10.993,
+   "median_frame_delta": 4.21,
+   "p95_frame_delta": 54.44,
+   "static_ratio": 0.024
+  },
+  "lesson": "lessons/CtWgD1qPdkA.md"
+ },
+ {
+  "id": "E0sKPI3-pRk",
+  "title": "How I add motion graphics using AI",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 93.7,
+  "cuts": 11.0,
+  "median_cut_s": 5.42,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 11.0,
+   "median_cut_s": 5.42,
+   "mean_frame_delta": 12.684,
+   "median_frame_delta": 6.563,
+   "p95_frame_delta": 48.751,
+   "static_ratio": 0.156
+  },
+  "lesson": "lessons/E0sKPI3-pRk.md"
+ },
+ {
+  "id": "ETkuKj-XxAg",
+  "title": "Who is the GOAT?",
+  "system": null,
+  "capability": [],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 22.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.897,
+   "median_frame_delta": 4.445,
+   "p95_frame_delta": 8.731,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/ETkuKj-XxAg.md"
+ },
+ {
+  "id": "Ed34TjjLiRU",
+  "title": "How To Make Map Animation Using AI",
+  "system": null,
+  "capability": [
+   "map-animation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 41.2,
+  "cuts": 6.0,
+  "median_cut_s": 3.73,
+  "primitives": [],
+  "use_when": "supplies map-animation / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 6.0,
+   "median_cut_s": 3.73,
+   "mean_frame_delta": 22.73,
+   "median_frame_delta": 15.495,
+   "p95_frame_delta": 68.937,
+   "static_ratio": 0.099
+  },
+  "lesson": "lessons/Ed34TjjLiRU.md"
+ },
+ {
+  "id": "EjadIKcJPmw",
+  "title": "🔥Clean Motion Graphics in After Effects",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 12.1,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 28.592,
+   "median_frame_delta": 23.182,
+   "p95_frame_delta": 75.038,
+   "static_ratio": 0.087
+  },
+  "lesson": "lessons/EjadIKcJPmw.md"
+ },
+ {
+  "id": "FDeaiNff8mw",
+  "title": "Make 3D Animation Using AI!",
+  "system": null,
+  "capability": [
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 44.3,
+  "cuts": 12.0,
+  "median_cut_s": 1.33,
+  "primitives": [],
+  "use_when": "supplies extrude-and-3d / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 12.0,
+   "median_cut_s": 1.33,
+   "mean_frame_delta": 26.221,
+   "median_frame_delta": 7.816,
+   "p95_frame_delta": 128.48,
+   "static_ratio": 0.102
+  },
+  "lesson": "lessons/FDeaiNff8mw.md"
+ },
+ {
+  "id": "FE6CQNgIfXQ",
+  "title": "editing journey ⭐ #videoediting #contentfactory #creativecon",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 35.3,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 6.132,
+   "median_frame_delta": 2.456,
+   "p95_frame_delta": 25.146,
+   "static_ratio": 0.243
+  },
+  "lesson": "lessons/FE6CQNgIfXQ.md"
+ },
+ {
+  "id": "FG8NB_IMLa4",
+  "title": "How to edit like Houston Kold",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 8.1,
+  "cuts": 2.0,
+  "median_cut_s": 0.8,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 0.8,
+   "mean_frame_delta": 29.478,
+   "median_frame_delta": 14.483,
+   "p95_frame_delta": 84.311,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/FG8NB_IMLa4.md"
+ },
+ {
+  "id": "FNj7PMK8SPo",
+  "title": "🔥Sport Masterclass Motion Graphics",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "course-promo",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 58.9,
+  "cuts": 9.0,
+  "median_cut_s": 5.89,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; course promo; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 5.89,
+   "mean_frame_delta": 14.714,
+   "median_frame_delta": 11.362,
+   "p95_frame_delta": 37.007,
+   "static_ratio": 0.085
+  },
+  "lesson": "lessons/FNj7PMK8SPo.md"
+ },
+ {
+  "id": "FQuqN_1wgN0",
+  "title": "How to animate VIRAL REELS in After Effects (Full tutorial)",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 12.7,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 23.004,
+   "median_frame_delta": 14.349,
+   "p95_frame_delta": 60.474,
+   "static_ratio": 0.125
+  },
+  "lesson": "lessons/FQuqN_1wgN0.md"
+ },
+ {
+  "id": "FeDF9ywCCYM",
+  "title": "Bracket Champions League Animation",
+  "system": null,
+  "capability": [
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 25.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 11.801,
+   "median_frame_delta": 11.046,
+   "p95_frame_delta": 23.558,
+   "static_ratio": 0.082
+  },
+  "lesson": "lessons/FeDF9ywCCYM.md"
+ },
+ {
+  "id": "FfcYctIpocg",
+  "title": "Make Viral Sticky Animation For Free!",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 36.7,
+  "cuts": 5.0,
+  "median_cut_s": 6.18,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 6.18,
+   "mean_frame_delta": 23.666,
+   "median_frame_delta": 10.655,
+   "p95_frame_delta": 91.1,
+   "static_ratio": 0.125
+  },
+  "lesson": "lessons/FfcYctIpocg.md"
+ },
+ {
+  "id": "GQUJyBClKE8",
+  "title": "Ep 28: Animate Anything to Music in Motion",
+  "system": null,
+  "capability": [
+   "beat-sync",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 98.2,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies beat-sync / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 3.758,
+   "median_frame_delta": 0.936,
+   "p95_frame_delta": 11.535,
+   "static_ratio": 0.518
+  },
+  "lesson": "lessons/GQUJyBClKE8.md"
+ },
+ {
+  "id": "HVTuxncA9JU",
+  "title": "SaaS Explainer video",
+  "system": "saas-ui",
+  "capability": [
+   "ui-and-product-motion"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "visual-read",
+  "runtime": [
+   "hyperframes"
+  ],
+  "duration_s": 19.0,
+  "cuts": 2.0,
+  "median_cut_s": 4.5,
+  "primitives": [
+   "3x3 card grid",
+   "gradient bloom",
+   "letterbox band",
+   "loading end card",
+   "silhouette icon"
+  ],
+  "use_when": "supplies ui-and-product-motion; static pacing; 9:16",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 4.5,
+   "mean_frame_delta": 8.362,
+   "median_frame_delta": 2.953,
+   "p95_frame_delta": 22.9,
+   "static_ratio": 0.243
+  },
+  "lesson": "lessons/HVTuxncA9JU.md"
+ },
+ {
+  "id": "I1Iv3Ykbk00",
+  "title": "Is AI Coming for Motion Designers?",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "talking-head",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 51.0,
+  "cuts": 2.0,
+  "median_cut_s": 18.6,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16; talking head; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 18.6,
+   "mean_frame_delta": 9.753,
+   "median_frame_delta": 5.182,
+   "p95_frame_delta": 40.658,
+   "static_ratio": 0.168
+  },
+  "lesson": "lessons/I1Iv3Ykbk00.md"
+ },
+ {
+  "id": "IGVOdYAholA",
+  "title": "Make 3D Animations In Minutes!",
+  "system": null,
+  "capability": [
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 57.1,
+  "cuts": 22.0,
+  "median_cut_s": 1.43,
+  "primitives": [],
+  "use_when": "supplies extrude-and-3d / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 22.0,
+   "median_cut_s": 1.43,
+   "mean_frame_delta": 31.64,
+   "median_frame_delta": 14.444,
+   "p95_frame_delta": 133.862,
+   "static_ratio": 0.088
+  },
+  "lesson": "lessons/IGVOdYAholA.md"
+ },
+ {
+  "id": "ISV9R4fYWik",
+  "title": "How to Create VIRAL REELS",
+  "system": "collage-reel",
+  "capability": [
+   "loop-construction"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "visual-read",
+  "runtime": [
+   "hyperframes"
+  ],
+  "duration_s": 10.0,
+  "cuts": 2.0,
+  "median_cut_s": 7.44,
+  "primitives": [
+   "extruded type",
+   "hard drop shadow",
+   "paper grain",
+   "per-shot palette reset",
+   "vignette"
+  ],
+  "use_when": "supplies loop-construction; continuous pacing; 9:16",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 7.44,
+   "mean_frame_delta": 43.971,
+   "median_frame_delta": 42.374,
+   "p95_frame_delta": 83.121,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/ISV9R4fYWik.md"
+ },
+ {
+  "id": "IdcOR7faLag",
+  "title": "Hollywood VFX in one prompt",
+  "system": null,
+  "capability": [
+   "glitch-and-distortion",
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 23.4,
+  "cuts": 5.0,
+  "median_cut_s": 3.71,
+  "primitives": [],
+  "use_when": "supplies glitch-and-distortion / workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 3.71,
+   "mean_frame_delta": 18.724,
+   "median_frame_delta": 15.549,
+   "p95_frame_delta": 61.152,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/IdcOR7faLag.md"
+ },
+ {
+  "id": "Inbq3t8_TXA",
+  "title": "How to edit viral reels in after effects [COMPLETE Guide]",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 23.1,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 34.603,
+   "median_frame_delta": 21.502,
+   "p95_frame_delta": 133.948,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/Inbq3t8_TXA.md"
+ },
+ {
+  "id": "J2XAkWjIP9o",
+  "title": "Tesla in village??? #videoediting #creativecontentcreator",
+  "system": null,
+  "capability": [],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 10.1,
+  "cuts": 2.0,
+  "median_cut_s": 4.5,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 4.5,
+   "mean_frame_delta": 28.253,
+   "median_frame_delta": 29.657,
+   "p95_frame_delta": 49.198,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/J2XAkWjIP9o.md"
+ },
+ {
+  "id": "JNMtnj4-q1U",
+  "title": "Hyperframes vs Remotion",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "comparison",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "visual-read",
+  "runtime": [],
+  "duration_s": 91.0,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 9:16; comparison",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 7.565,
+   "median_frame_delta": 4.616,
+   "p95_frame_delta": 26.656,
+   "static_ratio": 0.061
+  },
+  "lesson": "lessons/JNMtnj4-q1U.md"
+ },
+ {
+  "id": "K--DmHCND7s",
+  "title": "Ep 07: Animated Maps in Motion",
+  "system": null,
+  "capability": [
+   "map-animation",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 66.4,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies map-animation / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 4.776,
+   "median_frame_delta": 0.431,
+   "p95_frame_delta": 19.609,
+   "static_ratio": 0.606
+  },
+  "lesson": "lessons/K--DmHCND7s.md"
+ },
+ {
+  "id": "KGYqKhlGI6Y",
+  "title": "How to learn motion graphics in After Effects - FULL Tutorial",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 28.7,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 12.779,
+   "median_frame_delta": 6.303,
+   "p95_frame_delta": 45.09,
+   "static_ratio": 0.089
+  },
+  "lesson": "lessons/KGYqKhlGI6Y.md"
+ },
+ {
+  "id": "KRTU140Q7Z0",
+  "title": "Wan 2.2 Animate tutorial on our YouTube channel",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 51.5,
+  "cuts": 23.0,
+  "median_cut_s": 1.0,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 23.0,
+   "median_cut_s": 1.0,
+   "mean_frame_delta": 28.603,
+   "median_frame_delta": 18.704,
+   "p95_frame_delta": 77.555,
+   "static_ratio": 0.078
+  },
+  "lesson": "lessons/KRTU140Q7Z0.md"
+ },
+ {
+  "id": "Kf0PRjSM3Jc",
+  "title": "🎥🤔Hidden Camera After Effects - SOLUTION✔️",
+  "system": null,
+  "capability": [
+   "camera-and-depth"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 51.8,
+  "cuts": 4.0,
+  "median_cut_s": 9.33,
+  "primitives": [],
+  "use_when": "supplies camera-and-depth; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 9.33,
+   "mean_frame_delta": 9.961,
+   "median_frame_delta": 1.638,
+   "p95_frame_delta": 62.373,
+   "static_ratio": 0.417
+  },
+  "lesson": "lessons/Kf0PRjSM3Jc.md"
+ },
+ {
+  "id": "KweiXzvm8mo",
+  "title": "3 Best Video Editing Softwares #viral #videoediting #faceboo",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 33.1,
+  "cuts": 9.0,
+  "median_cut_s": 1.47,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 1.47,
+   "mean_frame_delta": 23.882,
+   "median_frame_delta": 13.833,
+   "p95_frame_delta": 72.982,
+   "static_ratio": 0.046
+  },
+  "lesson": "lessons/KweiXzvm8mo.md"
+ },
+ {
+  "id": "KzuKj44a620",
+  "title": "How to edit VIRAL REELS in after effects",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 40.2,
+  "cuts": 7.0,
+  "median_cut_s": 4.45,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 4.45,
+   "mean_frame_delta": 30.676,
+   "median_frame_delta": 25.264,
+   "p95_frame_delta": 76.086,
+   "static_ratio": 0.051
+  },
+  "lesson": "lessons/KzuKj44a620.md"
+ },
+ {
+  "id": "L2kBejduZ-I",
+  "title": "How to Create a 3D Map Animation in After Effects",
+  "system": null,
+  "capability": [
+   "map-animation",
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 35.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies map-animation / extrude-and-3d / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 11.325,
+   "median_frame_delta": 4.123,
+   "p95_frame_delta": 45.204,
+   "static_ratio": 0.159
+  },
+  "lesson": "lessons/L2kBejduZ-I.md"
+ },
+ {
+  "id": "LOWl-NF7v9g",
+  "title": "Nothing ever stops: The secret to smooth UI #animation #tuto",
+  "system": null,
+  "capability": [
+   "ui-and-product-motion",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 56.0,
+  "cuts": 11.0,
+  "median_cut_s": 4.28,
+  "primitives": [],
+  "use_when": "supplies ui-and-product-motion / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 11.0,
+   "median_cut_s": 4.28,
+   "mean_frame_delta": 17.264,
+   "median_frame_delta": 7.687,
+   "p95_frame_delta": 89.67,
+   "static_ratio": 0.108
+  },
+  "lesson": "lessons/LOWl-NF7v9g.md"
+ },
+ {
+  "id": "Ld5LkPkQodQ",
+  "title": "🔥How to Edit VIRAL REELS Animations in After Effects",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 23.3,
+  "cuts": 7.0,
+  "median_cut_s": 2.67,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 2.67,
+   "mean_frame_delta": 33.156,
+   "median_frame_delta": 16.504,
+   "p95_frame_delta": 143.324,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/Ld5LkPkQodQ.md"
+ },
+ {
+  "id": "Lt1jJmG3l_k",
+  "title": "Don't sleep on this AI motion tool #ai #higgsfield #claude",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 62.6,
+  "cuts": 18.0,
+  "median_cut_s": 2.14,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 18.0,
+   "median_cut_s": 2.14,
+   "mean_frame_delta": 22.523,
+   "median_frame_delta": 12.024,
+   "p95_frame_delta": 82.53,
+   "static_ratio": 0.024
+  },
+  "lesson": "lessons/Lt1jJmG3l_k.md"
+ },
+ {
+  "id": "M8qlFIHCwZ4",
+  "title": "How to create motion graphics using AI",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 30.2,
+  "cuts": 16.0,
+  "median_cut_s": 1.5,
+  "primitives": [],
+  "use_when": "supplies data-viz; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 16.0,
+   "median_cut_s": 1.5,
+   "mean_frame_delta": 25.832,
+   "median_frame_delta": 4.166,
+   "p95_frame_delta": 102.598,
+   "static_ratio": 0.068
+  },
+  "lesson": "lessons/M8qlFIHCwZ4.md"
+ },
+ {
+  "id": "MJo2UIjJ6LU",
+  "title": "This AI Tool Saves You Thousands in API Costs and Claude Cre",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 48.4,
+  "cuts": 19.0,
+  "median_cut_s": 2.06,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 19.0,
+   "median_cut_s": 2.06,
+   "mean_frame_delta": 28.119,
+   "median_frame_delta": 5.134,
+   "p95_frame_delta": 129.176,
+   "static_ratio": 0.156
+  },
+  "lesson": "lessons/MJo2UIjJ6LU.md"
+ },
+ {
+  "id": "MTXVNh3L7h4",
+  "title": "🔥Viral Reel Animation",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 17.1,
+  "cuts": 2.0,
+  "median_cut_s": 15.7,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 15.7,
+   "mean_frame_delta": 31.919,
+   "median_frame_delta": 25.53,
+   "p95_frame_delta": 67.14,
+   "static_ratio": 0.03
+  },
+  "lesson": "lessons/MTXVNh3L7h4.md"
+ },
+ {
+  "id": "NdGhkJNcn7U",
+  "title": "How I Used Claude for Motion Design",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 49.1,
+  "cuts": 16.0,
+  "median_cut_s": 2.6,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 16.0,
+   "median_cut_s": 2.6,
+   "mean_frame_delta": 27.765,
+   "median_frame_delta": 14.259,
+   "p95_frame_delta": 94.796,
+   "static_ratio": 0.062
+  },
+  "lesson": "lessons/NdGhkJNcn7U.md"
+ },
+ {
+  "id": "NoGRmd2qaPY",
+  "title": "HYPERFRAMES PRESENTS: THE BORING REPORT",
+  "system": "broll-essay",
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "visual-read",
+  "runtime": [],
+  "duration_s": 86.4,
+  "cuts": 18.0,
+  "median_cut_s": 3.27,
+  "primitives": [
+   "AI stills assembly",
+   "end-card lockup",
+   "shallow DOF",
+   "teal-orange grade"
+  ],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16",
+  "measured": {
+   "cuts": 18.0,
+   "median_cut_s": 3.27,
+   "mean_frame_delta": 25.458,
+   "median_frame_delta": 19.221,
+   "p95_frame_delta": 73.959,
+   "static_ratio": 0.029
+  },
+  "lesson": "lessons/NoGRmd2qaPY.md"
+ },
+ {
+  "id": "OwDVLnFG7-M",
+  "title": "Who is the GOAT?",
+  "system": null,
+  "capability": [],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 22.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 3.984,
+   "median_frame_delta": 3.707,
+   "p95_frame_delta": 7.172,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/OwDVLnFG7-M.md"
+ },
+ {
+  "id": "P9qT6XtgSI4",
+  "title": "How to create UI animation like Apple Style   Full After Effects Tutorial",
+  "system": null,
+  "capability": [
+   "ui-and-product-motion",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 22.4,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies ui-and-product-motion / animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 17.812,
+   "median_frame_delta": 13.36,
+   "p95_frame_delta": 57.705,
+   "static_ratio": 0.136
+  },
+  "lesson": "lessons/P9qT6XtgSI4.md"
+ },
+ {
+  "id": "Pawe7hLSW9o",
+  "title": "Typography Components: Text - Lesson 7",
+  "system": null,
+  "capability": [
+   "type-system",
+   "data-viz"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 84.9,
+  "cuts": 2.0,
+  "median_cut_s": 54.07,
+  "primitives": [],
+  "use_when": "supplies type-system / data-viz; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 54.07,
+   "mean_frame_delta": 0.74,
+   "median_frame_delta": 0.017,
+   "p95_frame_delta": 0.336,
+   "static_ratio": 0.982
+  },
+  "lesson": "lessons/Pawe7hLSW9o.md"
+ },
+ {
+  "id": "PxzhaOqkE9c",
+  "title": "10x Your Motion Graphics with Code #shorts #aianimation #mot",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 33.8,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz / animation-principles; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 5.856,
+   "median_frame_delta": 1.988,
+   "p95_frame_delta": 20.907,
+   "static_ratio": 0.373
+  },
+  "lesson": "lessons/PxzhaOqkE9c.md"
+ },
+ {
+  "id": "Q6H_fYhn3x0",
+  "title": "🔥3D Camera TEXT ANIMATION After Effects",
+  "system": "3d-camera-text",
+  "capability": [
+   "type-system",
+   "camera-and-depth",
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "1:1",
+  "basis": "visual-read",
+  "runtime": [
+   "hyperframes",
+   "remotion"
+  ],
+  "duration_s": 16.5,
+  "cuts": 14.0,
+  "median_cut_s": 1.0,
+  "primitives": [
+   "extruded 3D type",
+   "ghost-copy motion blur",
+   "loop cycle",
+   "two-frequency camera path"
+  ],
+  "use_when": "supplies type-system / camera-and-depth / extrude-and-3d; continuous pacing; 1:1",
+  "measured": {
+   "cuts": 14.0,
+   "median_cut_s": 1.0,
+   "mean_frame_delta": 73.09,
+   "median_frame_delta": 83.685,
+   "p95_frame_delta": 127.424,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/Q6H_fYhn3x0.md"
+ },
+ {
+  "id": "QRBp9mqDtUw",
+  "title": "Ep 15: Publishing Paint-On Transitions",
+  "system": null,
+  "capability": [
+   "transitions"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 68.2,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies transitions; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 4.723,
+   "median_frame_delta": 0.502,
+   "p95_frame_delta": 19.713,
+   "static_ratio": 0.6
+  },
+  "lesson": "lessons/QRBp9mqDtUw.md"
+ },
+ {
+  "id": "Qaa9NSEpq0w",
+  "title": "La revolución del motion graphics YA ESTÁ AQUÍ",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 47.3,
+  "cuts": 15.0,
+  "median_cut_s": 2.28,
+  "primitives": [],
+  "use_when": "supplies data-viz; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 15.0,
+   "median_cut_s": 2.28,
+   "mean_frame_delta": 22.697,
+   "median_frame_delta": 10.213,
+   "p95_frame_delta": 70.303,
+   "static_ratio": 0.022
+  },
+  "lesson": "lessons/Qaa9NSEpq0w.md"
+ },
+ {
+  "id": "RaGn-CAHCPo",
+  "title": "Bookmark this if you're learning AI motion design",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "talking-head",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 41.8,
+  "cuts": 23.0,
+  "median_cut_s": 1.1,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 9:16; talking head; unverified",
+  "measured": {
+   "cuts": 23.0,
+   "median_cut_s": 1.1,
+   "mean_frame_delta": 45.785,
+   "median_frame_delta": 16.448,
+   "p95_frame_delta": 186.044,
+   "static_ratio": 0.072
+  },
+  "lesson": "lessons/RaGn-CAHCPo.md"
+ },
+ {
+  "id": "Rgkfq5xpiao",
+  "title": "🔥Logo JUMP After Effects",
+  "system": null,
+  "capability": [
+   "logo-animation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 59.5,
+  "cuts": 3.0,
+  "median_cut_s": 28.43,
+  "primitives": [],
+  "use_when": "supplies logo-animation; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 3.0,
+   "median_cut_s": 28.43,
+   "mean_frame_delta": 4.314,
+   "median_frame_delta": 0.364,
+   "p95_frame_delta": 14.715,
+   "static_ratio": 0.678
+  },
+  "lesson": "lessons/Rgkfq5xpiao.md"
+ },
+ {
+  "id": "Rvsi6TDsH2M",
+  "title": "🔥Apple UI animation after effects",
+  "system": null,
+  "capability": [
+   "ui-and-product-motion",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 11.2,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies ui-and-product-motion / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 14.484,
+   "median_frame_delta": 8.331,
+   "p95_frame_delta": 35.657,
+   "static_ratio": 0.19
+  },
+  "lesson": "lessons/Rvsi6TDsH2M.md"
+ },
+ {
+  "id": "U-3WWFDDxLo",
+  "title": "I Built an AI Video Editing System… Here’s How",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 143.4,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; static pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 7.598,
+   "median_frame_delta": 2.116,
+   "p95_frame_delta": 29.668,
+   "static_ratio": 0.329
+  },
+  "lesson": "lessons/U-3WWFDDxLo.md"
+ },
+ {
+  "id": "U-xkcBdc6Nw",
+  "title": "YouTube Video Editing #viral #youtube #youtubeshorts",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 22.7,
+  "cuts": 7.0,
+  "median_cut_s": 3.0,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 3.0,
+   "mean_frame_delta": 26.858,
+   "median_frame_delta": 12.122,
+   "p95_frame_delta": 126.655,
+   "static_ratio": 0.25
+  },
+  "lesson": "lessons/U-xkcBdc6Nw.md"
+ },
+ {
+  "id": "UYshgIfGkOo",
+  "title": "Claude Code can animate in After Effects?!",
+  "system": null,
+  "capability": [
+   "workflow-invocation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 30.9,
+  "cuts": 4.0,
+  "median_cut_s": 5.2,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 5.2,
+   "mean_frame_delta": 8.324,
+   "median_frame_delta": 4.221,
+   "p95_frame_delta": 48.075,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/UYshgIfGkOo.md"
+ },
+ {
+  "id": "UtxfMYGDdFk",
+  "title": "Everyone Assumed This Was After Effects. It Wasn't.",
+  "system": null,
+  "capability": [],
+  "format": "talking-head",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 69.9,
+  "cuts": 5.0,
+  "median_cut_s": 2.71,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; talking head; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 2.71,
+   "mean_frame_delta": 22.763,
+   "median_frame_delta": 18.268,
+   "p95_frame_delta": 50.429,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/UtxfMYGDdFk.md"
+ },
+ {
+  "id": "V4NGcJS5uIo",
+  "title": "🔥Free ORDER SCRIPT for After Effects",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 59.7,
+  "cuts": 4.0,
+  "median_cut_s": 14.86,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 14.86,
+   "mean_frame_delta": 9.841,
+   "median_frame_delta": 2.064,
+   "p95_frame_delta": 46.682,
+   "static_ratio": 0.28
+  },
+  "lesson": "lessons/V4NGcJS5uIo.md"
+ },
+ {
+  "id": "VAbbjYzmPEE",
+  "title": "Ep 39: Embed or Burn In Captions in FCP X",
+  "system": null,
+  "capability": [
+   "captions"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 65.7,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies captions; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.362,
+   "median_frame_delta": 0.478,
+   "p95_frame_delta": 24.793,
+   "static_ratio": 0.708
+  },
+  "lesson": "lessons/VAbbjYzmPEE.md"
+ },
+ {
+  "id": "VPpnrbNnSs8",
+  "title": "Hyperframes Open Source Platform: Build & Share Interactive",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 54.0,
+  "cuts": 8.0,
+  "median_cut_s": 4.37,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 8.0,
+   "median_cut_s": 4.37,
+   "mean_frame_delta": 17.32,
+   "median_frame_delta": 6.658,
+   "p95_frame_delta": 52.245,
+   "static_ratio": 0.243
+  },
+  "lesson": "lessons/VPpnrbNnSs8.md"
+ },
+ {
+  "id": "Yn6uug_qBhM",
+  "title": "Embed or Burn In Captions in Final Cut Pro #finalcutpro  #tu",
+  "system": null,
+  "capability": [
+   "captions",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 50.5,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies captions / editing-cadence; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 6.804,
+   "median_frame_delta": 3.786,
+   "p95_frame_delta": 21.43,
+   "static_ratio": 0.14
+  },
+  "lesson": "lessons/Yn6uug_qBhM.md"
+ },
+ {
+  "id": "Ytw5FKFnSrk",
+  "title": "¡Aprende todas las herramientas y técnicas principales de AF",
+  "system": null,
+  "capability": [],
+  "format": "course-promo",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 77.0,
+  "cuts": 40.0,
+  "median_cut_s": 0.84,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; course promo; unverified",
+  "measured": {
+   "cuts": 40.0,
+   "median_cut_s": 0.84,
+   "mean_frame_delta": 31.949,
+   "median_frame_delta": 21.323,
+   "p95_frame_delta": 87.327,
+   "static_ratio": 0.033
+  },
+  "lesson": "lessons/Ytw5FKFnSrk.md"
+ },
+ {
+  "id": "Yx-1KRcFm6U",
+  "title": "HyperFrames: Add a VS Code Window & Mac Terminal to Any Vide",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "comparison",
+  "pacing": "hold-and-burst",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 37.4,
+  "cuts": 7.0,
+  "median_cut_s": 4.33,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 16:9; comparison; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 4.33,
+   "mean_frame_delta": 25.718,
+   "median_frame_delta": 3.255,
+   "p95_frame_delta": 129.551,
+   "static_ratio": 0.432
+  },
+  "lesson": "lessons/Yx-1KRcFm6U.md"
+ },
+ {
+  "id": "Z2xK0L-YDb0",
+  "title": "I Made a Video Using Only Code with HeyGen's Hyperframes 🤯",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 56.2,
+  "cuts": 5.0,
+  "median_cut_s": 10.94,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 10.94,
+   "mean_frame_delta": 7.982,
+   "median_frame_delta": 2.506,
+   "p95_frame_delta": 25.606,
+   "static_ratio": 0.333
+  },
+  "lesson": "lessons/Z2xK0L-YDb0.md"
+ },
+ {
+  "id": "Z4846Hhk0Sk",
+  "title": "The AI Trick Everyone Is Using #vox #animation #shorts",
+  "system": null,
+  "capability": [
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 70.8,
+  "cuts": 17.0,
+  "median_cut_s": 3.82,
+  "primitives": [],
+  "use_when": "supplies animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 17.0,
+   "median_cut_s": 3.82,
+   "mean_frame_delta": 21.386,
+   "median_frame_delta": 11.813,
+   "p95_frame_delta": 70.651,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/Z4846Hhk0Sk.md"
+ },
+ {
+  "id": "ZIYnjS-xWlM",
+  "title": "Ep 48 Animated Text Highlights in FCPX",
+  "system": null,
+  "capability": [
+   "type-system",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 67.5,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies type-system / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.325,
+   "median_frame_delta": 0.421,
+   "p95_frame_delta": 22.238,
+   "static_ratio": 0.627
+  },
+  "lesson": "lessons/ZIYnjS-xWlM.md"
+ },
+ {
+  "id": "ZVWMwp68aVg",
+  "title": "YouTube Video Editing Class #viral #yshorts #youtube",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 29.3,
+  "cuts": 5.0,
+  "median_cut_s": 2.22,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 2.22,
+   "mean_frame_delta": 12.022,
+   "median_frame_delta": 7.839,
+   "p95_frame_delta": 55.236,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/ZVWMwp68aVg.md"
+ },
+ {
+  "id": "_WCJ0dAf0qE",
+  "title": "🔥Smooth 3D Camera movement in After Effects",
+  "system": null,
+  "capability": [
+   "camera-and-depth",
+   "extrude-and-3d"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 8.5,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies camera-and-depth / extrude-and-3d; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 31.56,
+   "median_frame_delta": 30.768,
+   "p95_frame_delta": 47.907,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/_WCJ0dAf0qE.md"
+ },
+ {
+  "id": "_sXy3d7atRs",
+  "title": "motivational video edited by samrin #reelseditor #motiongrap",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 55.9,
+  "cuts": 11.0,
+  "median_cut_s": 4.19,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 11.0,
+   "median_cut_s": 4.19,
+   "mean_frame_delta": 23.638,
+   "median_frame_delta": 16.054,
+   "p95_frame_delta": 74.163,
+   "static_ratio": 0.018
+  },
+  "lesson": "lessons/_sXy3d7atRs.md"
+ },
+ {
+  "id": "aNZeXQmVOjQ",
+  "title": "How to Use HyperFrames in HeyGen's AI Video Agent",
+  "system": "editorial-card",
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "hold-and-burst",
+  "shape": "16:9",
+  "basis": "visual-read",
+  "runtime": [
+   "hyperframes",
+   "remotion"
+  ],
+  "duration_s": 66.5,
+  "cuts": 10.0,
+  "median_cut_s": 8.18,
+  "primitives": [
+   "candy frame",
+   "crop marks",
+   "micro-label register",
+   "pun headline",
+   "single bar chart",
+   "whip blur"
+  ],
+  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 16:9; demo walkthrough",
+  "measured": {
+   "cuts": 10.0,
+   "median_cut_s": 8.18,
+   "mean_frame_delta": 26.172,
+   "median_frame_delta": 4.705,
+   "p95_frame_delta": 108.35,
+   "static_ratio": 0.091
+  },
+  "lesson": "lessons/aNZeXQmVOjQ.md"
+ },
+ {
+  "id": "bMSnD47XAuk",
+  "title": "🔥Motion Graphics Reel #editlikeapro #motiondesigner #motiongraphics",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 21.8,
+  "cuts": 2.0,
+  "median_cut_s": 10.9,
+  "primitives": [],
+  "use_when": "supplies data-viz / loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 10.9,
+   "mean_frame_delta": 27.963,
+   "median_frame_delta": 27.363,
+   "p95_frame_delta": 60.75,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/bMSnD47XAuk.md"
+ },
+ {
+  "id": "bRpEwZ9w6-w",
+  "title": "🔥How to Edit 3D Viral Reels",
+  "system": null,
+  "capability": [
+   "extrude-and-3d",
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 21.0,
+  "cuts": 2.0,
+  "median_cut_s": 12.57,
+  "primitives": [],
+  "use_when": "supplies extrude-and-3d / loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 12.57,
+   "mean_frame_delta": 27.915,
+   "median_frame_delta": 19.001,
+   "p95_frame_delta": 71.998,
+   "static_ratio": 0.049
+  },
+  "lesson": "lessons/bRpEwZ9w6-w.md"
+ },
+ {
+  "id": "cTAm7DsWW20",
+  "title": "Free Remotion + Claude Code Alternative 🤯 (100% Local) #Shor",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 30.1,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 7.483,
+   "median_frame_delta": 2.553,
+   "p95_frame_delta": 21.622,
+   "static_ratio": 0.034
+  },
+  "lesson": "lessons/cTAm7DsWW20.md"
+ },
+ {
+  "id": "d1MonWlzC48",
+  "title": "Ep 41: Animating a Flower in Motion",
+  "system": null,
+  "capability": [
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 69.2,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies animation-principles; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 4.712,
+   "median_frame_delta": 0.22,
+   "p95_frame_delta": 23.867,
+   "static_ratio": 0.642
+  },
+  "lesson": "lessons/d1MonWlzC48.md"
+ },
+ {
+  "id": "d6EVIGiRWik",
+  "title": "How to make Split Screen transition after effects tutorial",
+  "system": null,
+  "capability": [
+   "transitions"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 12.1,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies transitions; static pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 7.896,
+   "median_frame_delta": 2.658,
+   "p95_frame_delta": 20.311,
+   "static_ratio": 0.391
+  },
+  "lesson": "lessons/d6EVIGiRWik.md"
+ },
+ {
+  "id": "f8mE8RZyICI",
+  "title": "How To Make Animations Using ReelCraft AI",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 46.4,
+  "cuts": 7.0,
+  "median_cut_s": 5.21,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 5.21,
+   "mean_frame_delta": 18.068,
+   "median_frame_delta": 6.938,
+   "p95_frame_delta": 85.352,
+   "static_ratio": 0.098
+  },
+  "lesson": "lessons/f8mE8RZyICI.md"
+ },
+ {
+  "id": "fHZidlnJIV4",
+  "title": "Liquid glass animation like Apple",
+  "system": null,
+  "capability": [
+   "liquid-glass",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 18.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies liquid-glass / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 15.537,
+   "median_frame_delta": 15.288,
+   "p95_frame_delta": 21.681,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/fHZidlnJIV4.md"
+ },
+ {
+  "id": "ff9wM-ANse0",
+  "title": "Viral Neon Effect",
+  "system": null,
+  "capability": [
+   "loop-construction"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 20.9,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.044,
+   "median_frame_delta": 3.672,
+   "p95_frame_delta": 8.207,
+   "static_ratio": 0.293
+  },
+  "lesson": "lessons/ff9wM-ANse0.md"
+ },
+ {
+  "id": "getK6x-MepU",
+  "title": "Hyperframes Catalog: Never Start From Scratch Again",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 57.0,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 8.194,
+   "median_frame_delta": 4.345,
+   "p95_frame_delta": 27.448,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/getK6x-MepU.md"
+ },
+ {
+  "id": "gwJxE--IS0A",
+  "title": "The old way of editing videos is over...HyperFrames + AI jus",
+  "system": null,
+  "capability": [
+   "editing-cadence",
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 54.9,
+  "cuts": 6.0,
+  "median_cut_s": 5.94,
+  "primitives": [],
+  "use_when": "supplies editing-cadence / workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 6.0,
+   "median_cut_s": 5.94,
+   "mean_frame_delta": 12.309,
+   "median_frame_delta": 7.962,
+   "p95_frame_delta": 51.034,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/gwJxE--IS0A.md"
+ },
+ {
+  "id": "hmk9nkwzLrc",
+  "title": "🔥Viral Reels Editing 🔒Bloqueo  Creativo  #viralreels #tiktokvideos #viralreel",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 10.7,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 21.741,
+   "median_frame_delta": 22.845,
+   "p95_frame_delta": 43.785,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/hmk9nkwzLrc.md"
+ },
+ {
+  "id": "iCJXowra3x8",
+  "title": "Claude can make animated videos now? 🤯👀 #Claude #MotionGraph",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "workflow-invocation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 42.5,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz / workflow-invocation / animation-principles; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 4.534,
+   "median_frame_delta": 2.456,
+   "p95_frame_delta": 14.047,
+   "static_ratio": 0.024
+  },
+  "lesson": "lessons/iCJXowra3x8.md"
+ },
+ {
+  "id": "jT0zCngmnpM",
+  "title": "🤔¿Cuál es tu software de animación favorito?  #motiondesigner #motiongraphics #aftereffect",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 12.2,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 9.385,
+   "median_frame_delta": 0.983,
+   "p95_frame_delta": 52.07,
+   "static_ratio": 0.522
+  },
+  "lesson": "lessons/jT0zCngmnpM.md"
+ },
+ {
+  "id": "jy0Stu4I65I",
+  "title": "Here's how you can use Claude without burning through your c",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "talking-head",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 45.5,
+  "cuts": 28.0,
+  "median_cut_s": 1.24,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 9:16; talking head; unverified",
+  "measured": {
+   "cuts": 28.0,
+   "median_cut_s": 1.24,
+   "mean_frame_delta": 36.269,
+   "median_frame_delta": 15.519,
+   "p95_frame_delta": 127.458,
+   "static_ratio": 0.033
+  },
+  "lesson": "lessons/jy0Stu4I65I.md"
+ },
+ {
+  "id": "k2e8WnvTCiI",
+  "title": "🔥How to edit documentary style videos in After Effects",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 46.5,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.318,
+   "median_frame_delta": 3.089,
+   "p95_frame_delta": 10.389,
+   "static_ratio": 0.033
+  },
+  "lesson": "lessons/k2e8WnvTCiI.md"
+ },
+ {
+  "id": "kOoAnPnb9ME",
+  "title": "How to edit like MagnatesMedia in After Effects Full Guide",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 20.9,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 10.429,
+   "median_frame_delta": 7.89,
+   "p95_frame_delta": 21.019,
+   "static_ratio": 0.024
+  },
+  "lesson": "lessons/kOoAnPnb9ME.md"
+ },
+ {
+  "id": "klcpQA-BWY0",
+  "title": "How to Use Remotion to Automate CapCut Text Animation (Viral",
+  "system": null,
+  "capability": [
+   "type-system",
+   "loop-construction",
+   "editing-cadence",
+   "workflow-invocation",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 137.6,
+  "cuts": 4.0,
+  "median_cut_s": 6.27,
+  "primitives": [],
+  "use_when": "supplies type-system / loop-construction / editing-cadence; static pacing; 16:9; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 6.27,
+   "mean_frame_delta": 7.949,
+   "median_frame_delta": 4.915,
+   "p95_frame_delta": 22.929,
+   "static_ratio": 0.263
+  },
+  "lesson": "lessons/klcpQA-BWY0.md"
+ },
+ {
+  "id": "kxuA_QkPSDM",
+  "title": "HeyGen’s New AI Video Tools: 30-Minute Avatars, Keyframe Ani",
+  "system": null,
+  "capability": [],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 87.3,
+  "cuts": 24.0,
+  "median_cut_s": 2.12,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 24.0,
+   "median_cut_s": 2.12,
+   "mean_frame_delta": 20.244,
+   "median_frame_delta": 4.349,
+   "p95_frame_delta": 108.147,
+   "static_ratio": 0.11
+  },
+  "lesson": "lessons/kxuA_QkPSDM.md"
+ },
+ {
+  "id": "llNAdLPXMYk",
+  "title": "Hyperframes: Turn HTML Into Video with Hermes",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "1:1",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 41.0,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 1:1; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 5.11,
+   "median_frame_delta": 2.019,
+   "p95_frame_delta": 20.303,
+   "static_ratio": 0.259
+  },
+  "lesson": "lessons/llNAdLPXMYk.md"
+ },
+ {
+  "id": "mQmyQZRGQJ4",
+  "title": "Code Your Videos in HTML With ZERO Editing",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 130.9,
+  "cuts": 25.0,
+  "median_cut_s": 2.82,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; hold-and-burst pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 25.0,
+   "median_cut_s": 2.82,
+   "mean_frame_delta": 18.476,
+   "median_frame_delta": 4.717,
+   "p95_frame_delta": 136.187,
+   "static_ratio": 0.069
+  },
+  "lesson": "lessons/mQmyQZRGQJ4.md"
+ },
+ {
+  "id": "mSlzJqMZu2Y",
+  "title": "AI Updates: ChatGPT Interactive Tools, Claude Cuts Costs 75%",
+  "system": null,
+  "capability": [
+   "editing-cadence",
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 48.8,
+  "cuts": 13.0,
+  "median_cut_s": 3.34,
+  "primitives": [],
+  "use_when": "supplies editing-cadence / workflow-invocation; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 13.0,
+   "median_cut_s": 3.34,
+   "mean_frame_delta": 20.55,
+   "median_frame_delta": 9.911,
+   "p95_frame_delta": 80.059,
+   "static_ratio": 0.041
+  },
+  "lesson": "lessons/mSlzJqMZu2Y.md"
+ },
+ {
+  "id": "mWhxJPiizXI",
+  "title": "How to become a Motion Graphics Designer",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 48.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 13.413,
+   "median_frame_delta": 12.033,
+   "p95_frame_delta": 35.667,
+   "static_ratio": 0.011
+  },
+  "lesson": "lessons/mWhxJPiizXI.md"
+ },
+ {
+  "id": "maHR11JFOFk",
+  "title": "The BEST keyboard for video editing with #davinciresolve",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 42.1,
+  "cuts": 9.0,
+  "median_cut_s": 2.36,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 2.36,
+   "mean_frame_delta": 16.513,
+   "median_frame_delta": 12.508,
+   "p95_frame_delta": 46.801,
+   "static_ratio": 0.036
+  },
+  "lesson": "lessons/maHR11JFOFk.md"
+ },
+ {
+  "id": "me3sFZCXxlg",
+  "title": "How to Animate like MagnatesMedia",
+  "system": null,
+  "capability": [
+   "editing-cadence",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 16.0,
+  "cuts": 2.0,
+  "median_cut_s": 15.0,
+  "primitives": [],
+  "use_when": "supplies editing-cadence / animation-principles; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 15.0,
+   "mean_frame_delta": 7.779,
+   "median_frame_delta": 4.717,
+   "p95_frame_delta": 21.599,
+   "static_ratio": 0.226
+  },
+  "lesson": "lessons/me3sFZCXxlg.md"
+ },
+ {
+  "id": "n-vhkZJe6fw",
+  "title": "Ep 63 Animating a Light in Motion",
+  "system": null,
+  "capability": [
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 68.6,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 6.117,
+   "median_frame_delta": 0.461,
+   "p95_frame_delta": 35.77,
+   "static_ratio": 0.581
+  },
+  "lesson": "lessons/n-vhkZJe6fw.md"
+ },
+ {
+  "id": "n8TUH9j116U",
+  "title": "Create any After Effects 3D model with AI",
+  "system": null,
+  "capability": [
+   "extrude-and-3d"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 97.2,
+  "cuts": 6.0,
+  "median_cut_s": 3.5,
+  "primitives": [],
+  "use_when": "supplies extrude-and-3d; continuous pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 6.0,
+   "median_cut_s": 3.5,
+   "mean_frame_delta": 6.112,
+   "median_frame_delta": 0.957,
+   "p95_frame_delta": 30.928,
+   "static_ratio": 0.503
+  },
+  "lesson": "lessons/n8TUH9j116U.md"
+ },
+ {
+  "id": "nkcbLo4DaYE",
+  "title": "Animate Line Graphs Like Cleo Abram After Effects Tutorial",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 57.4,
+  "cuts": 5.0,
+  "median_cut_s": 7.5,
+  "primitives": [],
+  "use_when": "supplies data-viz / animation-principles; static pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 5.0,
+   "median_cut_s": 7.5,
+   "mean_frame_delta": 7.164,
+   "median_frame_delta": 1.532,
+   "p95_frame_delta": 19.258,
+   "static_ratio": 0.325
+  },
+  "lesson": "lessons/nkcbLo4DaYE.md"
+ },
+ {
+  "id": "okFBYF1N3Dg",
+  "title": "Blender + Claude Code = Insane Animations",
+  "system": null,
+  "capability": [
+   "workflow-invocation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 71.7,
+  "cuts": 7.0,
+  "median_cut_s": 3.75,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation / animation-principles; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 3.75,
+   "mean_frame_delta": 11.911,
+   "median_frame_delta": 5.15,
+   "p95_frame_delta": 40.038,
+   "static_ratio": 0.007
+  },
+  "lesson": "lessons/okFBYF1N3Dg.md"
+ },
+ {
+  "id": "owheCZ1yJNA",
+  "title": "Ep 57 Animating with Transitions in FCP",
+  "system": null,
+  "capability": [
+   "transitions",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 71.4,
+  "cuts": 4.0,
+  "median_cut_s": 10.33,
+  "primitives": [],
+  "use_when": "supplies transitions / animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 10.33,
+   "mean_frame_delta": 7.825,
+   "median_frame_delta": 0.441,
+   "p95_frame_delta": 45.498,
+   "static_ratio": 0.57
+  },
+  "lesson": "lessons/owheCZ1yJNA.md"
+ },
+ {
+  "id": "p8F-X-56iAY",
+  "title": "How To Use Viggle AI For Viral Animations And Memes!",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 35.2,
+  "cuts": 10.0,
+  "median_cut_s": 3.01,
+  "primitives": [],
+  "use_when": "supplies loop-construction / ai-video-generation / animation-principles; hold-and-burst pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 10.0,
+   "median_cut_s": 3.01,
+   "mean_frame_delta": 27.209,
+   "median_frame_delta": 11.034,
+   "p95_frame_delta": 127.954,
+   "static_ratio": 0.13
+  },
+  "lesson": "lessons/p8F-X-56iAY.md"
+ },
+ {
+  "id": "pAZQ-L7skFY",
+  "title": "3D Viral Reels  #aftereffectstutorial #viralreels #motiongraphics",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "extrude-and-3d",
+   "loop-construction"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 8.1,
+  "cuts": 3.0,
+  "median_cut_s": 1.4,
+  "primitives": [],
+  "use_when": "supplies data-viz / extrude-and-3d / loop-construction; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 3.0,
+   "median_cut_s": 1.4,
+   "mean_frame_delta": 55.072,
+   "median_frame_delta": 35.335,
+   "p95_frame_delta": 134.112,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/pAZQ-L7skFY.md"
+ },
+ {
+  "id": "p_zd6TbrFcc",
+  "title": "🔥Become a Motion Graphics Designer #aftereffectstutorial #3dcompositing #motiongraphics",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 30.4,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 38.269,
+   "median_frame_delta": 37.94,
+   "p95_frame_delta": 48.899,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/p_zd6TbrFcc.md"
+ },
+ {
+  "id": "pgQuGENPIFU",
+  "title": "😲 VIRAL Outline Text Effect Animation 😲",
+  "system": null,
+  "capability": [
+   "loop-construction",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 157.3,
+  "cuts": 4.0,
+  "median_cut_s": 25.9,
+  "primitives": [],
+  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 4.0,
+   "median_cut_s": 25.9,
+   "mean_frame_delta": 12.29,
+   "median_frame_delta": 8.65,
+   "p95_frame_delta": 32.591,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/pgQuGENPIFU.md"
+ },
+ {
+  "id": "q3JpTqQp0YQ",
+  "title": "Animate Any Image! (Runway ML)",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 31.5,
+  "cuts": 9.0,
+  "median_cut_s": 2.38,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 9.0,
+   "median_cut_s": 2.38,
+   "mean_frame_delta": 26.202,
+   "median_frame_delta": 9.675,
+   "p95_frame_delta": 125.55,
+   "static_ratio": 0.177
+  },
+  "lesson": "lessons/q3JpTqQp0YQ.md"
+ },
+ {
+  "id": "qSv_P_acE_o",
+  "title": "Typography Components: Heading - Lesson 8",
+  "system": null,
+  "capability": [
+   "type-system",
+   "data-viz"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 78.0,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies type-system / data-viz; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 1.124,
+   "median_frame_delta": 0.04,
+   "p95_frame_delta": 2.737,
+   "static_ratio": 0.832
+  },
+  "lesson": "lessons/qSv_P_acE_o.md"
+ },
+ {
+  "id": "rAZBn6Ai2k4",
+  "title": "Ep 83 Avoiding Forced Transitions in FCP",
+  "system": null,
+  "capability": [
+   "transitions"
+  ],
+  "format": "channel-episode",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 62.7,
+  "cuts": 2.0,
+  "median_cut_s": 8.35,
+  "primitives": [],
+  "use_when": "supplies transitions; static pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 2.0,
+   "median_cut_s": 8.35,
+   "mean_frame_delta": 4.117,
+   "median_frame_delta": 0.039,
+   "p95_frame_delta": 18.659,
+   "static_ratio": 0.702
+  },
+  "lesson": "lessons/rAZBn6Ai2k4.md"
+ },
+ {
+  "id": "rglfuEehdSY",
+  "title": "How to learn motion graphics in After Effects",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 11.0,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 12.304,
+   "median_frame_delta": 6.211,
+   "p95_frame_delta": 35.43,
+   "static_ratio": 0.048
+  },
+  "lesson": "lessons/rglfuEehdSY.md"
+ },
+ {
+  "id": "soJRgpL6238",
+  "title": "¡Aprende AFTER EFFECTS! Así es el módulo 1 del próximo curso",
+  "system": null,
+  "capability": [],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 81.6,
+  "cuts": 45.0,
+  "median_cut_s": 1.32,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; channel episode; unverified",
+  "measured": {
+   "cuts": 45.0,
+   "median_cut_s": 1.32,
+   "mean_frame_delta": 31.743,
+   "median_frame_delta": 18.023,
+   "p95_frame_delta": 89.623,
+   "static_ratio": 0.019
+  },
+  "lesson": "lessons/soJRgpL6238.md"
+ },
+ {
+  "id": "t5rLzpXZ5o8",
+  "title": "🚀How to Edit Documentary Style Videos",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 47.4,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 8.821,
+   "median_frame_delta": 7.695,
+   "p95_frame_delta": 18.658,
+   "static_ratio": 0.138
+  },
+  "lesson": "lessons/t5rLzpXZ5o8.md"
+ },
+ {
+  "id": "tCO0dH5otcY",
+  "title": "ai is editing my video with motion graphics! Check out my re",
+  "system": null,
+  "capability": [
+   "data-viz",
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 18.4,
+  "cuts": 3.0,
+  "median_cut_s": 7.42,
+  "primitives": [],
+  "use_when": "supplies data-viz / editing-cadence; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 3.0,
+   "median_cut_s": 7.42,
+   "mean_frame_delta": 18.362,
+   "median_frame_delta": 15.01,
+   "p95_frame_delta": 42.45,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/tCO0dH5otcY.md"
+ },
+ {
+  "id": "tR7wRshIsX8",
+  "title": "HyperFrames HDR (HeyGen): Render True HDR Videos",
+  "system": null,
+  "capability": [
+   "workflow-invocation",
+   "export-and-technical"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 37.0,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation / export-and-technical; continuous pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 16.704,
+   "median_frame_delta": 10.662,
+   "p95_frame_delta": 63.78,
+   "static_ratio": 0.26
+  },
+  "lesson": "lessons/tR7wRshIsX8.md"
+ },
+ {
+  "id": "vg2bNzJ4K-o",
+  "title": "HeyGen HyperFrames: Complete Usage Guide",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "demo-walkthrough",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 148.3,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 9:16; demo walkthrough; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 4.171,
+   "median_frame_delta": 0.796,
+   "p95_frame_delta": 15.276,
+   "static_ratio": 0.514
+  },
+  "lesson": "lessons/vg2bNzJ4K-o.md"
+ },
+ {
+  "id": "vpGBQ5y9FIM",
+  "title": "DOMINA los efectos visuales con #aftereffects #vfx",
+  "system": null,
+  "capability": [
+   "glitch-and-distortion"
+  ],
+  "format": "course-promo",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 90.0,
+  "cuts": 58.0,
+  "median_cut_s": 0.96,
+  "primitives": [],
+  "use_when": "supplies glitch-and-distortion; continuous pacing; 9:16; course promo; unverified",
+  "measured": {
+   "cuts": 58.0,
+   "median_cut_s": 0.96,
+   "mean_frame_delta": 35.503,
+   "median_frame_delta": 26.36,
+   "p95_frame_delta": 89.78,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/vpGBQ5y9FIM.md"
+ },
+ {
+  "id": "wMwP3cgsDWo",
+  "title": "Ep 45 3D Animated 3D Text Reflections",
+  "system": null,
+  "capability": [
+   "extrude-and-3d",
+   "animation-principles"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 58.6,
+  "cuts": 0.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies extrude-and-3d / animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 0.0,
+   "mean_frame_delta": 6.186,
+   "median_frame_delta": 0.69,
+   "p95_frame_delta": 34.011,
+   "static_ratio": 0.526
+  },
+  "lesson": "lessons/wMwP3cgsDWo.md"
+ },
+ {
+  "id": "xHdHoejEuSg",
+  "title": "How to make videos using HeyGen's Video Agent API inside Cla",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 136.9,
+  "cuts": 7.0,
+  "median_cut_s": 9.73,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; static pacing; 16:9; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 9.73,
+   "mean_frame_delta": 8.129,
+   "median_frame_delta": 2.623,
+   "p95_frame_delta": 24.887,
+   "static_ratio": 0.322
+  },
+  "lesson": "lessons/xHdHoejEuSg.md"
+ },
+ {
+  "id": "x_54BAsE1VE",
+  "title": "Simple AI Hack for Animation Channels #ai #animation #tips",
+  "system": null,
+  "capability": [
+   "ai-video-generation",
+   "animation-principles"
+  ],
+  "format": "reel-example",
+  "pacing": "hold-and-burst",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 54.1,
+  "cuts": 15.0,
+  "median_cut_s": 3.32,
+  "primitives": [],
+  "use_when": "supplies ai-video-generation / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 15.0,
+   "median_cut_s": 3.32,
+   "mean_frame_delta": 19.577,
+   "median_frame_delta": 4.528,
+   "p95_frame_delta": 123.071,
+   "static_ratio": 0.131
+  },
+  "lesson": "lessons/x_54BAsE1VE.md"
+ },
+ {
+  "id": "xiLGX1Z3nbE",
+  "title": "Diseñador e ilustrador: ¡da el salto a Motion Graphics con A",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 100.2,
+  "cuts": 60.0,
+  "median_cut_s": 0.88,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 60.0,
+   "median_cut_s": 0.88,
+   "mean_frame_delta": 32.88,
+   "median_frame_delta": 23.94,
+   "p95_frame_delta": 96.604,
+   "static_ratio": 0.035
+  },
+  "lesson": "lessons/xiLGX1Z3nbE.md"
+ },
+ {
+  "id": "y1QxnmfQsqk",
+  "title": "Samrin Edits #videoediting #creativecontentcreator #shorts #",
+  "system": null,
+  "capability": [
+   "editing-cadence"
+  ],
+  "format": "reel-example",
+  "pacing": "static",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 56.7,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies editing-cadence; static pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 6.587,
+   "median_frame_delta": 4.925,
+   "p95_frame_delta": 18.851,
+   "static_ratio": 0.045
+  },
+  "lesson": "lessons/y1QxnmfQsqk.md"
+ },
+ {
+  "id": "y1y5gSfVGko",
+  "title": "Ep 74 Email Motion Graphics with Alpha Channel",
+  "system": null,
+  "capability": [
+   "data-viz"
+  ],
+  "format": "channel-episode",
+  "pacing": "continuous",
+  "shape": "16:9",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 60.3,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies data-viz; continuous pacing; 16:9; channel episode; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 7.046,
+   "median_frame_delta": 0.807,
+   "p95_frame_delta": 38.044,
+   "static_ratio": 0.525
+  },
+  "lesson": "lessons/y1y5gSfVGko.md"
+ },
+ {
+  "id": "ythRPCzx4e8",
+  "title": "🔥How to Create a SaaS Explainer Ad in After Effects",
+  "system": null,
+  "capability": [
+   "ui-and-product-motion"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 24.4,
+  "cuts": 3.0,
+  "median_cut_s": 5.67,
+  "primitives": [],
+  "use_when": "supplies ui-and-product-motion; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 3.0,
+   "median_cut_s": 5.67,
+   "mean_frame_delta": 10.26,
+   "median_frame_delta": 1.904,
+   "p95_frame_delta": 56.681,
+   "static_ratio": 0.292
+  },
+  "lesson": "lessons/ythRPCzx4e8.md"
+ },
+ {
+  "id": "zb_nj_06I_w",
+  "title": "Claude Fable 5 Mythos INCREDIBILE: mi ha montato questo Vide",
+  "system": null,
+  "capability": [
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 93.6,
+  "cuts": 7.0,
+  "median_cut_s": 5.28,
+  "primitives": [],
+  "use_when": "supplies workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 7.0,
+   "median_cut_s": 5.28,
+   "mean_frame_delta": 17.406,
+   "median_frame_delta": 13.027,
+   "p95_frame_delta": 45.821,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/zb_nj_06I_w.md"
+ },
+ {
+  "id": "zipjTtkONUo",
+  "title": "HyperFrames Auto-Adds Sound Effects + Music #AI #AIAvatar #H",
+  "system": null,
+  "capability": [
+   "beat-sync",
+   "workflow-invocation"
+  ],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 36.6,
+  "cuts": 1.0,
+  "median_cut_s": null,
+  "primitives": [],
+  "use_when": "supplies beat-sync / workflow-invocation; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 1.0,
+   "mean_frame_delta": 15.379,
+   "median_frame_delta": 11.179,
+   "p95_frame_delta": 45.127,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/zipjTtkONUo.md"
+ },
+ {
+  "id": "zrKSBDRq1nw",
+  "title": "Aesthetic life",
+  "system": null,
+  "capability": [],
+  "format": "reel-example",
+  "pacing": "continuous",
+  "shape": "9:16",
+  "basis": "metadata-only",
+  "runtime": [],
+  "duration_s": 21.8,
+  "cuts": 14.0,
+  "median_cut_s": 1.4,
+  "primitives": [],
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
+  "measured": {
+   "cuts": 14.0,
+   "median_cut_s": 1.4,
+   "mean_frame_delta": 37.543,
+   "median_frame_delta": 32.545,
+   "p95_frame_delta": 80.503,
+   "static_ratio": 0.0
+  },
+  "lesson": "lessons/zrKSBDRq1nw.md"
+ }
+]
