@@ -4,9 +4,10 @@
   "title": "Smooth 3D Camera animation",
   "system": null,
   "capability": [
+   "animation-principles",
    "camera-and-depth",
    "extrude-and-3d",
-   "animation-principles"
+   "loop-construction"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -17,7 +18,7 @@
   "cuts": 15.0,
   "median_cut_s": 1.0,
   "primitives": [],
-  "use_when": "supplies camera-and-depth / extrude-and-3d / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / camera-and-depth / extrude-and-3d; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 15.0,
    "median_cut_s": 1.0,
@@ -26,7 +27,8 @@
    "p95_frame_delta": 65.639,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/-C1IrekULXE.md"
+  "lesson": "lessons/-C1IrekULXE.md",
+  "loop_verified": true
  },
  {
   "id": "-lSsgm-wVdU",
@@ -54,15 +56,16 @@
    "p95_frame_delta": 64.031,
    "static_ratio": 0.099
   },
-  "lesson": "lessons/-lSsgm-wVdU.md"
+  "lesson": "lessons/-lSsgm-wVdU.md",
+  "loop_verified": false
  },
  {
   "id": "-qHdnUBOS88",
   "title": "Ep 33: Creating an Animated Grid in Motion",
   "system": null,
   "capability": [
-   "grid-and-layout",
-   "animation-principles"
+   "animation-principles",
+   "grid-and-layout"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -73,7 +76,7 @@
   "cuts": 2.0,
   "median_cut_s": 5.77,
   "primitives": [],
-  "use_when": "supplies grid-and-layout / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / grid-and-layout; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 5.77,
@@ -82,14 +85,14 @@
    "p95_frame_delta": 24.756,
    "static_ratio": 0.55
   },
-  "lesson": "lessons/-qHdnUBOS88.md"
+  "lesson": "lessons/-qHdnUBOS88.md",
+  "loop_verified": false
  },
  {
   "id": "0Mxn45UZw2E",
   "title": "🔥How to edit viral reels in After Effects [The COMPLETE Guide]",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "demo-walkthrough",
@@ -101,7 +104,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; static pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies editing-cadence; static pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 4.644,
@@ -109,16 +112,15 @@
    "p95_frame_delta": 13.667,
    "static_ratio": 0.053
   },
-  "lesson": "lessons/0Mxn45UZw2E.md"
+  "lesson": "lessons/0Mxn45UZw2E.md",
+  "loop_verified": false
  },
  {
   "id": "1logZo2iPpY",
   "title": "🔥3D Viral Reel #aftereffectstutorial #viralreels #motiongraphics",
   "system": null,
   "capability": [
-   "data-viz",
-   "extrude-and-3d",
-   "loop-construction"
+   "extrude-and-3d"
   ],
   "format": "demo-walkthrough",
   "pacing": "continuous",
@@ -129,7 +131,7 @@
   "cuts": 2.0,
   "median_cut_s": 6.93,
   "primitives": [],
-  "use_when": "supplies data-viz / extrude-and-3d / loop-construction; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies extrude-and-3d; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 6.93,
@@ -138,7 +140,8 @@
    "p95_frame_delta": 82.637,
    "static_ratio": 0.054
   },
-  "lesson": "lessons/1logZo2iPpY.md"
+  "lesson": "lessons/1logZo2iPpY.md",
+  "loop_verified": false
  },
  {
   "id": "2b4LjglXJvs",
@@ -165,14 +168,14 @@
    "p95_frame_delta": 33.487,
    "static_ratio": 0.591
   },
-  "lesson": "lessons/2b4LjglXJvs.md"
+  "lesson": "lessons/2b4LjglXJvs.md",
+  "loop_verified": false
  },
  {
   "id": "3DZYbsSwOeU",
   "title": "Every Cut Tells A Story: Behind The Timeline #reelseditor #v",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -184,7 +187,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 11.141,
@@ -192,15 +195,16 @@
    "p95_frame_delta": 14.166,
    "static_ratio": 0.111
   },
-  "lesson": "lessons/3DZYbsSwOeU.md"
+  "lesson": "lessons/3DZYbsSwOeU.md",
+  "loop_verified": false
  },
  {
   "id": "3Gf_8827t7o",
   "title": "🔥Viral reel animation",
   "system": null,
   "capability": [
-   "loop-construction",
-   "animation-principles"
+   "animation-principles",
+   "loop-construction"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -211,7 +215,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / loop-construction; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 6.326,
@@ -219,7 +223,8 @@
    "p95_frame_delta": 15.199,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/3Gf_8827t7o.md"
+  "lesson": "lessons/3Gf_8827t7o.md",
+  "loop_verified": true
  },
  {
   "id": "3u1cG41D0yE",
@@ -246,15 +251,16 @@
    "p95_frame_delta": 46.423,
    "static_ratio": 0.694
   },
-  "lesson": "lessons/3u1cG41D0yE.md"
+  "lesson": "lessons/3u1cG41D0yE.md",
+  "loop_verified": false
  },
  {
   "id": "4ht2Afy4ykQ",
   "title": "Ep 35: Animate a Color Mask in FCP X",
   "system": null,
   "capability": [
-   "color-and-mask",
-   "animation-principles"
+   "animation-principles",
+   "color-and-mask"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -265,7 +271,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies color-and-mask / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / color-and-mask; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 5.55,
@@ -273,7 +279,8 @@
    "p95_frame_delta": 29.019,
    "static_ratio": 0.717
   },
-  "lesson": "lessons/4ht2Afy4ykQ.md"
+  "lesson": "lessons/4ht2Afy4ykQ.md",
+  "loop_verified": false
  },
  {
   "id": "4io5r4hw8DA",
@@ -300,14 +307,14 @@
    "p95_frame_delta": 83.357,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/4io5r4hw8DA.md"
+  "lesson": "lessons/4io5r4hw8DA.md",
+  "loop_verified": false
  },
  {
   "id": "6ZIGjG9mX0M",
   "title": "🔥Viral Reels Editing #viralreels #tiktokvideos #viralreel",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -319,7 +326,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 24.292,
@@ -327,7 +334,8 @@
    "p95_frame_delta": 55.597,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/6ZIGjG9mX0M.md"
+  "lesson": "lessons/6ZIGjG9mX0M.md",
+  "loop_verified": false
  },
  {
   "id": "7TI2LgS1y0g",
@@ -354,15 +362,16 @@
    "p95_frame_delta": 29.92,
    "static_ratio": 0.286
   },
-  "lesson": "lessons/7TI2LgS1y0g.md"
+  "lesson": "lessons/7TI2LgS1y0g.md",
+  "loop_verified": false
  },
  {
   "id": "7h7dU9dzu7E",
   "title": "Ep 52 Create a 3D Object Transition",
   "system": null,
   "capability": [
-   "transitions",
-   "extrude-and-3d"
+   "extrude-and-3d",
+   "transitions"
   ],
   "format": "channel-episode",
   "pacing": "continuous",
@@ -373,7 +382,7 @@
   "cuts": 3.0,
   "median_cut_s": 26.28,
   "primitives": [],
-  "use_when": "supplies transitions / extrude-and-3d; continuous pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies extrude-and-3d / transitions; continuous pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 3.0,
    "median_cut_s": 26.28,
@@ -382,7 +391,8 @@
    "p95_frame_delta": 35.418,
    "static_ratio": 0.419
   },
-  "lesson": "lessons/7h7dU9dzu7E.md"
+  "lesson": "lessons/7h7dU9dzu7E.md",
+  "loop_verified": false
  },
  {
   "id": "7y_jO09EHlI",
@@ -410,15 +420,14 @@
    "p95_frame_delta": 90.929,
    "static_ratio": 0.113
   },
-  "lesson": "lessons/7y_jO09EHlI.md"
+  "lesson": "lessons/7y_jO09EHlI.md",
+  "loop_verified": false
  },
  {
   "id": "8dffyu-YmKI",
   "title": "I just figured out AI making motion graphic on my videos",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -428,7 +437,7 @@
   "cuts": 2.0,
   "median_cut_s": 2.8,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 2.8,
@@ -437,15 +446,16 @@
    "p95_frame_delta": 57.501,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/8dffyu-YmKI.md"
+  "lesson": "lessons/8dffyu-YmKI.md",
+  "loop_verified": false
  },
  {
   "id": "ARd0bfwi-y0",
   "title": "How to hide the impossible in a cut #vfx #filmmaking #shorts",
   "system": null,
   "capability": [
-   "glitch-and-distortion",
-   "editing-cadence"
+   "editing-cadence",
+   "glitch-and-distortion"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -456,7 +466,7 @@
   "cuts": 11.0,
   "median_cut_s": 4.5,
   "primitives": [],
-  "use_when": "supplies glitch-and-distortion / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence / glitch-and-distortion; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 11.0,
    "median_cut_s": 4.5,
@@ -465,16 +475,15 @@
    "p95_frame_delta": 63.89,
    "static_ratio": 0.041
   },
-  "lesson": "lessons/ARd0bfwi-y0.md"
+  "lesson": "lessons/ARd0bfwi-y0.md",
+  "loop_verified": false
  },
  {
   "id": "B1sFo-KYuSQ",
   "title": "Mastering Android 15 Memory: The 16 KB Page Transition",
   "system": null,
-  "capability": [
-   "transitions"
-  ],
-  "format": "reel-example",
+  "capability": [],
+  "format": "non-video",
   "pacing": "static",
   "shape": "9:16",
   "basis": "metadata-only",
@@ -483,7 +492,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies transitions; static pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; non-video subject; static pacing; 9:16",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 4.092,
@@ -491,7 +500,8 @@
    "p95_frame_delta": 21.1,
    "static_ratio": 0.635
   },
-  "lesson": "lessons/B1sFo-KYuSQ.md"
+  "lesson": "lessons/B1sFo-KYuSQ.md",
+  "loop_verified": false
  },
  {
   "id": "ByBgv79OTEI",
@@ -519,14 +529,14 @@
    "p95_frame_delta": 129.703,
    "static_ratio": 0.091
   },
-  "lesson": "lessons/ByBgv79OTEI.md"
+  "lesson": "lessons/ByBgv79OTEI.md",
+  "loop_verified": false
  },
  {
   "id": "C-yZlQXN3rQ",
   "title": "How to edit viral reels in After Effects",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -538,7 +548,7 @@
   "cuts": 2.0,
   "median_cut_s": 6.8,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 6.8,
@@ -547,7 +557,8 @@
    "p95_frame_delta": 48.1,
    "static_ratio": 0.037
   },
-  "lesson": "lessons/C-yZlQXN3rQ.md"
+  "lesson": "lessons/C-yZlQXN3rQ.md",
+  "loop_verified": false
  },
  {
   "id": "CntYmgB3UWM",
@@ -575,15 +586,16 @@
    "p95_frame_delta": 105.882,
    "static_ratio": 0.127
   },
-  "lesson": "lessons/CntYmgB3UWM.md"
+  "lesson": "lessons/CntYmgB3UWM.md",
+  "loop_verified": false
  },
  {
   "id": "CtWgD1qPdkA",
   "title": "What happens when you skip storyboarding? #animation #mistak",
   "system": null,
   "capability": [
-   "storyboard-and-structure",
-   "animation-principles"
+   "animation-principles",
+   "storyboard-and-structure"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -594,7 +606,7 @@
   "cuts": 9.0,
   "median_cut_s": 2.66,
   "primitives": [],
-  "use_when": "supplies storyboard-and-structure / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / storyboard-and-structure; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 9.0,
    "median_cut_s": 2.66,
@@ -603,15 +615,14 @@
    "p95_frame_delta": 54.44,
    "static_ratio": 0.024
   },
-  "lesson": "lessons/CtWgD1qPdkA.md"
+  "lesson": "lessons/CtWgD1qPdkA.md",
+  "loop_verified": false
  },
  {
   "id": "E0sKPI3-pRk",
   "title": "How I add motion graphics using AI",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -621,7 +632,7 @@
   "cuts": 11.0,
   "median_cut_s": 5.42,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 11.0,
    "median_cut_s": 5.42,
@@ -630,7 +641,8 @@
    "p95_frame_delta": 48.751,
    "static_ratio": 0.156
   },
-  "lesson": "lessons/E0sKPI3-pRk.md"
+  "lesson": "lessons/E0sKPI3-pRk.md",
+  "loop_verified": false
  },
  {
   "id": "ETkuKj-XxAg",
@@ -654,15 +666,16 @@
    "p95_frame_delta": 8.731,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/ETkuKj-XxAg.md"
+  "lesson": "lessons/ETkuKj-XxAg.md",
+  "loop_verified": false
  },
  {
   "id": "Ed34TjjLiRU",
   "title": "How To Make Map Animation Using AI",
   "system": null,
   "capability": [
-   "map-animation",
-   "animation-principles"
+   "animation-principles",
+   "map-animation"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -673,7 +686,7 @@
   "cuts": 6.0,
   "median_cut_s": 3.73,
   "primitives": [],
-  "use_when": "supplies map-animation / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / map-animation; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 6.0,
    "median_cut_s": 3.73,
@@ -682,15 +695,14 @@
    "p95_frame_delta": 68.937,
    "static_ratio": 0.099
   },
-  "lesson": "lessons/Ed34TjjLiRU.md"
+  "lesson": "lessons/Ed34TjjLiRU.md",
+  "loop_verified": false
  },
  {
   "id": "EjadIKcJPmw",
   "title": "🔥Clean Motion Graphics in After Effects",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -700,7 +712,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 28.592,
@@ -708,15 +720,16 @@
    "p95_frame_delta": 75.038,
    "static_ratio": 0.087
   },
-  "lesson": "lessons/EjadIKcJPmw.md"
+  "lesson": "lessons/EjadIKcJPmw.md",
+  "loop_verified": false
  },
  {
   "id": "FDeaiNff8mw",
   "title": "Make 3D Animation Using AI!",
   "system": null,
   "capability": [
-   "extrude-and-3d",
-   "animation-principles"
+   "animation-principles",
+   "extrude-and-3d"
   ],
   "format": "reel-example",
   "pacing": "hold-and-burst",
@@ -727,7 +740,7 @@
   "cuts": 12.0,
   "median_cut_s": 1.33,
   "primitives": [],
-  "use_when": "supplies extrude-and-3d / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / extrude-and-3d; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 12.0,
    "median_cut_s": 1.33,
@@ -736,7 +749,8 @@
    "p95_frame_delta": 128.48,
    "static_ratio": 0.102
   },
-  "lesson": "lessons/FDeaiNff8mw.md"
+  "lesson": "lessons/FDeaiNff8mw.md",
+  "loop_verified": false
  },
  {
   "id": "FE6CQNgIfXQ",
@@ -762,7 +776,8 @@
    "p95_frame_delta": 25.146,
    "static_ratio": 0.243
   },
-  "lesson": "lessons/FE6CQNgIfXQ.md"
+  "lesson": "lessons/FE6CQNgIfXQ.md",
+  "loop_verified": false
  },
  {
   "id": "FG8NB_IMLa4",
@@ -789,15 +804,14 @@
    "p95_frame_delta": 84.311,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/FG8NB_IMLa4.md"
+  "lesson": "lessons/FG8NB_IMLa4.md",
+  "loop_verified": false
  },
  {
   "id": "FNj7PMK8SPo",
   "title": "🔥Sport Masterclass Motion Graphics",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "course-promo",
   "pacing": "continuous",
   "shape": "9:16",
@@ -807,7 +821,7 @@
   "cuts": 9.0,
   "median_cut_s": 5.89,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; course promo; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; course promo; unverified",
   "measured": {
    "cuts": 9.0,
    "median_cut_s": 5.89,
@@ -816,14 +830,14 @@
    "p95_frame_delta": 37.007,
    "static_ratio": 0.085
   },
-  "lesson": "lessons/FNj7PMK8SPo.md"
+  "lesson": "lessons/FNj7PMK8SPo.md",
+  "loop_verified": false
  },
  {
   "id": "FQuqN_1wgN0",
   "title": "How to animate VIRAL REELS in After Effects (Full tutorial)",
   "system": null,
   "capability": [
-   "loop-construction",
    "animation-principles"
   ],
   "format": "demo-walkthrough",
@@ -835,7 +849,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 23.004,
@@ -843,7 +857,8 @@
    "p95_frame_delta": 60.474,
    "static_ratio": 0.125
   },
-  "lesson": "lessons/FQuqN_1wgN0.md"
+  "lesson": "lessons/FQuqN_1wgN0.md",
+  "loop_verified": false
  },
  {
   "id": "FeDF9ywCCYM",
@@ -869,14 +884,14 @@
    "p95_frame_delta": 23.558,
    "static_ratio": 0.082
   },
-  "lesson": "lessons/FeDF9ywCCYM.md"
+  "lesson": "lessons/FeDF9ywCCYM.md",
+  "loop_verified": false
  },
  {
   "id": "FfcYctIpocg",
   "title": "Make Viral Sticky Animation For Free!",
   "system": null,
   "capability": [
-   "loop-construction",
    "animation-principles"
   ],
   "format": "reel-example",
@@ -888,7 +903,7 @@
   "cuts": 5.0,
   "median_cut_s": 6.18,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 5.0,
    "median_cut_s": 6.18,
@@ -897,15 +912,16 @@
    "p95_frame_delta": 91.1,
    "static_ratio": 0.125
   },
-  "lesson": "lessons/FfcYctIpocg.md"
+  "lesson": "lessons/FfcYctIpocg.md",
+  "loop_verified": false
  },
  {
   "id": "GQUJyBClKE8",
   "title": "Ep 28: Animate Anything to Music in Motion",
   "system": null,
   "capability": [
-   "beat-sync",
-   "animation-principles"
+   "animation-principles",
+   "beat-sync"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -916,7 +932,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies beat-sync / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / beat-sync; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 3.758,
@@ -924,13 +940,17 @@
    "p95_frame_delta": 11.535,
    "static_ratio": 0.518
   },
-  "lesson": "lessons/GQUJyBClKE8.md"
+  "lesson": "lessons/GQUJyBClKE8.md",
+  "loop_verified": false
  },
  {
   "id": "HVTuxncA9JU",
   "title": "SaaS Explainer video",
   "system": "saas-ui",
   "capability": [
+   "color-and-mask",
+   "data-viz",
+   "grid-and-layout",
    "ui-and-product-motion"
   ],
   "format": "reel-example",
@@ -950,7 +970,7 @@
    "loading end card",
    "silhouette icon"
   ],
-  "use_when": "supplies ui-and-product-motion; static pacing; 9:16",
+  "use_when": "supplies color-and-mask / data-viz / grid-and-layout; static pacing; 9:16",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 4.5,
@@ -959,7 +979,8 @@
    "p95_frame_delta": 22.9,
    "static_ratio": 0.243
   },
-  "lesson": "lessons/HVTuxncA9JU.md"
+  "lesson": "lessons/HVTuxncA9JU.md",
+  "loop_verified": false
  },
  {
   "id": "I1Iv3Ykbk00",
@@ -986,15 +1007,16 @@
    "p95_frame_delta": 40.658,
    "static_ratio": 0.168
   },
-  "lesson": "lessons/I1Iv3Ykbk00.md"
+  "lesson": "lessons/I1Iv3Ykbk00.md",
+  "loop_verified": false
  },
  {
   "id": "IGVOdYAholA",
   "title": "Make 3D Animations In Minutes!",
   "system": null,
   "capability": [
-   "extrude-and-3d",
-   "animation-principles"
+   "animation-principles",
+   "extrude-and-3d"
   ],
   "format": "reel-example",
   "pacing": "hold-and-burst",
@@ -1005,7 +1027,7 @@
   "cuts": 22.0,
   "median_cut_s": 1.43,
   "primitives": [],
-  "use_when": "supplies extrude-and-3d / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / extrude-and-3d; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 22.0,
    "median_cut_s": 1.43,
@@ -1014,14 +1036,17 @@
    "p95_frame_delta": 133.862,
    "static_ratio": 0.088
   },
-  "lesson": "lessons/IGVOdYAholA.md"
+  "lesson": "lessons/IGVOdYAholA.md",
+  "loop_verified": false
  },
  {
   "id": "ISV9R4fYWik",
   "title": "How to Create VIRAL REELS",
   "system": "collage-reel",
   "capability": [
-   "loop-construction"
+   "extrude-and-3d",
+   "grain-and-texture",
+   "type-system"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -1040,7 +1065,7 @@
    "per-shot palette reset",
    "vignette"
   ],
-  "use_when": "supplies loop-construction; continuous pacing; 9:16",
+  "use_when": "supplies extrude-and-3d / grain-and-texture / type-system; continuous pacing; 9:16",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 7.44,
@@ -1049,7 +1074,8 @@
    "p95_frame_delta": 83.121,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/ISV9R4fYWik.md"
+  "lesson": "lessons/ISV9R4fYWik.md",
+  "loop_verified": false
  },
  {
   "id": "IdcOR7faLag",
@@ -1077,14 +1103,14 @@
    "p95_frame_delta": 61.152,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/IdcOR7faLag.md"
+  "lesson": "lessons/IdcOR7faLag.md",
+  "loop_verified": false
  },
  {
   "id": "Inbq3t8_TXA",
   "title": "How to edit viral reels in after effects [COMPLETE Guide]",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "demo-walkthrough",
@@ -1096,7 +1122,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 34.603,
@@ -1104,7 +1130,8 @@
    "p95_frame_delta": 133.948,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/Inbq3t8_TXA.md"
+  "lesson": "lessons/Inbq3t8_TXA.md",
+  "loop_verified": false
  },
  {
   "id": "J2XAkWjIP9o",
@@ -1129,7 +1156,8 @@
    "p95_frame_delta": 49.198,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/J2XAkWjIP9o.md"
+  "lesson": "lessons/J2XAkWjIP9o.md",
+  "loop_verified": false
  },
  {
   "id": "JNMtnj4-q1U",
@@ -1155,15 +1183,16 @@
    "p95_frame_delta": 26.656,
    "static_ratio": 0.061
   },
-  "lesson": "lessons/JNMtnj4-q1U.md"
+  "lesson": "lessons/JNMtnj4-q1U.md",
+  "loop_verified": false
  },
  {
   "id": "K--DmHCND7s",
   "title": "Ep 07: Animated Maps in Motion",
   "system": null,
   "capability": [
-   "map-animation",
-   "animation-principles"
+   "animation-principles",
+   "map-animation"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -1174,7 +1203,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies map-animation / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / map-animation; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 4.776,
@@ -1182,15 +1211,14 @@
    "p95_frame_delta": 19.609,
    "static_ratio": 0.606
   },
-  "lesson": "lessons/K--DmHCND7s.md"
+  "lesson": "lessons/K--DmHCND7s.md",
+  "loop_verified": false
  },
  {
   "id": "KGYqKhlGI6Y",
   "title": "How to learn motion graphics in After Effects - FULL Tutorial",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "demo-walkthrough",
   "pacing": "continuous",
   "shape": "9:16",
@@ -1200,7 +1228,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 12.779,
@@ -1208,7 +1236,8 @@
    "p95_frame_delta": 45.09,
    "static_ratio": 0.089
   },
-  "lesson": "lessons/KGYqKhlGI6Y.md"
+  "lesson": "lessons/KGYqKhlGI6Y.md",
+  "loop_verified": false
  },
  {
   "id": "KRTU140Q7Z0",
@@ -1236,7 +1265,8 @@
    "p95_frame_delta": 77.555,
    "static_ratio": 0.078
   },
-  "lesson": "lessons/KRTU140Q7Z0.md"
+  "lesson": "lessons/KRTU140Q7Z0.md",
+  "loop_verified": false
  },
  {
   "id": "Kf0PRjSM3Jc",
@@ -1263,14 +1293,14 @@
    "p95_frame_delta": 62.373,
    "static_ratio": 0.417
   },
-  "lesson": "lessons/Kf0PRjSM3Jc.md"
+  "lesson": "lessons/Kf0PRjSM3Jc.md",
+  "loop_verified": false
  },
  {
   "id": "KweiXzvm8mo",
   "title": "3 Best Video Editing Softwares #viral #videoediting #faceboo",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -1282,7 +1312,7 @@
   "cuts": 9.0,
   "median_cut_s": 1.47,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 9.0,
    "median_cut_s": 1.47,
@@ -1291,14 +1321,14 @@
    "p95_frame_delta": 72.982,
    "static_ratio": 0.046
   },
-  "lesson": "lessons/KweiXzvm8mo.md"
+  "lesson": "lessons/KweiXzvm8mo.md",
+  "loop_verified": false
  },
  {
   "id": "KzuKj44a620",
   "title": "How to edit VIRAL REELS in after effects",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -1310,7 +1340,7 @@
   "cuts": 7.0,
   "median_cut_s": 4.45,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 7.0,
    "median_cut_s": 4.45,
@@ -1319,16 +1349,17 @@
    "p95_frame_delta": 76.086,
    "static_ratio": 0.051
   },
-  "lesson": "lessons/KzuKj44a620.md"
+  "lesson": "lessons/KzuKj44a620.md",
+  "loop_verified": false
  },
  {
   "id": "L2kBejduZ-I",
   "title": "How to Create a 3D Map Animation in After Effects",
   "system": null,
   "capability": [
-   "map-animation",
+   "animation-principles",
    "extrude-and-3d",
-   "animation-principles"
+   "map-animation"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -1339,7 +1370,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies map-animation / extrude-and-3d / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / extrude-and-3d / map-animation; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 11.325,
@@ -1347,15 +1378,16 @@
    "p95_frame_delta": 45.204,
    "static_ratio": 0.159
   },
-  "lesson": "lessons/L2kBejduZ-I.md"
+  "lesson": "lessons/L2kBejduZ-I.md",
+  "loop_verified": false
  },
  {
   "id": "LOWl-NF7v9g",
   "title": "Nothing ever stops: The secret to smooth UI #animation #tuto",
   "system": null,
   "capability": [
-   "ui-and-product-motion",
-   "animation-principles"
+   "animation-principles",
+   "ui-and-product-motion"
   ],
   "format": "reel-example",
   "pacing": "hold-and-burst",
@@ -1366,7 +1398,7 @@
   "cuts": 11.0,
   "median_cut_s": 4.28,
   "primitives": [],
-  "use_when": "supplies ui-and-product-motion / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / ui-and-product-motion; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 11.0,
    "median_cut_s": 4.28,
@@ -1375,16 +1407,16 @@
    "p95_frame_delta": 89.67,
    "static_ratio": 0.108
   },
-  "lesson": "lessons/LOWl-NF7v9g.md"
+  "lesson": "lessons/LOWl-NF7v9g.md",
+  "loop_verified": false
  },
  {
   "id": "Ld5LkPkQodQ",
   "title": "🔥How to Edit VIRAL REELS Animations in After Effects",
   "system": null,
   "capability": [
-   "loop-construction",
-   "editing-cadence",
-   "animation-principles"
+   "animation-principles",
+   "editing-cadence"
   ],
   "format": "reel-example",
   "pacing": "hold-and-burst",
@@ -1395,7 +1427,7 @@
   "cuts": 7.0,
   "median_cut_s": 2.67,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / editing-cadence; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 7.0,
    "median_cut_s": 2.67,
@@ -1404,7 +1436,8 @@
    "p95_frame_delta": 143.324,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/Ld5LkPkQodQ.md"
+  "lesson": "lessons/Ld5LkPkQodQ.md",
+  "loop_verified": false
  },
  {
   "id": "Lt1jJmG3l_k",
@@ -1432,15 +1465,14 @@
    "p95_frame_delta": 82.53,
    "static_ratio": 0.024
   },
-  "lesson": "lessons/Lt1jJmG3l_k.md"
+  "lesson": "lessons/Lt1jJmG3l_k.md",
+  "loop_verified": false
  },
  {
   "id": "M8qlFIHCwZ4",
   "title": "How to create motion graphics using AI",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "hold-and-burst",
   "shape": "9:16",
@@ -1450,7 +1482,7 @@
   "cuts": 16.0,
   "median_cut_s": 1.5,
   "primitives": [],
-  "use_when": "supplies data-viz; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 16.0,
    "median_cut_s": 1.5,
@@ -1459,7 +1491,8 @@
    "p95_frame_delta": 102.598,
    "static_ratio": 0.068
   },
-  "lesson": "lessons/M8qlFIHCwZ4.md"
+  "lesson": "lessons/M8qlFIHCwZ4.md",
+  "loop_verified": false
  },
  {
   "id": "MJo2UIjJ6LU",
@@ -1486,14 +1519,14 @@
    "p95_frame_delta": 129.176,
    "static_ratio": 0.156
   },
-  "lesson": "lessons/MJo2UIjJ6LU.md"
+  "lesson": "lessons/MJo2UIjJ6LU.md",
+  "loop_verified": false
  },
  {
   "id": "MTXVNh3L7h4",
   "title": "🔥Viral Reel Animation",
   "system": null,
   "capability": [
-   "loop-construction",
    "animation-principles"
   ],
   "format": "reel-example",
@@ -1505,7 +1538,7 @@
   "cuts": 2.0,
   "median_cut_s": 15.7,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 15.7,
@@ -1514,7 +1547,8 @@
    "p95_frame_delta": 67.14,
    "static_ratio": 0.03
   },
-  "lesson": "lessons/MTXVNh3L7h4.md"
+  "lesson": "lessons/MTXVNh3L7h4.md",
+  "loop_verified": false
  },
  {
   "id": "NdGhkJNcn7U",
@@ -1541,13 +1575,16 @@
    "p95_frame_delta": 94.796,
    "static_ratio": 0.062
   },
-  "lesson": "lessons/NdGhkJNcn7U.md"
+  "lesson": "lessons/NdGhkJNcn7U.md",
+  "loop_verified": false
  },
  {
   "id": "NoGRmd2qaPY",
   "title": "HYPERFRAMES PRESENTS: THE BORING REPORT",
   "system": "broll-essay",
   "capability": [
+   "ai-video-generation",
+   "color-and-mask",
    "workflow-invocation"
   ],
   "format": "reel-example",
@@ -1564,7 +1601,7 @@
    "shallow DOF",
    "teal-orange grade"
   ],
-  "use_when": "supplies workflow-invocation; continuous pacing; 9:16",
+  "use_when": "supplies ai-video-generation / color-and-mask / workflow-invocation; continuous pacing; 9:16",
   "measured": {
    "cuts": 18.0,
    "median_cut_s": 3.27,
@@ -1573,7 +1610,8 @@
    "p95_frame_delta": 73.959,
    "static_ratio": 0.029
   },
-  "lesson": "lessons/NoGRmd2qaPY.md"
+  "lesson": "lessons/NoGRmd2qaPY.md",
+  "loop_verified": false
  },
  {
   "id": "OwDVLnFG7-M",
@@ -1597,15 +1635,16 @@
    "p95_frame_delta": 7.172,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/OwDVLnFG7-M.md"
+  "lesson": "lessons/OwDVLnFG7-M.md",
+  "loop_verified": false
  },
  {
   "id": "P9qT6XtgSI4",
   "title": "How to create UI animation like Apple Style   Full After Effects Tutorial",
   "system": null,
   "capability": [
-   "ui-and-product-motion",
-   "animation-principles"
+   "animation-principles",
+   "ui-and-product-motion"
   ],
   "format": "demo-walkthrough",
   "pacing": "continuous",
@@ -1616,7 +1655,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies ui-and-product-motion / animation-principles; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies animation-principles / ui-and-product-motion; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 17.812,
@@ -1624,15 +1663,15 @@
    "p95_frame_delta": 57.705,
    "static_ratio": 0.136
   },
-  "lesson": "lessons/P9qT6XtgSI4.md"
+  "lesson": "lessons/P9qT6XtgSI4.md",
+  "loop_verified": false
  },
  {
   "id": "Pawe7hLSW9o",
   "title": "Typography Components: Text - Lesson 7",
   "system": null,
   "capability": [
-   "type-system",
-   "data-viz"
+   "type-system"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -1643,7 +1682,7 @@
   "cuts": 2.0,
   "median_cut_s": 54.07,
   "primitives": [],
-  "use_when": "supplies type-system / data-viz; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies type-system; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 54.07,
@@ -1652,16 +1691,14 @@
    "p95_frame_delta": 0.336,
    "static_ratio": 0.982
   },
-  "lesson": "lessons/Pawe7hLSW9o.md"
+  "lesson": "lessons/Pawe7hLSW9o.md",
+  "loop_verified": false
  },
  {
   "id": "PxzhaOqkE9c",
   "title": "10x Your Motion Graphics with Code #shorts #aianimation #mot",
   "system": null,
-  "capability": [
-   "data-viz",
-   "animation-principles"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "static",
   "shape": "9:16",
@@ -1671,7 +1708,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz / animation-principles; static pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; static pacing; 9:16; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 5.856,
@@ -1679,17 +1716,19 @@
    "p95_frame_delta": 20.907,
    "static_ratio": 0.373
   },
-  "lesson": "lessons/PxzhaOqkE9c.md"
+  "lesson": "lessons/PxzhaOqkE9c.md",
+  "loop_verified": false
  },
  {
   "id": "Q6H_fYhn3x0",
   "title": "🔥3D Camera TEXT ANIMATION After Effects",
   "system": "3d-camera-text",
   "capability": [
-   "type-system",
+   "animation-principles",
    "camera-and-depth",
    "extrude-and-3d",
-   "animation-principles"
+   "loop-construction",
+   "type-system"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -1708,7 +1747,7 @@
    "loop cycle",
    "two-frequency camera path"
   ],
-  "use_when": "supplies type-system / camera-and-depth / extrude-and-3d; continuous pacing; 1:1",
+  "use_when": "supplies animation-principles / camera-and-depth / extrude-and-3d; continuous pacing; 1:1",
   "measured": {
    "cuts": 14.0,
    "median_cut_s": 1.0,
@@ -1717,7 +1756,8 @@
    "p95_frame_delta": 127.424,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/Q6H_fYhn3x0.md"
+  "lesson": "lessons/Q6H_fYhn3x0.md",
+  "loop_verified": true
  },
  {
   "id": "QRBp9mqDtUw",
@@ -1743,15 +1783,14 @@
    "p95_frame_delta": 19.713,
    "static_ratio": 0.6
   },
-  "lesson": "lessons/QRBp9mqDtUw.md"
+  "lesson": "lessons/QRBp9mqDtUw.md",
+  "loop_verified": false
  },
  {
   "id": "Qaa9NSEpq0w",
   "title": "La revolución del motion graphics YA ESTÁ AQUÍ",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "hold-and-burst",
   "shape": "9:16",
@@ -1761,7 +1800,7 @@
   "cuts": 15.0,
   "median_cut_s": 2.28,
   "primitives": [],
-  "use_when": "supplies data-viz; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 15.0,
    "median_cut_s": 2.28,
@@ -1770,7 +1809,8 @@
    "p95_frame_delta": 70.303,
    "static_ratio": 0.022
   },
-  "lesson": "lessons/Qaa9NSEpq0w.md"
+  "lesson": "lessons/Qaa9NSEpq0w.md",
+  "loop_verified": false
  },
  {
   "id": "RaGn-CAHCPo",
@@ -1797,7 +1837,8 @@
    "p95_frame_delta": 186.044,
    "static_ratio": 0.072
   },
-  "lesson": "lessons/RaGn-CAHCPo.md"
+  "lesson": "lessons/RaGn-CAHCPo.md",
+  "loop_verified": false
  },
  {
   "id": "Rgkfq5xpiao",
@@ -1824,15 +1865,16 @@
    "p95_frame_delta": 14.715,
    "static_ratio": 0.678
   },
-  "lesson": "lessons/Rgkfq5xpiao.md"
+  "lesson": "lessons/Rgkfq5xpiao.md",
+  "loop_verified": false
  },
  {
   "id": "Rvsi6TDsH2M",
   "title": "🔥Apple UI animation after effects",
   "system": null,
   "capability": [
-   "ui-and-product-motion",
-   "animation-principles"
+   "animation-principles",
+   "ui-and-product-motion"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -1843,7 +1885,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies ui-and-product-motion / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / ui-and-product-motion; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 14.484,
@@ -1851,7 +1893,8 @@
    "p95_frame_delta": 35.657,
    "static_ratio": 0.19
   },
-  "lesson": "lessons/Rvsi6TDsH2M.md"
+  "lesson": "lessons/Rvsi6TDsH2M.md",
+  "loop_verified": false
  },
  {
   "id": "U-3WWFDDxLo",
@@ -1877,14 +1920,14 @@
    "p95_frame_delta": 29.668,
    "static_ratio": 0.329
   },
-  "lesson": "lessons/U-3WWFDDxLo.md"
+  "lesson": "lessons/U-3WWFDDxLo.md",
+  "loop_verified": false
  },
  {
   "id": "U-xkcBdc6Nw",
   "title": "YouTube Video Editing #viral #youtube #youtubeshorts",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -1896,7 +1939,7 @@
   "cuts": 7.0,
   "median_cut_s": 3.0,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 7.0,
    "median_cut_s": 3.0,
@@ -1905,15 +1948,16 @@
    "p95_frame_delta": 126.655,
    "static_ratio": 0.25
   },
-  "lesson": "lessons/U-xkcBdc6Nw.md"
+  "lesson": "lessons/U-xkcBdc6Nw.md",
+  "loop_verified": false
  },
  {
   "id": "UYshgIfGkOo",
   "title": "Claude Code can animate in After Effects?!",
   "system": null,
   "capability": [
-   "workflow-invocation",
-   "animation-principles"
+   "animation-principles",
+   "workflow-invocation"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -1924,7 +1968,7 @@
   "cuts": 4.0,
   "median_cut_s": 5.2,
   "primitives": [],
-  "use_when": "supplies workflow-invocation / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / workflow-invocation; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 4.0,
    "median_cut_s": 5.2,
@@ -1933,7 +1977,8 @@
    "p95_frame_delta": 48.075,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/UYshgIfGkOo.md"
+  "lesson": "lessons/UYshgIfGkOo.md",
+  "loop_verified": false
  },
  {
   "id": "UtxfMYGDdFk",
@@ -1958,7 +2003,8 @@
    "p95_frame_delta": 50.429,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/UtxfMYGDdFk.md"
+  "lesson": "lessons/UtxfMYGDdFk.md",
+  "loop_verified": false
  },
  {
   "id": "V4NGcJS5uIo",
@@ -1985,7 +2031,8 @@
    "p95_frame_delta": 46.682,
    "static_ratio": 0.28
   },
-  "lesson": "lessons/V4NGcJS5uIo.md"
+  "lesson": "lessons/V4NGcJS5uIo.md",
+  "loop_verified": false
  },
  {
   "id": "VAbbjYzmPEE",
@@ -2011,7 +2058,8 @@
    "p95_frame_delta": 24.793,
    "static_ratio": 0.708
   },
-  "lesson": "lessons/VAbbjYzmPEE.md"
+  "lesson": "lessons/VAbbjYzmPEE.md",
+  "loop_verified": false
  },
  {
   "id": "VPpnrbNnSs8",
@@ -2038,7 +2086,8 @@
    "p95_frame_delta": 52.245,
    "static_ratio": 0.243
   },
-  "lesson": "lessons/VPpnrbNnSs8.md"
+  "lesson": "lessons/VPpnrbNnSs8.md",
+  "loop_verified": false
  },
  {
   "id": "Yn6uug_qBhM",
@@ -2065,7 +2114,8 @@
    "p95_frame_delta": 21.43,
    "static_ratio": 0.14
   },
-  "lesson": "lessons/Yn6uug_qBhM.md"
+  "lesson": "lessons/Yn6uug_qBhM.md",
+  "loop_verified": false
  },
  {
   "id": "Ytw5FKFnSrk",
@@ -2090,7 +2140,8 @@
    "p95_frame_delta": 87.327,
    "static_ratio": 0.033
   },
-  "lesson": "lessons/Ytw5FKFnSrk.md"
+  "lesson": "lessons/Ytw5FKFnSrk.md",
+  "loop_verified": false
  },
  {
   "id": "Yx-1KRcFm6U",
@@ -2117,7 +2168,8 @@
    "p95_frame_delta": 129.551,
    "static_ratio": 0.432
   },
-  "lesson": "lessons/Yx-1KRcFm6U.md"
+  "lesson": "lessons/Yx-1KRcFm6U.md",
+  "loop_verified": false
  },
  {
   "id": "Z2xK0L-YDb0",
@@ -2144,7 +2196,8 @@
    "p95_frame_delta": 25.606,
    "static_ratio": 0.333
   },
-  "lesson": "lessons/Z2xK0L-YDb0.md"
+  "lesson": "lessons/Z2xK0L-YDb0.md",
+  "loop_verified": false
  },
  {
   "id": "Z4846Hhk0Sk",
@@ -2171,15 +2224,16 @@
    "p95_frame_delta": 70.651,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/Z4846Hhk0Sk.md"
+  "lesson": "lessons/Z4846Hhk0Sk.md",
+  "loop_verified": false
  },
  {
   "id": "ZIYnjS-xWlM",
   "title": "Ep 48 Animated Text Highlights in FCPX",
   "system": null,
   "capability": [
-   "type-system",
-   "animation-principles"
+   "animation-principles",
+   "type-system"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -2190,7 +2244,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies type-system / animation-principles; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / type-system; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 4.325,
@@ -2198,14 +2252,14 @@
    "p95_frame_delta": 22.238,
    "static_ratio": 0.627
   },
-  "lesson": "lessons/ZIYnjS-xWlM.md"
+  "lesson": "lessons/ZIYnjS-xWlM.md",
+  "loop_verified": false
  },
  {
   "id": "ZVWMwp68aVg",
   "title": "YouTube Video Editing Class #viral #yshorts #youtube",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -2217,7 +2271,7 @@
   "cuts": 5.0,
   "median_cut_s": 2.22,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 5.0,
    "median_cut_s": 2.22,
@@ -2226,7 +2280,8 @@
    "p95_frame_delta": 55.236,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/ZVWMwp68aVg.md"
+  "lesson": "lessons/ZVWMwp68aVg.md",
+  "loop_verified": false
  },
  {
   "id": "_WCJ0dAf0qE",
@@ -2253,14 +2308,14 @@
    "p95_frame_delta": 47.907,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/_WCJ0dAf0qE.md"
+  "lesson": "lessons/_WCJ0dAf0qE.md",
+  "loop_verified": false
  },
  {
   "id": "_sXy3d7atRs",
   "title": "motivational video edited by samrin #reelseditor #motiongrap",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -2272,7 +2327,7 @@
   "cuts": 11.0,
   "median_cut_s": 4.19,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 11.0,
    "median_cut_s": 4.19,
@@ -2281,13 +2336,17 @@
    "p95_frame_delta": 74.163,
    "static_ratio": 0.018
   },
-  "lesson": "lessons/_sXy3d7atRs.md"
+  "lesson": "lessons/_sXy3d7atRs.md",
+  "loop_verified": false
  },
  {
   "id": "aNZeXQmVOjQ",
   "title": "How to Use HyperFrames in HeyGen's AI Video Agent",
   "system": "editorial-card",
   "capability": [
+   "data-viz",
+   "transitions",
+   "type-system",
    "workflow-invocation"
   ],
   "format": "demo-walkthrough",
@@ -2309,7 +2368,7 @@
    "single bar chart",
    "whip blur"
   ],
-  "use_when": "supplies workflow-invocation; hold-and-burst pacing; 16:9; demo walkthrough",
+  "use_when": "supplies data-viz / transitions / type-system; hold-and-burst pacing; 16:9; demo walkthrough",
   "measured": {
    "cuts": 10.0,
    "median_cut_s": 8.18,
@@ -2318,16 +2377,16 @@
    "p95_frame_delta": 108.35,
    "static_ratio": 0.091
   },
-  "lesson": "lessons/aNZeXQmVOjQ.md"
+  "lesson": "lessons/aNZeXQmVOjQ.md",
+  "loop_verified": false
  },
  {
   "id": "bMSnD47XAuk",
   "title": "🔥Motion Graphics Reel #editlikeapro #motiondesigner #motiongraphics",
   "system": null,
   "capability": [
-   "data-viz",
-   "loop-construction",
-   "editing-cadence"
+   "editing-cadence",
+   "loop-construction"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -2338,7 +2397,7 @@
   "cuts": 2.0,
   "median_cut_s": 10.9,
   "primitives": [],
-  "use_when": "supplies data-viz / loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence / loop-construction; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 10.9,
@@ -2347,16 +2406,16 @@
    "p95_frame_delta": 60.75,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/bMSnD47XAuk.md"
+  "lesson": "lessons/bMSnD47XAuk.md",
+  "loop_verified": true
  },
  {
   "id": "bRpEwZ9w6-w",
   "title": "🔥How to Edit 3D Viral Reels",
   "system": null,
   "capability": [
-   "extrude-and-3d",
-   "loop-construction",
-   "editing-cadence"
+   "editing-cadence",
+   "extrude-and-3d"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -2367,7 +2426,7 @@
   "cuts": 2.0,
   "median_cut_s": 12.57,
   "primitives": [],
-  "use_when": "supplies extrude-and-3d / loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence / extrude-and-3d; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 12.57,
@@ -2376,7 +2435,8 @@
    "p95_frame_delta": 71.998,
    "static_ratio": 0.049
   },
-  "lesson": "lessons/bRpEwZ9w6-w.md"
+  "lesson": "lessons/bRpEwZ9w6-w.md",
+  "loop_verified": false
  },
  {
   "id": "cTAm7DsWW20",
@@ -2402,7 +2462,8 @@
    "p95_frame_delta": 21.622,
    "static_ratio": 0.034
   },
-  "lesson": "lessons/cTAm7DsWW20.md"
+  "lesson": "lessons/cTAm7DsWW20.md",
+  "loop_verified": false
  },
  {
   "id": "d1MonWlzC48",
@@ -2428,7 +2489,8 @@
    "p95_frame_delta": 23.867,
    "static_ratio": 0.642
   },
-  "lesson": "lessons/d1MonWlzC48.md"
+  "lesson": "lessons/d1MonWlzC48.md",
+  "loop_verified": false
  },
  {
   "id": "d6EVIGiRWik",
@@ -2454,14 +2516,14 @@
    "p95_frame_delta": 20.311,
    "static_ratio": 0.391
   },
-  "lesson": "lessons/d6EVIGiRWik.md"
+  "lesson": "lessons/d6EVIGiRWik.md",
+  "loop_verified": false
  },
  {
   "id": "f8mE8RZyICI",
   "title": "How To Make Animations Using ReelCraft AI",
   "system": null,
   "capability": [
-   "loop-construction",
    "animation-principles"
   ],
   "format": "reel-example",
@@ -2473,7 +2535,7 @@
   "cuts": 7.0,
   "median_cut_s": 5.21,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; hold-and-burst pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles; hold-and-burst pacing; 9:16; unverified",
   "measured": {
    "cuts": 7.0,
    "median_cut_s": 5.21,
@@ -2482,15 +2544,16 @@
    "p95_frame_delta": 85.352,
    "static_ratio": 0.098
   },
-  "lesson": "lessons/f8mE8RZyICI.md"
+  "lesson": "lessons/f8mE8RZyICI.md",
+  "loop_verified": false
  },
  {
   "id": "fHZidlnJIV4",
   "title": "Liquid glass animation like Apple",
   "system": null,
   "capability": [
-   "liquid-glass",
-   "animation-principles"
+   "animation-principles",
+   "liquid-glass"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -2501,7 +2564,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies liquid-glass / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / liquid-glass; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 15.537,
@@ -2509,15 +2572,14 @@
    "p95_frame_delta": 21.681,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/fHZidlnJIV4.md"
+  "lesson": "lessons/fHZidlnJIV4.md",
+  "loop_verified": false
  },
  {
   "id": "ff9wM-ANse0",
   "title": "Viral Neon Effect",
   "system": null,
-  "capability": [
-   "loop-construction"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "static",
   "shape": "9:16",
@@ -2527,7 +2589,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction; static pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; static pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 4.044,
@@ -2535,7 +2597,8 @@
    "p95_frame_delta": 8.207,
    "static_ratio": 0.293
   },
-  "lesson": "lessons/ff9wM-ANse0.md"
+  "lesson": "lessons/ff9wM-ANse0.md",
+  "loop_verified": false
  },
  {
   "id": "getK6x-MepU",
@@ -2561,7 +2624,8 @@
    "p95_frame_delta": 27.448,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/getK6x-MepU.md"
+  "lesson": "lessons/getK6x-MepU.md",
+  "loop_verified": false
  },
  {
   "id": "gwJxE--IS0A",
@@ -2589,14 +2653,14 @@
    "p95_frame_delta": 51.034,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/gwJxE--IS0A.md"
+  "lesson": "lessons/gwJxE--IS0A.md",
+  "loop_verified": false
  },
  {
   "id": "hmk9nkwzLrc",
   "title": "🔥Viral Reels Editing 🔒Bloqueo  Creativo  #viralreels #tiktokvideos #viralreel",
   "system": null,
   "capability": [
-   "loop-construction",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -2608,7 +2672,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies loop-construction / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 21.741,
@@ -2616,16 +2680,16 @@
    "p95_frame_delta": 43.785,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/hmk9nkwzLrc.md"
+  "lesson": "lessons/hmk9nkwzLrc.md",
+  "loop_verified": false
  },
  {
   "id": "iCJXowra3x8",
   "title": "Claude can make animated videos now? 🤯👀 #Claude #MotionGraph",
   "system": null,
   "capability": [
-   "data-viz",
-   "workflow-invocation",
-   "animation-principles"
+   "animation-principles",
+   "workflow-invocation"
   ],
   "format": "reel-example",
   "pacing": "static",
@@ -2636,7 +2700,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz / workflow-invocation / animation-principles; static pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / workflow-invocation; static pacing; 9:16; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 4.534,
@@ -2644,15 +2708,14 @@
    "p95_frame_delta": 14.047,
    "static_ratio": 0.024
   },
-  "lesson": "lessons/iCJXowra3x8.md"
+  "lesson": "lessons/iCJXowra3x8.md",
+  "loop_verified": false
  },
  {
   "id": "jT0zCngmnpM",
   "title": "🤔¿Cuál es tu software de animación favorito?  #motiondesigner #motiongraphics #aftereffect",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -2662,7 +2725,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 9.385,
@@ -2670,7 +2733,8 @@
    "p95_frame_delta": 52.07,
    "static_ratio": 0.522
   },
-  "lesson": "lessons/jT0zCngmnpM.md"
+  "lesson": "lessons/jT0zCngmnpM.md",
+  "loop_verified": false
  },
  {
   "id": "jy0Stu4I65I",
@@ -2697,7 +2761,8 @@
    "p95_frame_delta": 127.458,
    "static_ratio": 0.033
   },
-  "lesson": "lessons/jy0Stu4I65I.md"
+  "lesson": "lessons/jy0Stu4I65I.md",
+  "loop_verified": false
  },
  {
   "id": "k2e8WnvTCiI",
@@ -2723,7 +2788,8 @@
    "p95_frame_delta": 10.389,
    "static_ratio": 0.033
   },
-  "lesson": "lessons/k2e8WnvTCiI.md"
+  "lesson": "lessons/k2e8WnvTCiI.md",
+  "loop_verified": false
  },
  {
   "id": "kOoAnPnb9ME",
@@ -2749,18 +2815,18 @@
    "p95_frame_delta": 21.019,
    "static_ratio": 0.024
   },
-  "lesson": "lessons/kOoAnPnb9ME.md"
+  "lesson": "lessons/kOoAnPnb9ME.md",
+  "loop_verified": false
  },
  {
   "id": "klcpQA-BWY0",
   "title": "How to Use Remotion to Automate CapCut Text Animation (Viral",
   "system": null,
   "capability": [
-   "type-system",
-   "loop-construction",
+   "animation-principles",
    "editing-cadence",
-   "workflow-invocation",
-   "animation-principles"
+   "type-system",
+   "workflow-invocation"
   ],
   "format": "demo-walkthrough",
   "pacing": "static",
@@ -2771,7 +2837,7 @@
   "cuts": 4.0,
   "median_cut_s": 6.27,
   "primitives": [],
-  "use_when": "supplies type-system / loop-construction / editing-cadence; static pacing; 16:9; demo walkthrough; unverified",
+  "use_when": "supplies animation-principles / editing-cadence / type-system; static pacing; 16:9; demo walkthrough; unverified",
   "measured": {
    "cuts": 4.0,
    "median_cut_s": 6.27,
@@ -2780,7 +2846,8 @@
    "p95_frame_delta": 22.929,
    "static_ratio": 0.263
   },
-  "lesson": "lessons/klcpQA-BWY0.md"
+  "lesson": "lessons/klcpQA-BWY0.md",
+  "loop_verified": false
  },
  {
   "id": "kxuA_QkPSDM",
@@ -2805,7 +2872,8 @@
    "p95_frame_delta": 108.147,
    "static_ratio": 0.11
   },
-  "lesson": "lessons/kxuA_QkPSDM.md"
+  "lesson": "lessons/kxuA_QkPSDM.md",
+  "loop_verified": false
  },
  {
   "id": "llNAdLPXMYk",
@@ -2831,7 +2899,8 @@
    "p95_frame_delta": 20.303,
    "static_ratio": 0.259
   },
-  "lesson": "lessons/llNAdLPXMYk.md"
+  "lesson": "lessons/llNAdLPXMYk.md",
+  "loop_verified": false
  },
  {
   "id": "mQmyQZRGQJ4",
@@ -2858,7 +2927,8 @@
    "p95_frame_delta": 136.187,
    "static_ratio": 0.069
   },
-  "lesson": "lessons/mQmyQZRGQJ4.md"
+  "lesson": "lessons/mQmyQZRGQJ4.md",
+  "loop_verified": false
  },
  {
   "id": "mSlzJqMZu2Y",
@@ -2886,15 +2956,14 @@
    "p95_frame_delta": 80.059,
    "static_ratio": 0.041
   },
-  "lesson": "lessons/mSlzJqMZu2Y.md"
+  "lesson": "lessons/mSlzJqMZu2Y.md",
+  "loop_verified": false
  },
  {
   "id": "mWhxJPiizXI",
   "title": "How to become a Motion Graphics Designer",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -2904,7 +2973,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 13.413,
@@ -2912,7 +2981,8 @@
    "p95_frame_delta": 35.667,
    "static_ratio": 0.011
   },
-  "lesson": "lessons/mWhxJPiizXI.md"
+  "lesson": "lessons/mWhxJPiizXI.md",
+  "loop_verified": false
  },
  {
   "id": "maHR11JFOFk",
@@ -2939,15 +3009,16 @@
    "p95_frame_delta": 46.801,
    "static_ratio": 0.036
   },
-  "lesson": "lessons/maHR11JFOFk.md"
+  "lesson": "lessons/maHR11JFOFk.md",
+  "loop_verified": false
  },
  {
   "id": "me3sFZCXxlg",
   "title": "How to Animate like MagnatesMedia",
   "system": null,
   "capability": [
-   "editing-cadence",
-   "animation-principles"
+   "animation-principles",
+   "editing-cadence"
   ],
   "format": "reel-example",
   "pacing": "static",
@@ -2958,7 +3029,7 @@
   "cuts": 2.0,
   "median_cut_s": 15.0,
   "primitives": [],
-  "use_when": "supplies editing-cadence / animation-principles; static pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / editing-cadence; static pacing; 9:16; unverified",
   "measured": {
    "cuts": 2.0,
    "median_cut_s": 15.0,
@@ -2967,7 +3038,8 @@
    "p95_frame_delta": 21.599,
    "static_ratio": 0.226
   },
-  "lesson": "lessons/me3sFZCXxlg.md"
+  "lesson": "lessons/me3sFZCXxlg.md",
+  "loop_verified": false
  },
  {
   "id": "n-vhkZJe6fw",
@@ -2993,7 +3065,8 @@
    "p95_frame_delta": 35.77,
    "static_ratio": 0.581
   },
-  "lesson": "lessons/n-vhkZJe6fw.md"
+  "lesson": "lessons/n-vhkZJe6fw.md",
+  "loop_verified": false
  },
  {
   "id": "n8TUH9j116U",
@@ -3020,15 +3093,16 @@
    "p95_frame_delta": 30.928,
    "static_ratio": 0.503
   },
-  "lesson": "lessons/n8TUH9j116U.md"
+  "lesson": "lessons/n8TUH9j116U.md",
+  "loop_verified": false
  },
  {
   "id": "nkcbLo4DaYE",
   "title": "Animate Line Graphs Like Cleo Abram After Effects Tutorial",
   "system": null,
   "capability": [
-   "data-viz",
-   "animation-principles"
+   "animation-principles",
+   "data-viz"
   ],
   "format": "demo-walkthrough",
   "pacing": "static",
@@ -3039,7 +3113,7 @@
   "cuts": 5.0,
   "median_cut_s": 7.5,
   "primitives": [],
-  "use_when": "supplies data-viz / animation-principles; static pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies animation-principles / data-viz; static pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 5.0,
    "median_cut_s": 7.5,
@@ -3048,15 +3122,16 @@
    "p95_frame_delta": 19.258,
    "static_ratio": 0.325
   },
-  "lesson": "lessons/nkcbLo4DaYE.md"
+  "lesson": "lessons/nkcbLo4DaYE.md",
+  "loop_verified": false
  },
  {
   "id": "okFBYF1N3Dg",
   "title": "Blender + Claude Code = Insane Animations",
   "system": null,
   "capability": [
-   "workflow-invocation",
-   "animation-principles"
+   "animation-principles",
+   "workflow-invocation"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -3067,7 +3142,7 @@
   "cuts": 7.0,
   "median_cut_s": 3.75,
   "primitives": [],
-  "use_when": "supplies workflow-invocation / animation-principles; continuous pacing; 9:16; unverified",
+  "use_when": "supplies animation-principles / workflow-invocation; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 7.0,
    "median_cut_s": 3.75,
@@ -3076,15 +3151,16 @@
    "p95_frame_delta": 40.038,
    "static_ratio": 0.007
   },
-  "lesson": "lessons/okFBYF1N3Dg.md"
+  "lesson": "lessons/okFBYF1N3Dg.md",
+  "loop_verified": false
  },
  {
   "id": "owheCZ1yJNA",
   "title": "Ep 57 Animating with Transitions in FCP",
   "system": null,
   "capability": [
-   "transitions",
-   "animation-principles"
+   "animation-principles",
+   "transitions"
   ],
   "format": "channel-episode",
   "pacing": "continuous",
@@ -3095,7 +3171,7 @@
   "cuts": 4.0,
   "median_cut_s": 10.33,
   "primitives": [],
-  "use_when": "supplies transitions / animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / transitions; continuous pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 4.0,
    "median_cut_s": 10.33,
@@ -3104,14 +3180,14 @@
    "p95_frame_delta": 45.498,
    "static_ratio": 0.57
   },
-  "lesson": "lessons/owheCZ1yJNA.md"
+  "lesson": "lessons/owheCZ1yJNA.md",
+  "loop_verified": false
  },
  {
   "id": "p8F-X-56iAY",
   "title": "How To Use Viggle AI For Viral Animations And Memes!",
   "system": null,
   "capability": [
-   "loop-construction",
    "ai-video-generation",
    "animation-principles"
   ],
@@ -3124,7 +3200,7 @@
   "cuts": 10.0,
   "median_cut_s": 3.01,
   "primitives": [],
-  "use_when": "supplies loop-construction / ai-video-generation / animation-principles; hold-and-burst pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies ai-video-generation / animation-principles; hold-and-burst pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 10.0,
    "median_cut_s": 3.01,
@@ -3133,16 +3209,15 @@
    "p95_frame_delta": 127.954,
    "static_ratio": 0.13
   },
-  "lesson": "lessons/p8F-X-56iAY.md"
+  "lesson": "lessons/p8F-X-56iAY.md",
+  "loop_verified": false
  },
  {
   "id": "pAZQ-L7skFY",
   "title": "3D Viral Reels  #aftereffectstutorial #viralreels #motiongraphics",
   "system": null,
   "capability": [
-   "data-viz",
-   "extrude-and-3d",
-   "loop-construction"
+   "extrude-and-3d"
   ],
   "format": "demo-walkthrough",
   "pacing": "continuous",
@@ -3153,7 +3228,7 @@
   "cuts": 3.0,
   "median_cut_s": 1.4,
   "primitives": [],
-  "use_when": "supplies data-viz / extrude-and-3d / loop-construction; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "supplies extrude-and-3d; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 3.0,
    "median_cut_s": 1.4,
@@ -3162,15 +3237,14 @@
    "p95_frame_delta": 134.112,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/pAZQ-L7skFY.md"
+  "lesson": "lessons/pAZQ-L7skFY.md",
+  "loop_verified": false
  },
  {
   "id": "p_zd6TbrFcc",
   "title": "🔥Become a Motion Graphics Designer #aftereffectstutorial #3dcompositing #motiongraphics",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "demo-walkthrough",
   "pacing": "continuous",
   "shape": "9:16",
@@ -3180,7 +3254,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; demo walkthrough; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; demo walkthrough; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 38.269,
@@ -3188,14 +3262,14 @@
    "p95_frame_delta": 48.899,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/p_zd6TbrFcc.md"
+  "lesson": "lessons/p_zd6TbrFcc.md",
+  "loop_verified": false
  },
  {
   "id": "pgQuGENPIFU",
   "title": "😲 VIRAL Outline Text Effect Animation 😲",
   "system": null,
   "capability": [
-   "loop-construction",
    "animation-principles"
   ],
   "format": "reel-example",
@@ -3207,7 +3281,7 @@
   "cuts": 4.0,
   "median_cut_s": 25.9,
   "primitives": [],
-  "use_when": "supplies loop-construction / animation-principles; continuous pacing; 16:9; unverified",
+  "use_when": "supplies animation-principles; continuous pacing; 16:9; unverified",
   "measured": {
    "cuts": 4.0,
    "median_cut_s": 25.9,
@@ -3216,7 +3290,8 @@
    "p95_frame_delta": 32.591,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/pgQuGENPIFU.md"
+  "lesson": "lessons/pgQuGENPIFU.md",
+  "loop_verified": false
  },
  {
   "id": "q3JpTqQp0YQ",
@@ -3244,15 +3319,15 @@
    "p95_frame_delta": 125.55,
    "static_ratio": 0.177
   },
-  "lesson": "lessons/q3JpTqQp0YQ.md"
+  "lesson": "lessons/q3JpTqQp0YQ.md",
+  "loop_verified": false
  },
  {
   "id": "qSv_P_acE_o",
   "title": "Typography Components: Heading - Lesson 8",
   "system": null,
   "capability": [
-   "type-system",
-   "data-viz"
+   "type-system"
   ],
   "format": "channel-episode",
   "pacing": "static",
@@ -3263,7 +3338,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies type-system / data-viz; static pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies type-system; static pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 1.124,
@@ -3271,7 +3346,8 @@
    "p95_frame_delta": 2.737,
    "static_ratio": 0.832
   },
-  "lesson": "lessons/qSv_P_acE_o.md"
+  "lesson": "lessons/qSv_P_acE_o.md",
+  "loop_verified": false
  },
  {
   "id": "rAZBn6Ai2k4",
@@ -3298,14 +3374,15 @@
    "p95_frame_delta": 18.659,
    "static_ratio": 0.702
   },
-  "lesson": "lessons/rAZBn6Ai2k4.md"
+  "lesson": "lessons/rAZBn6Ai2k4.md",
+  "loop_verified": false
  },
  {
   "id": "rglfuEehdSY",
   "title": "How to learn motion graphics in After Effects",
   "system": null,
   "capability": [
-   "data-viz"
+   "loop-construction"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -3316,7 +3393,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "supplies loop-construction; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 12.304,
@@ -3324,7 +3401,8 @@
    "p95_frame_delta": 35.43,
    "static_ratio": 0.048
   },
-  "lesson": "lessons/rglfuEehdSY.md"
+  "lesson": "lessons/rglfuEehdSY.md",
+  "loop_verified": true
  },
  {
   "id": "soJRgpL6238",
@@ -3349,7 +3427,8 @@
    "p95_frame_delta": 89.623,
    "static_ratio": 0.019
   },
-  "lesson": "lessons/soJRgpL6238.md"
+  "lesson": "lessons/soJRgpL6238.md",
+  "loop_verified": false
  },
  {
   "id": "t5rLzpXZ5o8",
@@ -3375,14 +3454,14 @@
    "p95_frame_delta": 18.658,
    "static_ratio": 0.138
   },
-  "lesson": "lessons/t5rLzpXZ5o8.md"
+  "lesson": "lessons/t5rLzpXZ5o8.md",
+  "loop_verified": false
  },
  {
   "id": "tCO0dH5otcY",
   "title": "ai is editing my video with motion graphics! Check out my re",
   "system": null,
   "capability": [
-   "data-viz",
    "editing-cadence"
   ],
   "format": "reel-example",
@@ -3394,7 +3473,7 @@
   "cuts": 3.0,
   "median_cut_s": 7.42,
   "primitives": [],
-  "use_when": "supplies data-viz / editing-cadence; continuous pacing; 9:16; unverified",
+  "use_when": "supplies editing-cadence; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 3.0,
    "median_cut_s": 7.42,
@@ -3403,15 +3482,16 @@
    "p95_frame_delta": 42.45,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/tCO0dH5otcY.md"
+  "lesson": "lessons/tCO0dH5otcY.md",
+  "loop_verified": false
  },
  {
   "id": "tR7wRshIsX8",
   "title": "HyperFrames HDR (HeyGen): Render True HDR Videos",
   "system": null,
   "capability": [
-   "workflow-invocation",
-   "export-and-technical"
+   "export-and-technical",
+   "workflow-invocation"
   ],
   "format": "reel-example",
   "pacing": "continuous",
@@ -3422,7 +3502,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies workflow-invocation / export-and-technical; continuous pacing; 16:9; unverified",
+  "use_when": "supplies export-and-technical / workflow-invocation; continuous pacing; 16:9; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 16.704,
@@ -3430,7 +3510,8 @@
    "p95_frame_delta": 63.78,
    "static_ratio": 0.26
   },
-  "lesson": "lessons/tR7wRshIsX8.md"
+  "lesson": "lessons/tR7wRshIsX8.md",
+  "loop_verified": false
  },
  {
   "id": "vg2bNzJ4K-o",
@@ -3456,7 +3537,8 @@
    "p95_frame_delta": 15.276,
    "static_ratio": 0.514
   },
-  "lesson": "lessons/vg2bNzJ4K-o.md"
+  "lesson": "lessons/vg2bNzJ4K-o.md",
+  "loop_verified": false
  },
  {
   "id": "vpGBQ5y9FIM",
@@ -3483,15 +3565,16 @@
    "p95_frame_delta": 89.78,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/vpGBQ5y9FIM.md"
+  "lesson": "lessons/vpGBQ5y9FIM.md",
+  "loop_verified": false
  },
  {
   "id": "wMwP3cgsDWo",
   "title": "Ep 45 3D Animated 3D Text Reflections",
   "system": null,
   "capability": [
-   "extrude-and-3d",
-   "animation-principles"
+   "animation-principles",
+   "extrude-and-3d"
   ],
   "format": "channel-episode",
   "pacing": "continuous",
@@ -3502,7 +3585,7 @@
   "cuts": 0.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies extrude-and-3d / animation-principles; continuous pacing; 16:9; channel episode; unverified",
+  "use_when": "supplies animation-principles / extrude-and-3d; continuous pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 0.0,
    "mean_frame_delta": 6.186,
@@ -3510,7 +3593,8 @@
    "p95_frame_delta": 34.011,
    "static_ratio": 0.526
   },
-  "lesson": "lessons/wMwP3cgsDWo.md"
+  "lesson": "lessons/wMwP3cgsDWo.md",
+  "loop_verified": false
  },
  {
   "id": "xHdHoejEuSg",
@@ -3537,7 +3621,8 @@
    "p95_frame_delta": 24.887,
    "static_ratio": 0.322
   },
-  "lesson": "lessons/xHdHoejEuSg.md"
+  "lesson": "lessons/xHdHoejEuSg.md",
+  "loop_verified": false
  },
  {
   "id": "x_54BAsE1VE",
@@ -3565,15 +3650,14 @@
    "p95_frame_delta": 123.071,
    "static_ratio": 0.131
   },
-  "lesson": "lessons/x_54BAsE1VE.md"
+  "lesson": "lessons/x_54BAsE1VE.md",
+  "loop_verified": false
  },
  {
   "id": "xiLGX1Z3nbE",
   "title": "Diseñador e ilustrador: ¡da el salto a Motion Graphics con A",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "reel-example",
   "pacing": "continuous",
   "shape": "9:16",
@@ -3583,7 +3667,7 @@
   "cuts": 60.0,
   "median_cut_s": 0.88,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 9:16; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 9:16; unverified",
   "measured": {
    "cuts": 60.0,
    "median_cut_s": 0.88,
@@ -3592,7 +3676,8 @@
    "p95_frame_delta": 96.604,
    "static_ratio": 0.035
   },
-  "lesson": "lessons/xiLGX1Z3nbE.md"
+  "lesson": "lessons/xiLGX1Z3nbE.md",
+  "loop_verified": false
  },
  {
   "id": "y1QxnmfQsqk",
@@ -3618,15 +3703,14 @@
    "p95_frame_delta": 18.851,
    "static_ratio": 0.045
   },
-  "lesson": "lessons/y1QxnmfQsqk.md"
+  "lesson": "lessons/y1QxnmfQsqk.md",
+  "loop_verified": false
  },
  {
   "id": "y1y5gSfVGko",
   "title": "Ep 74 Email Motion Graphics with Alpha Channel",
   "system": null,
-  "capability": [
-   "data-viz"
-  ],
+  "capability": [],
   "format": "channel-episode",
   "pacing": "continuous",
   "shape": "16:9",
@@ -3636,7 +3720,7 @@
   "cuts": 1.0,
   "median_cut_s": null,
   "primitives": [],
-  "use_when": "supplies data-viz; continuous pacing; 16:9; channel episode; unverified",
+  "use_when": "finished example, no stated technique; continuous pacing; 16:9; channel episode; unverified",
   "measured": {
    "cuts": 1.0,
    "mean_frame_delta": 7.046,
@@ -3644,7 +3728,8 @@
    "p95_frame_delta": 38.044,
    "static_ratio": 0.525
   },
-  "lesson": "lessons/y1y5gSfVGko.md"
+  "lesson": "lessons/y1y5gSfVGko.md",
+  "loop_verified": false
  },
  {
   "id": "ythRPCzx4e8",
@@ -3671,7 +3756,8 @@
    "p95_frame_delta": 56.681,
    "static_ratio": 0.292
   },
-  "lesson": "lessons/ythRPCzx4e8.md"
+  "lesson": "lessons/ythRPCzx4e8.md",
+  "loop_verified": false
  },
  {
   "id": "zb_nj_06I_w",
@@ -3698,7 +3784,8 @@
    "p95_frame_delta": 45.821,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/zb_nj_06I_w.md"
+  "lesson": "lessons/zb_nj_06I_w.md",
+  "loop_verified": false
  },
  {
   "id": "zipjTtkONUo",
@@ -3725,7 +3812,8 @@
    "p95_frame_delta": 45.127,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/zipjTtkONUo.md"
+  "lesson": "lessons/zipjTtkONUo.md",
+  "loop_verified": false
  },
  {
   "id": "zrKSBDRq1nw",
@@ -3750,6 +3838,7 @@
    "p95_frame_delta": 80.503,
    "static_ratio": 0.0
   },
-  "lesson": "lessons/zrKSBDRq1nw.md"
+  "lesson": "lessons/zrKSBDRq1nw.md",
+  "loop_verified": false
  }
 ]
