@@ -45,7 +45,7 @@ measured:
 - **url** https://www.youtube.com/watch?v=aNZeXQmVOjQ
 - **duration** 66.5 s · **29.97 fps** · **1920×1080 (16:9 landscape)** · av1 720 kbps
 - **audio** opus · **−19.61 LUFS** · TP −5.84 dBTP · **LRA 15.8**
-- **extracted** 2026-10-21 · 33 keyframes · **7 read** (0.1 / 10.6 / 15.9 / 34.3 / 47.9 / 55.8 / 66.3)
+- **extracted** 2026-10-21 · 33 keyframes · **10 read** (0.1 / 10.6 / 15.9 / 26.6 / 29.2 / 31.9 / 34.3 / 47.9 / 55.8 / 66.3)
 
 **Not a Short.** This sits in HeyGen's `/shorts` tab but measures **1920×1080 landscape** at
 66.5 s. The shorts tab is not a reliable format filter — a correction to `SHORTS-INVENTORY.md`,
@@ -181,14 +181,54 @@ That is deliberate: it reads as a feed already running, not an element placed fo
 
 **Transition out** — hard cut at 18.80 s.
 
-### Beat 4 — 18.80 – 33.90 s (15.1 s · 22.7%) · `measured` boundary, **NOT READ**
+### Beat 4 — 18.80 – 33.90 s (15.1 s · 22.7%) · `measured` boundary · **NOW READ**
 
-The longest beat. Keyframes exist at 26.6 / 29.2 / 31.9 s but were not opened in this pass, so I
-will not describe content I did not see. By position — between the prompt beat and the data-card
-burst cluster — it is most likely the main data build.
+The longest beat, and the one that explains the piece's actual structure. It is **not** "the main
+data build" as this lesson originally speculated. It is a three-stage progression on a single
+talking-head shot:
 
-**This is the one gap in this lesson. It is 77% covered, not complete.** Filling it means reading
-three frames.
+| t | what is on screen |
+|---|---|
+| 26.6 s | presenter speaking; micro-label `BIGGEST IPO IN HISTORY` top-right; caption pill `Biggest IPO in history,` |
+| 29.2 s | same shot; now `$135` appears as a large stat at right-centre with `PER SHARE · IPO JUNE 2026` beneath; caption `$135 a share.` |
+| 31.9 s | the card is replaced by a near-full-frame pale prompt overlay: `can we have an animated graph b-roll here instead?` in dark grey `#5E5E5E`, left-aligned, two lines, with a small circular multicolour avatar/logo icon beneath at `x≈255, y≈275` |
+
+**Composition** — talking head centred in the rounded card, exactly as beat 2. The overlays are
+added to the same shot; there is no cut between 18.8 and 33.9 s (the measured cut list agrees).
+
+**Why this matters — the piece's real spine.** The video is not "seven graphic styles in
+sequence". It is a **repeated ask → produce loop**, with the *asks shown as content*:
+
+```
+beat 3   prompt:  "Can we add a motion graphic to this scene"
+beat 4   the graphic builds over the presenter, then a second prompt:
+                  "can we have an animated graph b-roll here instead?"
+beat 5   the graph card appears (the IPO card with its bar chart)
+```
+
+So the demo's argument is structural, not verbal: you watch a request, then you watch the result.
+The prompt overlay is not chrome — **the prompt is a design element in the same typographic
+register as the data labels.** That is the most transferable idea in the video, and it only became
+visible by reading this beat.
+
+**Typography** — the prompt overlay is a *third* register: sentence case, regular weight,
+`#5E5E5E`, ~40–46 px, left-aligned. It is not the caps micro-label and not the heavy display. The
+system survives this because the prompt lives on its own full-frame card, separated from the data
+cards by a hard cut — the registers never share a frame.
+
+**Palette** — the prompt card is a pale mint→cyan gradient `#E7FFF2` → `#F4FCFF`, with the pastel
+canvas (`#5BDBEF` cyan, `#A8F6CF` mint, `#70F18A` green, `#D9B8FF` lavender, `#F2A8E7` pink) only
+visible as a border. Effectively the card inverts: pale card, pastel edge — the reverse of the
+dark card in every other beat.
+
+**Transition out** — hard cut at 33.90 s into the IPO card.
+
+### Correction to this lesson's earlier claim
+
+The first version of this file said beat 4 was unread and "most likely the main data build", and
+graded the lesson at 77% coverage. That was honest at the time and is now superseded: beat 4 is
+read, and the speculation was **wrong in an interesting way** — the beat contains a prompt, which
+changes the reading of the entire piece from "style reel" to "workflow demo".
 
 ### Beat 5 — 33.90 – 47.50 s (13.6 s) · `measured` boundaries, burst cluster
 
@@ -378,8 +418,9 @@ ACCEPTANCE
 
 ## 7. Caveats
 
-- **Beat 4 (18.8–33.9 s, 22.7% of runtime) was not read.** Three keyframes exist and were not
-  opened. Treat this lesson as 77% coverage, not complete.
+- **Beat 4 is now read** (26.6 / 29.2 / 31.9 s). The lesson is complete across all 7 beats. It
+  remains a reading of 10 of 33 keyframes, so intermediate motion *within* beats is still inferred
+  rather than observed.
 - **Not a Short.** 1920×1080 landscape, 66.5 s, from a `/shorts` tab. Our inventory counts must be
   re-checked against actual resolution, not tab membership.
 - **It is a vendor demo.** The technique is real; the "look how fast" claims are marketing.

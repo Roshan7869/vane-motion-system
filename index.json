@@ -1441,25 +1441,29 @@
     "id": "JNMtnj4-q1U",
     "title": "Hyperframes vs Remotion",
     "form": "short",
-    "depth": "structural",
+    "depth": "deep",
     "duration_s": 91.0,
     "resolution": "608x1080",
     "fps": "30/1",
-    "has_captions": "unknown",
-    "caption_script": "unknown",
+    "has_captions": "true",
+    "caption_script": "latin",
     "primitives": [
-      "unclassified"
+      "talking-head",
+      "split-screen-comparison"
     ],
     "emotion": [
-      "neutral"
+      "analytical",
+      "opinionated"
     ],
     "tags": [
-      "motion",
-      "unclassified"
+      "architecture",
+      "remotion",
+      "hyperframes",
+      "decision",
+      "correction"
     ],
     "easing": [
-      "linear",
-      "power2.out"
+      "linear"
     ],
     "measured": {
       "cuts": 1.0,
@@ -1974,27 +1978,32 @@
     "id": "NoGRmd2qaPY",
     "title": "HYPERFRAMES PRESENTS: THE BORING REPORT",
     "form": "short",
-    "depth": "structural",
+    "depth": "deep",
     "duration_s": 86.4,
     "resolution": "608x1080",
     "fps": "30/1",
-    "has_captions": "unknown",
-    "caption_script": "unknown",
+    "has_captions": "false",
+    "caption_script": "none",
     "primitives": [
+      "ai-broll-assembly",
+      "teal-orange-grade",
       "fast-cut",
-      "continuous-motion"
+      "end-card-lockup"
     ],
     "emotion": [
-      "urgent",
-      "energetic"
+      "cinematic",
+      "weary",
+      "aspirational"
     ],
     "tags": [
-      "continuous-motion",
-      "fast-cut"
+      "broll",
+      "ai-generation",
+      "grading",
+      "narrative",
+      "end-card"
     ],
     "easing": [
-      "linear",
-      "power2.out"
+      "linear"
     ],
     "measured": {
       "cuts": 18.0,

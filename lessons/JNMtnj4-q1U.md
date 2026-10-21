@@ -3,22 +3,28 @@ id: JNMtnj4-q1U
 title: "Hyperframes vs Remotion"
 source_url: https://www.youtube.com/watch?v=JNMtnj4-q1U
 form: short
-depth: structural
+depth: deep
+kind: architecture-note
 duration_s: 91.0
 resolution: 608x1080
+aspect: "9:16"
 fps: 30/1
 primitives:
-  - unclassified
+  - talking-head
+  - split-screen-comparison
 emotion:
-  - neutral
+  - analytical
+  - opinionated
 tags:
-  - motion
-  - unclassified
+  - architecture
+  - remotion
+  - hyperframes
+  - decision
+  - correction
 easing:
   - linear
-  - power2.out
-has_captions: unknown
-caption_script: unknown
+has_captions: true
+caption_script: latin
 measured:
   cuts: 1
   mean_frame_delta: 7.565
@@ -29,102 +35,154 @@ measured:
 
 # Hyperframes vs Remotion
 
-- **id** `JNMtnj4-q1U`
-- **url** https://www.youtube.com/watch?v=JNMtnj4-q1U
-- **duration** 1m 31s
-- **source** 608x1080 av1 @ 30/1 · 346 kbps
-- **audio** opus · -17.36 LUFS · TP 0.4 dBTP · LRA 2.5
-- **extracted** 2026-10-21
+**Lesson type: architecture note, not a shot breakdown.** This is a 91 s vertical talking head
+(1 cut, median frame delta 4.62). There is no motion-design technique to extract — the value is the
+*argument*, and whether it holds. It partly does, and the part where it doesn't is the useful part.
 
-## Cut structure — 1 cuts
+- **id** `JNMtnj4-q1U` · 608×1080 · 30 fps · −17.36 LUFS · LRA 2.5
+- **source** transcript (auto-captions), 2 keyframes read
 
-`3.7`
+## 1. What the video claims
 
-## Motion profile
-- mean frame delta **7.565** · median **4.616** · p95 **26.656** · max **57.08**
-- **6% of samples below 1.0** (0–255 scale) — sustained motion throughout
-- sampled at 2.0 fps · 182 samples
+Quoting the transcript, which is the whole payload:
 
-## Palette (dominant, by coverage)
+> "Two tools are fighting for the same job… after weeks of testing, I made my decision based on one
+> core reason."
 
-- #111212 (43%)
-- #271e23 (32%)
-- #2f4557 (12%)
-- #66433b (9%)
-- #9c9b93 (3%)
+> "Hyperframe plays it exactly right. Let us fly in, hold, and then fall away. With Remotion, the
+> animation burns through in the first second, and the rest, black frames."
 
-## Keyframes — 36 sampled
+> "Remotion runs on React, a more powerful framework built before the AI agents hit the consumer
+> wave. Hyperframe runs on HTML, which most LLMs and AI agents speak fluently."
 
-| # | time | file |
-|---|------|------|
-| 0 | 0.1s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k00_0.1s.jpg` |
-| 1 | 2.68s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k01_2.7s.jpg` |
-| 2 | 4.13s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k02_4.1s.jpg` |
-| 3 | 5.35s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k03_5.3s.jpg` |
-| 4 | 8.03s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k04_8.0s.jpg` |
-| 5 | 10.71s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k05_10.7s.jpg` |
-| 6 | 13.38s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k06_13.4s.jpg` |
-| 7 | 16.06s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k07_16.1s.jpg` |
-| 8 | 18.74s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k08_18.7s.jpg` |
-| 9 | 21.42s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k09_21.4s.jpg` |
-| 10 | 24.09s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k10_24.1s.jpg` |
-| 11 | 26.77s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k11_26.8s.jpg` |
-| 12 | 29.45s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k12_29.4s.jpg` |
-| 13 | 32.12s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k13_32.1s.jpg` |
-| 14 | 34.8s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k14_34.8s.jpg` |
-| 15 | 37.48s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k15_37.5s.jpg` |
-| 16 | 40.15s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k16_40.1s.jpg` |
-| 17 | 42.83s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k17_42.8s.jpg` |
-| 18 | 45.51s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k18_45.5s.jpg` |
-| 19 | 48.18s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k19_48.2s.jpg` |
-| 20 | 50.86s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k20_50.9s.jpg` |
-| 21 | 53.54s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k21_53.5s.jpg` |
-| 22 | 56.21s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k22_56.2s.jpg` |
-| 23 | 58.89s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k23_58.9s.jpg` |
-| 24 | 61.57s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k24_61.6s.jpg` |
-| 25 | 64.25s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k25_64.2s.jpg` |
-| 26 | 66.92s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k26_66.9s.jpg` |
-| 27 | 69.6s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k27_69.6s.jpg` |
-| 28 | 72.28s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k28_72.3s.jpg` |
-| 29 | 74.95s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k29_75.0s.jpg` |
-| 30 | 77.63s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k30_77.6s.jpg` |
-| 31 | 80.31s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k31_80.3s.jpg` |
-| 32 | 82.98s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k32_83.0s.jpg` |
-| 33 | 85.66s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k33_85.7s.jpg` |
-| 34 | 88.34s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k34_88.3s.jpg` |
-| 35 | 90.91s | `/home/roshan/Documents/vane-motion-system/frames/JNMtnj4-q1U/k35_90.9s.jpg` |
+> "Both tools capture frame by frame. Hyperframe, however, **pauses the GSAP animation between
+> shots, so it lasts the entire sequence**. Remotion, on the other hand, **lets it keep playing**,
+> and so it results in an empty stage."
 
-## Transfer to HyperFrames
+The observed symptom is real and it is the single most common failure in this stack. The stated
+cause is wrong.
 
-<!-- AE technique -> HTML + GSAP. No AE recipes. -->
+## 2. Why the diagnosis is imprecise
 
-- _pending visual read_
+**"Remotion lets it keep playing" is not how Remotion works.** Remotion is frame-deterministic by
+construction: a composition is a function of `useCurrentFrame()`, and the renderer captures frames
+as fast as the CPU allows — **faster than realtime**. Nothing "plays".
 
-## Transfer to Remotion
+What actually produces the reported symptom:
 
-<!-- same technique -> React: useCurrentFrame + interpolate/spring. Must be frame-deterministic. -->
+1. You drop a **CSS animation or a GSAP timeline** into a Remotion component.
+2. Both of those advance on **wall-clock time**, not on Remotion's frame clock.
+3. The renderer captures frame 0, then frame 1 — and wall-clock time has jumped forward by far more
+   than 1/30 s because rendering is slower than playback.
+4. The animation has already completed by the time the second frame is captured.
+5. Everything after that is an empty stage, exactly as described.
 
-- _pending visual read_
+So the failure is **putting a time-based animation library inside a frame-based renderer without
+seeking it**. It is a misuse pattern, not a property of Remotion. The video describes the bug
+correctly and attributes it to the wrong thing.
 
-## Emotion → motion mapping
+**"HyperFrames pauses the GSAP animation between shots"** is also an outside description of
+something with a precise mechanism: HyperFrames gives every composition a **seekable timeline**, and
+a GSAP timeline must be registered (`window.__timelines[compId] = tl`, or `data-no-timeline`) for the
+capture to seek it. When it is registered, the capture drives the timeline by timestamp. That is the
+"pause" the video is seeing — it is a seek contract, not a pause.
 
-<!-- what feeling the technique carries, and the exact easing/pace/travel that encodes it -->
+## 3. Our own counter-evidence
 
-- _pending visual read_
+This repo already contains the test. `/home/roshan/hyperframes/stack-lab/remotion-demo/out.mp4`:
 
-## Timing rules extracted
-
-<!-- numbers we can hard-code: durations, stagger, hold, cut cadence -->
-
-- _pending visual read_
-
-## Caption implications
-
-- _pending visual read_
-
-## Reusable snippet
-
-```js
-// pending
+```
+width=1920  height=1080  r_frame_rate=30/1
+nb_frames=210  duration=7.000000
 ```
 
+210 frames at 30 fps is **exactly** 7.000 s. Not 1 s of animation followed by 6 s of black — a
+frame-exact render. And the frame at t=4 s was visually verified to contain the full composition
+(eyebrow, headline, rule, body copy, no clipping).
+
+Why did ours work? Because the composition used `useCurrentFrame()` + `interpolate()` — a pure
+function of frame number. No GSAP, no CSS animation, no wall clock.
+
+Both tools behave identically under the same discipline. The difference the video measured is not
+Remotion vs HyperFrames; it is **frame-driven vs wall-clock-driven animation**, and both frameworks
+punish the second one.
+
+## 4. The same bug, in this repo, twice
+
+This is not hypothetical. We hit both halves of it:
+
+| Where | Symptom | Cause | Fix |
+|---|---|---|---|
+| HyperFrames | `[sub_timeline_readiness_timeout]` — 48.7 s render for a 2 s clip | GSAP timeline not registered | `window.__timelines[id] = tl` → 2.7 s |
+| Remotion | would have produced "burn through then black" | (avoided) | `useCurrentFrame()` + `interpolate()`, never GSAP inside Remotion |
+
+The first row is *our* version of the exact failure the video reports against Remotion — and it
+happened in **HyperFrames**. That is the strongest argument that the framework is not the variable.
+
+## 5. What the video gets right
+
+- **HTML is a better substrate for LLM-authored video than React.** Correct and important. HTML +
+  CSS + GSAP is what an LLM writes most reliably; React component trees, hooks and bundling are a
+  larger surface for it to get wrong. This is the real reason HyperFrames feels better with agents,
+  and it is a *developer-experience* advantage, not a rendering one.
+- **"Time-bound animations, captions, motion graphics, transitions all need to be synced to a
+  script."** This is the actual requirement, and it is what our own seek contract exists to satisfy.
+- **The two-video-same-prompt test is a good method.** Comparing identical prompts across tools is
+  the right experimental design; only the causal reading is off.
+- **"It depends on your use case."** Correct, though it retreats from the earlier claim.
+
+## 6. The decision rule this actually supports
+
+Not "HyperFrames renders better than Remotion". The rule:
+
+```
+Use HyperFrames when the author is an AI agent, or when the piece is
+HTML/CSS/DOM-shaped (typography, layout, captions, editorial cards, UI demo).
+
+Use Remotion when the piece is data- or React-shaped (parameterised templates
+across hundreds of variants, typed props, shared component libraries, per-frame
+computed charts), and when the author is comfortable in React.
+
+In BOTH: every animated value must be a pure function of time.
+  HyperFrames → register the timeline so capture can seek it
+  Remotion    → useCurrentFrame() + interpolate(), never GSAP/CSS animation
+```
+
+Our stack already reflects this: HyperFrames is primary, Remotion is the second runtime for
+frame-deterministic React output. This video does not change that decision — it gives a reason people
+get it wrong.
+
+## 7. Caveats
+
+- **This is one creator's test, with one prompt, and the tooling was not inspected.** "Weeks of
+  testing" is asserted, not shown. No code, no render settings, no reproduction.
+- **I did not watch the compared videos in the piece.** The claim that Remotion "burns through in
+  the first second" may be an accurate description of *that* author's composition — I cannot verify
+  their code, only the mechanism they describe.
+- **The launch dates in the transcript are unverified** (Remotion 2021, HyperFrames April 2026).
+  Not load-bearing for the argument.
+- **Transcript-derived, not frame-derived.** The quotes come from auto-captions and may contain
+  transcription errors (e.g. "the Hit and Team", "Johnny Burger" are clearly mis-transcribed names).
+- **Do not let this note become a licence to skip testing.** The correct response to a comparison
+  video is to run the comparison, which is what the 210-frame render above is.
+
+## 8. Reusable snippet — the discipline, both runtimes
+
+```js
+// HyperFrames — seekable. Without registration the capture times out.
+const tl = gsap.timeline({ paused: true });
+tl.to('.title', { y: 0, opacity: 1, duration: 0.6, ease: 'power3.out' }, 0);
+window.__timelines['my-comp'] = tl;          // ← the whole contract
+```
+
+```tsx
+// Remotion — frame-derived. Never a GSAP timeline, never a CSS animation.
+const frame = useCurrentFrame();
+const y = interpolate(frame, [0, 18], [40, 0], {
+  extrapolateRight: 'clamp',
+  easing: Easing.out(Easing.cubic),
+});
+return <div style={{ transform: `translateY(${y}px)`, opacity: frame / 18 }} />;
+```
+
+The two snippets are the same idea expressed twice. That is the point the video was reaching for.

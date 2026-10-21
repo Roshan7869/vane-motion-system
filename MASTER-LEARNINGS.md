@@ -226,6 +226,32 @@ only the index will mis-classify the piece and rebuild it with the wrong motion 
 
 ---
 
+## 14. If you generate the imagery, the grade is the only thing holding it together
+
+**Why.** AI-generated stills do not naturally belong to one film — different lighting, different
+lens character, different colour temperature per image. The piece that solves this
+(`NoGRmd2qaPY`) applies a single **teal-and-orange** grade to every shot: shadows pulled to
+`#16171a`, highlights to `#ECA039`. That consistency is what makes eight unrelated generated images
+read as one sequence. Nothing else in the edit does that work.
+
+**Apply.** When building from generated imagery:
+
+- **Pick the grade before generating**, and apply it as a final pass across all shots, not per shot.
+- **Never let a generator render on-screen text.** The reference has a convincing trading terminal
+  whose labels read `Pendelion risk`, `Hostingbar`, `Kalgarita`. At phone size it passes; at full size
+  it is gibberish, and it destroys credibility. Real UI is HTML, always.
+- **Reserve the caption safe zone before generating.** Generated compositions centre their subject;
+  the bottom 15% of a 9:16 frame will be cropped or covered by captions later.
+- **Budget close-ups.** Hands, faces and desk surfaces carry more emotion than any graphic and are
+  the cheapest thing to generate. Three of the five frames read in the reference are a hand, a face
+  and a desk.
+
+Corollary: generated b-roll is a *substitute* for a design system, not a replacement for one. Use it
+when there is no system and no time. When there is a system, build it in HTML — which is what the
+same team did in `aNZeXQmVOjQ`.
+
+---
+
 ## Open questions this corpus has not answered
 
 - Whether karaoke per-word highlight survives Devanagari at small sizes on mobile

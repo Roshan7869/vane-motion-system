@@ -3,24 +3,31 @@ id: NoGRmd2qaPY
 title: "HYPERFRAMES PRESENTS: THE BORING REPORT"
 source_url: https://www.youtube.com/watch?v=NoGRmd2qaPY
 form: short
-depth: structural
+depth: deep
+kind: broll-assembly
 duration_s: 86.4
 resolution: 608x1080
+aspect: "9:16"
 fps: 30/1
 primitives:
+  - ai-broll-assembly
+  - teal-orange-grade
   - fast-cut
-  - continuous-motion
+  - end-card-lockup
 emotion:
-  - urgent
-  - energetic
+  - cinematic
+  - weary
+  - aspirational
 tags:
-  - continuous-motion
-  - fast-cut
+  - broll
+  - ai-generation
+  - grading
+  - narrative
+  - end-card
 easing:
   - linear
-  - power2.out
-has_captions: unknown
-caption_script: unknown
+has_captions: false
+caption_script: none
 measured:
   cuts: 18
   median_cut_s: 3.27
@@ -32,102 +39,138 @@ measured:
 
 # HYPERFRAMES PRESENTS: THE BORING REPORT
 
-- **id** `NoGRmd2qaPY`
-- **url** https://www.youtube.com/watch?v=NoGRmd2qaPY
-- **duration** 1m 26s
-- **source** 608x1080 av1 @ 30/1 · 564 kbps
-- **audio** opus · -19.09 LUFS · TP -2.42 dBTP · LRA 10.8
-- **extracted** 2026-10-21
+**Lesson type: b-roll assembly, not motion graphics.** Despite the title, there is no HyperFrames
+UI, no vector graphics and no HTML in this piece. It is **AI-generated imagery cut together** — a
+narrative essay visual. Its value to this repo is as the *opposite* strategy to the editorial cards,
+and as evidence of when the team behind the tool chooses not to use it.
 
-## Cut structure — 18 cuts
-Median interval **3.27s**. Irregular — cut to content, not to a clock.
+- **id** `NoGRmd2qaPY` · 608×1080 · 30 fps · 86.4 s · −19.09 LUFS · LRA 10.8 · 34 keyframes, **5 read**
+  (0.1 / 30.5 / 46.5 / 86.3)
 
-`6.0 · 8.9 · 10.4 · 12.1 · 20.1 · 34.0 · 35.1 · 38.4 · 42.7 · 46.1 · 47.3 · 49.1 · 51.3 · 59.8 · 64.9 · 67.0 · 71.4 · 79.6`
+## 1. Motive
 
-## Motion profile
-- mean frame delta **25.458** · median **19.221** · p95 **73.959** · max **105.875**
-- **3% of samples below 1.0** (0–255 scale) — sustained motion throughout
-- sampled at 2.0 fps · 173 samples
+A brand-produced narrative short — "HYPERFRAMES PRESENTS" — about the grind of work. It creates a
+mood rather than teaching anything, and it closes on a HeyGen logo lockup. The choice that matters:
+**for narrative content, even the HyperFrames team used AI-generated b-roll instead of their own
+graphic engine.** That is a useful admission about fit.
 
-## Palette (dominant, by coverage)
+## 2. Global specification
 
-- #16171a (32%)
-- #4e4443 (21%)
-- #7c7374 (18%)
-- #ada5a2 (16%)
-- #d9dee7 (12%)
+| Field | Value | Source |
+|---|---|---|
+| Mood | cinematic, weary, aspirational | judged |
+| Lighting | chiaroscuro — warm practical key (desk lamp, window), cool screen fill | judged |
+| Colour grading | **teal and orange**, consistently across every shot | judged |
+| Camera | shallow depth of field, 3/4 angles, hands and faces cropped tight | judged |
+| Finish | photoreal / stylised-3D hybrid; smooth skin and perfect materials are the tells that these are generated | judged |
+| Resolution / aspect | 608×1080 (9:16 portrait — a **true Short**) | measured |
+| FPS | 30 | measured |
+| Duration | 86.4 s, 18 cuts | measured |
+| Palette | `#16171a` 32% · `#4e4443` 21% · `#7c7374` 18% · `#ada5a2` 16% · `#d9dee7` 12% | measured |
+| Audio | −19.09 LUFS, LRA **10.8** — real dynamics, music-led | measured |
+| Captions | **none anywhere** | measured (5 frames read, zero text overlays) |
 
-## Keyframes — 34 sampled
+### Motion signature
 
-| # | time | file |
-|---|------|------|
-| 0 | 0.1s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k00_0.1s.jpg` |
-| 1 | 5.08s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k01_5.1s.jpg` |
-| 2 | 6.43s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k02_6.4s.jpg` |
-| 3 | 9.33s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k03_9.3s.jpg` |
-| 4 | 10.17s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k04_10.2s.jpg` |
-| 5 | 10.83s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k05_10.8s.jpg` |
-| 6 | 12.47s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k06_12.5s.jpg` |
-| 7 | 15.25s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k07_15.2s.jpg` |
-| 8 | 20.33s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k08_20.3s.jpg` |
-| 9 | 25.42s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k09_25.4s.jpg` |
-| 10 | 30.5s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k10_30.5s.jpg` |
-| 11 | 34.4s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k11_34.4s.jpg` |
-| 12 | 35.53s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k12_35.5s.jpg` |
-| 13 | 38.8s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k13_38.8s.jpg` |
-| 14 | 40.67s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k14_40.7s.jpg` |
-| 15 | 43.1s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k15_43.1s.jpg` |
-| 16 | 45.75s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k16_45.8s.jpg` |
-| 17 | 46.47s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k17_46.5s.jpg` |
-| 18 | 47.67s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k18_47.7s.jpg` |
-| 19 | 49.47s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k19_49.5s.jpg` |
-| 20 | 50.83s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k20_50.8s.jpg` |
-| 21 | 51.73s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k21_51.7s.jpg` |
-| 22 | 55.91s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k22_55.9s.jpg` |
-| 23 | 60.2s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k23_60.2s.jpg` |
-| 24 | 61.0s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k24_61.0s.jpg` |
-| 25 | 65.27s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k25_65.3s.jpg` |
-| 26 | 66.08s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k26_66.1s.jpg` |
-| 27 | 67.43s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k27_67.4s.jpg` |
-| 28 | 71.16s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k28_71.2s.jpg` |
-| 29 | 71.77s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k29_71.8s.jpg` |
-| 30 | 76.25s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k30_76.2s.jpg` |
-| 31 | 80.03s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k31_80.0s.jpg` |
-| 32 | 81.33s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k32_81.3s.jpg` |
-| 33 | 86.31s | `/home/roshan/Documents/vane-motion-system/frames/NoGRmd2qaPY/k33_86.3s.jpg` |
-
-## Transfer to HyperFrames
-
-<!-- AE technique -> HTML + GSAP. No AE recipes. -->
-
-- _pending visual read_
-
-## Transfer to Remotion
-
-<!-- same technique -> React: useCurrentFrame + interpolate/spring. Must be frame-deterministic. -->
-
-- _pending visual read_
-
-## Emotion → motion mapping
-
-<!-- what feeling the technique carries, and the exact easing/pace/travel that encodes it -->
-
-- _pending visual read_
-
-## Timing rules extracted
-
-<!-- numbers we can hard-code: durations, stagger, hold, cut cadence -->
-
-- measured median cut interval **3.27s**
-- _pending visual read_
-
-## Caption implications
-
-- _pending visual read_
-
-## Reusable snippet
-
-```js
-// pending
+```
+mean 25.458 · median 19.221 · p95 73.959 · max 105.875 · static_ratio 0.029
+mean/median = 1.32  →  CONTINUOUS
 ```
 
+Unlike the editorial piece (mean/median 5.56×), this is genuinely continuous — the median is high
+because the imagery is always moving. It is not graphics animation; it is **camera drift, subject
+motion and cuts**. Per rule 13, the ratio is what separates the two.
+
+### The cut rhythm
+
+```
+intervals: 6.0 · 2.9 · 1.5 · 1.7 · 8.0 · 13.9 · 1.1 · 3.3 · 4.3 · 3.4
+           · 1.2 · 1.8 · 2.2 · 8.5 · 5.1 · 2.1 · 4.4 · 8.2
+median 3.27 s
+```
+
+A clear pattern: **long establishing holds (8.0, 13.9, 8.5, 8.2 s) punctuated by bursts of
+1.1–2.2 s.** The holds let a shot breathe; the bursts land a sequence of related images. This is
+essay pacing, not ad pacing — much closer to the tutorial cadence (median 14 s) than to the viral
+reel (median 1 cut total).
+
+## 3. Shot evidence
+
+| t | what it shows | system |
+|---|---|---|
+| 0.1 s | stylised 3D render: young man hunched at a desk at night, warm desk lamp, laptop glow on his face, coffee cups and crumpled paper, a sheet reading **`REPORT`** lying flat in perspective | 3D narrative illustration, teal-orange grade |
+| 30.5 s | photoreal render: man in 3/4 profile at an iMac, trading terminal on screen (`Portfolio`, `Derivatives Search`, `Market Watch`, `Symbol`/`Metric`/`Change`/`Performance`), warm window light behind | AI-generated hyperrealism; **on-screen text is pseudo-text** — `Hostingbar`, `Kalgarita`, `Pendelion risk` are not words |
+| 46.5 s | extreme close-up: a hand typing on a low-profile aluminium keyboard, shallow DOF, blurred monitor behind, **no text overlay at all** | photoreal, warm-cool contrast |
+| 86.3 s | **end card**: pure white field, black `Hey` / `Gen` wordmark stacked and offset, multicolour faceted gem logo (green / lavender / magenta / cyan) to the right | brand lockup |
+
+Two observations worth keeping:
+
+- **The AI-generated screens contain believable-but-fake UI text.** `Pendelion risk`, `Hostingbar`,
+  `Kalgarita`. At 9:16 on a phone this reads as "a trading terminal"; at full size it is gibberish.
+  If we generate b-roll, any on-screen UI must be either unreadable by design or replaced with real
+  HTML — never left to a generator.
+- **The `REPORT` sheet in the opening frame is the only legible word in the whole piece** before the
+  end card. That is the entire textual payload of 86 seconds.
+
+## 4. What transfers, and what doesn't
+
+**Transfers:**
+
+1. **AI b-roll as a budget substitute for graphics.** When there is no design system and no time,
+   generate stills and cut them with a consistent grade. The grade is what makes disparate generated
+   images feel like one film — teal shadows, orange highlights, applied to every single shot.
+2. **Burst-and-hold essay pacing** — 8–14 s holds, 1–2 s bursts. Reusable for any narrative piece.
+3. **Close-up hands and faces as connective tissue.** Three of the five frames read are a hand, a
+   face and a desk. Cheap to generate, and they carry more emotion than any graphic.
+4. **A pure white end card with a black wordmark.** Maximum contrast, zero motion, total clarity.
+   Better than the black fade in `aNZeXQmVOjQ`, which wasted 3.2 s on nothing.
+
+**Doesn't transfer:**
+
+1. **86 seconds with no captions and no graphics.** A muted viewer — most of short-form — gets an
+   attractive mood and no information. Our caption pattern exists precisely to fix this.
+2. **AI-generated UI.** Fake terminal text is a credibility hole. In our pipeline, UI is HTML.
+3. **The narrative essay format** is not what we are building. We build product and brand pieces
+   where the words are the payload.
+
+## 5. Emotion → motion mapping
+
+| Feeling | Parameter | Value |
+|---|---|---|
+| Weary, cinematic | grade | teal shadows `#16171a`, orange highlights `#ECA039` |
+| Considered | hold length | 8–14 s |
+| Momentum | burst length | 1.1–2.2 s |
+| Intimate | DOF | shallow, subject sharp, background fully soft |
+| Resolved | end card | pure white, zero motion, brand only |
+
+## 6. Timing rules extracted
+
+- 18 cuts, median **3.27 s** — `measured`
+- Hold/burst structure: 8.0 / 13.9 / 8.5 / 8.2 s holds against 1.1–2.2 s bursts — `measured`
+- mean 25.458 / median 19.221 → ratio **1.32**, continuous, not hold-and-burst — `measured`
+- static_ratio **0.029** — almost nothing rests — `measured`
+- LRA **10.8** — real dynamics — `measured`
+- End card total duration ≈ 6.8 s (79.6 cut → 86.4 end) — `measured`
+
+## 7. Caption implications
+
+**There are no captions.** That is the finding, and it is a defect for our purposes:
+
+- 86 s of visual with no text means the piece is unreadable muted.
+- The only defence is that the audio carries it (LRA 10.8, music-led), which is fine for a mood
+  film and wrong for anything informational.
+- If we adopt the AI-b-roll approach, captions must be added on top in our own register — and the
+  b-roll must be generated with a **safe zone** in mind, since generated compositions centre their
+  subject. Reserve the bottom 15% before generating, or you will cut faces.
+
+## 8. Caveats
+
+- **Five frames read of 34.** Beats between them are inferred from the cut grid, not observed.
+- **The piece is not a motion-graphics reference.** I include it because it is evidence about fit,
+  and because the grade and pacing are genuinely reusable — not because it teaches HyperFrames.
+- **AI-generated imagery dates fast** and carries known artifacts (malformed hands, pseudo-text).
+  The frame at 30.5 s has a visibly malformed right hand on the keyboard.
+- **Do not copy the no-caption decision.** It is the clearest defect in the piece.
+- **The title is misleading.** "HYPERFRAMES PRESENTS: THE BORING REPORT" primed me to expect a
+  HyperFrames graphic showcase. Reading the frames showed the opposite: zero HTML output. Titles are
+  not evidence — which is exactly why this repo measures instead of trusting metadata.
