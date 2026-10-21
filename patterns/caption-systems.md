@@ -30,9 +30,12 @@ rather than on speech, which is the single clearest signature of a generated tem
 | Safe inset | 44 px sides, 148 px bottom | clears platform UI |
 | Contrast | ≥ 4.5:1 on the darkest frame behind it | not on the average frame |
 
-## The caption capsule
+## Caption placement — three valid options, pick by footage, not by taste
 
-A dark translucent plate behind the text, not text floating on footage.
+There is no single correct placement. What matters is whether you can **guarantee contrast on the
+worst frame behind the caption**, not the average frame. Three placements, in order of guarantee:
+
+### 1. Capsule (plate behind text) — the guarantee
 
 ```css
 #capsule{
@@ -45,9 +48,56 @@ A dark translucent plate behind the text, not text floating on footage.
 }
 ```
 
-Why a plate rather than a stroke/shadow: a plate holds contrast **regardless of what the
-footage does**, so the same caption works over a bright window and a dark interior. Shadows
-fail on bright frames; outlines fail on busy ones.
+Holds contrast regardless of what the footage does — a bright window, a dark interior, a busy
+crowd. Use when the edit cuts across uncontrolled footage and the caption must survive all of it.
+
+**Costs:** ~15% of a 9:16 frame, and it reads *produced*. On a beauty or lifestyle piece it fights
+the image.
+
+### 2. Scrim (partial gradient) — the middle path
+
+```css
+#scrim{
+  position:absolute; left:0; right:0; bottom:0; height:38%;
+  background:linear-gradient(to top, rgba(0,0,0,.72) 0%, rgba(0,0,0,.38) 45%, transparent 100%);
+  pointer-events:none;
+}
+```
+
+Text sits directly on footage, but a gradient guarantees the bottom third is dark enough. This is
+what most cinematic and creator-style references actually do — it looks like direct placement and
+behaves like a plate.
+
+### 3. Direct overlay with shadow — the editorial choice
+
+Text straight onto the image, held by a soft drop shadow or a 1 px stroke.
+
+**Preconditions — do not skip these:**
+
+- the caption sits in a zone that is dark or clean **on every frame it appears over**
+- you have checked the worst frame, not a representative one
+- contrast still measures ≥ 4.5:1 there
+
+Use when the composition is built around the type — a brand piece, a controlled set, a graphic
+frame. It is the most confident-looking option and the most fragile: one bright cut and the caption
+vanishes.
+
+### How to choose
+
+| Situation | Placement |
+|---|---|
+| Uncontrolled footage, many cuts, must always read | capsule |
+| Real footage, cinematic feel, bottom third can be darkened | scrim |
+| Composed frame, type is part of the design | direct overlay + shadow |
+| Brand references show direct overlay | **follow the brand** — then verify the worst frame |
+
+**Brand references override this file.** If the references place type directly on footage, that is
+the house style; the repo's job is to tell you what to check (worst-frame contrast), not to
+overrule the art direction.
+
+Why any of this matters: contrast is measured on the **darkest frame behind the caption**, never the
+average. A caption that passes on a mid-tone frame and fails on a white cut is broken, and it is the
+single most common caption defect in generated video.
 
 ## Emphasis: one word per line, and it must be a colour not a size
 

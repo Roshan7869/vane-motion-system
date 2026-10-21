@@ -22,19 +22,26 @@ Read in this order. Do not read `lessons/` first — it is 137 files of detail a
 drown.
 
 ```
-1. README.md              ← you are here: contract + routing table
-2. TAXONOMY.md            ← the 7 facets + ingestibility numbers
-3. capabilities.json      ← THE ROUTER: filter this, never read linearly (~26K tokens)
-4. SCHEMA.md              ← the shape of a lesson file
-5. MASTER-LEARNINGS.md    ← 14 cross-cutting rules that hold across the whole corpus
-6. patterns/*.md          ← one file per technique family (3 exist)
-7. lessons/<id>.md        ← per-video detail, only the 1-3 that your filter selected
-8. snippets/              ← copy-pasteable implementations
+1. PROJECT-KNOWLEDGE.md   ← THE PASTE BUNDLE: 5 rules + brand overrides + task routing (~4K tokens)
+2. VERIFIED-INDEX.md      ← what is measured vs inferred. Read before trusting any lesson
+3. README.md              ← you are here: contract + routing table
+4. TAXONOMY.md            ← the 7 facets + ingestibility numbers
+5. capabilities.json      ← THE ROUTER: filter this, never read linearly (~26K tokens)
+6. SCHEMA.md              ← the shape of a lesson file
+7. MASTER-LEARNINGS.md    ← 14 cross-cutting rules that hold across the whole corpus
+8. patterns/*.md          ← one file per technique family (3 exist)
+9. lessons/<id>.md        ← per-video detail, only the 1-3 that your filter selected
+10. snippets/             ← copy-pasteable implementations
 ```
 
-**Do not bulk-ingest `lessons/`.** The whole tracked repo is ~248K tokens; the router is
-~26K. Filter `capabilities.json`, sort `basis == "visual-read"` first, open at most 3
-lessons. See TAXONOMY.md for the full protocol and worked retrievals.
+**Only 6 of 137 lessons are verified.** `VERIFIED-INDEX.md` lists which. The other 131 have their
+capability inferred from their title — they are leads about what to watch, not rules about what to
+build. Never present one as a rule.
+
+**If you are putting this repo into a project's knowledge slot, use `PROJECT-KNOWLEDGE.md` alone.**
+It carries the five load-bearing rules, the brand-override block and an explicit task→files table, so
+an agent has no reason to invent its own thresholds.
+
 
 ### Routing table — start from the effect you need
 
