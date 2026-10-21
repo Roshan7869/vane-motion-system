@@ -22,17 +22,37 @@ Read in this order. Do not read `lessons/` first — it is 137 files of detail a
 drown.
 
 ```
-1. PROJECT-KNOWLEDGE.md   ← THE PASTE BUNDLE: 5 rules + brand overrides + task routing (~4K tokens)
-2. VERIFIED-INDEX.md      ← what is measured vs inferred. Read before trusting any lesson
-3. README.md              ← you are here: contract + routing table
-4. TAXONOMY.md            ← the 7 facets + ingestibility numbers
-5. capabilities.json      ← THE ROUTER: filter this, never read linearly (~26K tokens)
-6. SCHEMA.md              ← the shape of a lesson file
-7. MASTER-LEARNINGS.md    ← 14 cross-cutting rules that hold across the whole corpus
-8. patterns/*.md          ← one file per technique family (3 exist)
-9. lessons/<id>.md        ← per-video detail, only the 1-3 that your filter selected
-10. snippets/             ← copy-pasteable implementations
+0. rules.md               ← 5 non-negotiable rules (~580 tokens). Load with ANY style card
+0b. styles/<one>.md       ← compiled style card, ~400-600 tokens. Load ONE
+   (captions go in styles/captions.md, only if the piece has captions)
 ```
+
+**For a normal video task that is the whole budget: ~1,150–2,100 tokens.** Do not load the rest.
+
+```
+1. PROJECT-KNOWLEDGE.md   ← paste bundle for a knowledge slot: rules + overrides + task routing (~1.6K)
+2. VERIFIED-INDEX.md      ← what is measured vs inferred. Read before trusting any lesson (~1.4K)
+3. README.md              ← you are here: contract + routing table
+4. TAXONOMY.md            ← the 7 facets + ingestibility numbers (~2.4K)
+5. capabilities.json      ← THE ROUTER: filter this, never read linearly (~26K)
+6. SCHEMA.md              ← the shape of a lesson file
+7. MASTER-LEARNINGS.md    ← 14 cross-cutting rules across the whole corpus (~3.2K)
+8. patterns/*.md          ← one file per technique family (3 exist)
+9. lessons/<id>.md        ← per-video detail, only the 1-3 your filter selected
+10. snippets/             ← copy-pasteable implementations (~5K for all of them)
+```
+
+**Token budget, measured:**
+
+| Load | Tokens |
+|---|---|
+| `rules.md` + one style card | **~1,150** |
+| + `styles/captions.md` | ~2,070 |
+| + one snippet | ~2,265 |
+| `PROJECT-KNOWLEDGE.md` + router (capability search) | ~28,000 |
+| MASTER-LEARNINGS + TAXONOMY + 2 cards | ~7,170 |
+| all 137 lessons (do not do this) | **189,729** |
+
 
 **Only 6 of 137 lessons are verified.** `VERIFIED-INDEX.md` lists which. The other 131 have their
 capability inferred from their title — they are leads about what to watch, not rules about what to
