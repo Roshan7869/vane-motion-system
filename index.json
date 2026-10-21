@@ -1,5 +1,220 @@
 [
   {
+    "id": "0Mxn45UZw2E",
+    "title": "🔥How to edit viral reels in After Effects [The COMPLETE Guide]",
+    "form": "short",
+    "duration_s": "10.0",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "editing",
+      "reel",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "lesson": "lessons/0Mxn45UZw2E.md"
+  },
+  {
+    "id": "3Gf_8827t7o",
+    "title": "🔥Viral reel animation",
+    "form": "short",
+    "duration_s": "20.0",
+    "resolution": "608x1080",
+    "fps": "24/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "reel",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/3Gf_8827t7o.md"
+  },
+  {
+    "id": "EjadIKcJPmw",
+    "title": "🔥Clean Motion Graphics in After Effects",
+    "form": "short",
+    "duration_s": "12.1",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/EjadIKcJPmw.md"
+  },
+  {
+    "id": "FNj7PMK8SPo",
+    "title": "🔥Sport Masterclass Motion Graphics",
+    "form": "short",
+    "duration_s": "58.9",
+    "resolution": "608x1080",
+    "fps": "24/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/FNj7PMK8SPo.md"
+  },
+  {
+    "id": "HVTuxncA9JU",
+    "title": "SaaS Explainer video",
+    "form": "short",
+    "duration_s": "19.0",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/HVTuxncA9JU.md"
+  },
+  {
+    "id": "ISV9R4fYWik",
+    "title": "How to Create VIRAL REELS",
+    "form": "short",
+    "duration_s": "10.0",
+    "resolution": "608x1080",
+    "fps": "16/1",
+    "has_captions": "true",
+    "caption_script": "latin",
+    "primitives": [
+      "collage-layering",
+      "paper-grain",
+      "extruded-type",
+      "per-shot-palette-reset",
+      "vignette"
+    ],
+    "emotion": [
+      "loud",
+      "urgent",
+      "meme-literate"
+    ],
+    "tags": [
+      "reel",
+      "collage",
+      "typography",
+      "texture",
+      "transition"
+    ],
+    "easing": [
+      "power4.out",
+      "none"
+    ],
+    "lesson": "lessons/ISV9R4fYWik.md"
+  },
+  {
+    "id": "Inbq3t8_TXA",
+    "title": "How to edit viral reels in after effects [COMPLETE Guide]",
+    "form": "short",
+    "duration_s": "23.1",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/Inbq3t8_TXA.md"
+  },
+  {
+    "id": "KzuKj44a620",
+    "title": "How to edit VIRAL REELS in after effects",
+    "form": "short",
+    "duration_s": "40.2",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/KzuKj44a620.md"
+  },
+  {
     "id": "L2kBejduZ-I",
     "title": "How to Create a 3D Map Animation in After Effects",
     "form": "short",
@@ -24,6 +239,35 @@
       "power2.out"
     ],
     "lesson": "lessons/L2kBejduZ-I.md"
+  },
+  {
+    "id": "Ld5LkPkQodQ",
+    "title": "🔥How to Edit VIRAL REELS Animations in After Effects",
+    "form": "short",
+    "duration_s": "23.3",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing",
+      "fast-cut",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/Ld5LkPkQodQ.md"
   },
   {
     "id": "MTXVNh3L7h4",
@@ -76,5 +320,183 @@
       "power2.out"
     ],
     "lesson": "lessons/_WCJ0dAf0qE.md"
+  },
+  {
+    "id": "d6EVIGiRWik",
+    "title": "How to make Split Screen transition after effects tutorial",
+    "form": "short",
+    "duration_s": "12.1",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "transition",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/d6EVIGiRWik.md"
+  },
+  {
+    "id": "k2e8WnvTCiI",
+    "title": "🔥How to edit documentary style videos in After Effects",
+    "form": "short",
+    "duration_s": "46.5",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "documentary",
+      "editing",
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "lesson": "lessons/k2e8WnvTCiI.md"
+  },
+  {
+    "id": "kOoAnPnb9ME",
+    "title": "How to edit like MagnatesMedia in After Effects Full Guide",
+    "form": "short",
+    "duration_s": "20.9",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/kOoAnPnb9ME.md"
+  },
+  {
+    "id": "nkcbLo4DaYE",
+    "title": "Animate Line Graphs Like Cleo Abram After Effects Tutorial",
+    "form": "short",
+    "duration_s": "57.4",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/nkcbLo4DaYE.md"
+  },
+  {
+    "id": "rglfuEehdSY",
+    "title": "How to learn motion graphics in After Effects",
+    "form": "short",
+    "duration_s": "11.0",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "false",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/rglfuEehdSY.md"
+  },
+  {
+    "id": "t5rLzpXZ5o8",
+    "title": "🚀How to Edit Documentary Style Videos",
+    "form": "short",
+    "duration_s": "47.4",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "documentary",
+      "editing"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/t5rLzpXZ5o8.md"
+  },
+  {
+    "id": "ythRPCzx4e8",
+    "title": "🔥How to Create a SaaS Explainer Ad in After Effects",
+    "form": "short",
+    "duration_s": "24.4",
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "true",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "lesson": "lessons/ythRPCzx4e8.md"
   }
 ]
