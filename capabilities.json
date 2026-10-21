@@ -28,7 +28,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/-C1IrekULXE.md",
-  "loop_verified": true
+  "loop_verified": true,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "-lSsgm-wVdU",
@@ -57,7 +65,15 @@
    "static_ratio": 0.099
   },
   "lesson": "lessons/-lSsgm-wVdU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "-qHdnUBOS88",
@@ -86,7 +102,13 @@
    "static_ratio": 0.55
   },
   "lesson": "lessons/-qHdnUBOS88.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "0Mxn45UZw2E",
@@ -113,7 +135,13 @@
    "static_ratio": 0.053
   },
   "lesson": "lessons/0Mxn45UZw2E.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "1logZo2iPpY",
@@ -141,7 +169,15 @@
    "static_ratio": 0.054
   },
   "lesson": "lessons/1logZo2iPpY.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "2b4LjglXJvs",
@@ -169,7 +205,14 @@
    "static_ratio": 0.591
   },
   "lesson": "lessons/2b4LjglXJvs.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "3DZYbsSwOeU",
@@ -196,7 +239,15 @@
    "static_ratio": 0.111
   },
   "lesson": "lessons/3DZYbsSwOeU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "3Gf_8827t7o",
@@ -224,7 +275,14 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/3Gf_8827t7o.md",
-  "loop_verified": true
+  "loop_verified": true,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "3u1cG41D0yE",
@@ -252,7 +310,15 @@
    "static_ratio": 0.694
   },
   "lesson": "lessons/3u1cG41D0yE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "4ht2Afy4ykQ",
@@ -280,7 +346,14 @@
    "static_ratio": 0.717
   },
   "lesson": "lessons/4ht2Afy4ykQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "4io5r4hw8DA",
@@ -308,7 +381,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/4io5r4hw8DA.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "6ZIGjG9mX0M",
@@ -335,7 +416,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/6ZIGjG9mX0M.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "7TI2LgS1y0g",
@@ -363,7 +452,15 @@
    "static_ratio": 0.286
   },
   "lesson": "lessons/7TI2LgS1y0g.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "7h7dU9dzu7E",
@@ -392,7 +489,15 @@
    "static_ratio": 0.419
   },
   "lesson": "lessons/7h7dU9dzu7E.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "7y_jO09EHlI",
@@ -421,7 +526,15 @@
    "static_ratio": 0.113
   },
   "lesson": "lessons/7y_jO09EHlI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "8dffyu-YmKI",
@@ -447,7 +560,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/8dffyu-YmKI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ARd0bfwi-y0",
@@ -476,7 +597,15 @@
    "static_ratio": 0.041
   },
   "lesson": "lessons/ARd0bfwi-y0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "B1sFo-KYuSQ",
@@ -501,7 +630,14 @@
    "static_ratio": 0.635
   },
   "lesson": "lessons/B1sFo-KYuSQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "ByBgv79OTEI",
@@ -530,7 +666,15 @@
    "static_ratio": 0.091
   },
   "lesson": "lessons/ByBgv79OTEI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "C-yZlQXN3rQ",
@@ -558,7 +702,15 @@
    "static_ratio": 0.037
   },
   "lesson": "lessons/C-yZlQXN3rQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "CntYmgB3UWM",
@@ -587,7 +739,15 @@
    "static_ratio": 0.127
   },
   "lesson": "lessons/CntYmgB3UWM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "CtWgD1qPdkA",
@@ -616,7 +776,15 @@
    "static_ratio": 0.024
   },
   "lesson": "lessons/CtWgD1qPdkA.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "E0sKPI3-pRk",
@@ -642,7 +810,15 @@
    "static_ratio": 0.156
   },
   "lesson": "lessons/E0sKPI3-pRk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ETkuKj-XxAg",
@@ -667,7 +843,13 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/ETkuKj-XxAg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "Ed34TjjLiRU",
@@ -696,7 +878,15 @@
    "static_ratio": 0.099
   },
   "lesson": "lessons/Ed34TjjLiRU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "EjadIKcJPmw",
@@ -721,7 +911,15 @@
    "static_ratio": 0.087
   },
   "lesson": "lessons/EjadIKcJPmw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FDeaiNff8mw",
@@ -750,7 +948,15 @@
    "static_ratio": 0.102
   },
   "lesson": "lessons/FDeaiNff8mw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FE6CQNgIfXQ",
@@ -777,7 +983,14 @@
    "static_ratio": 0.243
   },
   "lesson": "lessons/FE6CQNgIfXQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FG8NB_IMLa4",
@@ -805,7 +1018,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/FG8NB_IMLa4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FNj7PMK8SPo",
@@ -831,7 +1052,15 @@
    "static_ratio": 0.085
   },
   "lesson": "lessons/FNj7PMK8SPo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FQuqN_1wgN0",
@@ -858,7 +1087,15 @@
    "static_ratio": 0.125
   },
   "lesson": "lessons/FQuqN_1wgN0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FeDF9ywCCYM",
@@ -885,7 +1122,15 @@
    "static_ratio": 0.082
   },
   "lesson": "lessons/FeDF9ywCCYM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "FfcYctIpocg",
@@ -913,7 +1158,15 @@
    "static_ratio": 0.125
   },
   "lesson": "lessons/FfcYctIpocg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "GQUJyBClKE8",
@@ -941,7 +1194,13 @@
    "static_ratio": 0.518
   },
   "lesson": "lessons/GQUJyBClKE8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "HVTuxncA9JU",
@@ -980,7 +1239,16 @@
    "static_ratio": 0.243
   },
   "lesson": "lessons/HVTuxncA9JU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "calm",
+   "technical",
+   "reassuring"
+  ],
+  "easing": [
+   "sine.inOut",
+   "power2.out"
+  ]
  },
  {
   "id": "I1Iv3Ykbk00",
@@ -1008,7 +1276,15 @@
    "static_ratio": 0.168
   },
   "lesson": "lessons/I1Iv3Ykbk00.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "IGVOdYAholA",
@@ -1037,7 +1313,15 @@
    "static_ratio": 0.088
   },
   "lesson": "lessons/IGVOdYAholA.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ISV9R4fYWik",
@@ -1075,7 +1359,16 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/ISV9R4fYWik.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "loud",
+   "urgent",
+   "meme-literate"
+  ],
+  "easing": [
+   "power4.out",
+   "none"
+  ]
  },
  {
   "id": "IdcOR7faLag",
@@ -1104,7 +1397,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/IdcOR7faLag.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Inbq3t8_TXA",
@@ -1131,7 +1432,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/Inbq3t8_TXA.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "J2XAkWjIP9o",
@@ -1157,7 +1466,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/J2XAkWjIP9o.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "JNMtnj4-q1U",
@@ -1184,7 +1501,14 @@
    "static_ratio": 0.061
   },
   "lesson": "lessons/JNMtnj4-q1U.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "analytical",
+   "opinionated"
+  ],
+  "easing": [
+   "linear"
+  ]
  },
  {
   "id": "K--DmHCND7s",
@@ -1212,7 +1536,14 @@
    "static_ratio": 0.606
   },
   "lesson": "lessons/K--DmHCND7s.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "KGYqKhlGI6Y",
@@ -1237,7 +1568,15 @@
    "static_ratio": 0.089
   },
   "lesson": "lessons/KGYqKhlGI6Y.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "KRTU140Q7Z0",
@@ -1266,7 +1605,15 @@
    "static_ratio": 0.078
   },
   "lesson": "lessons/KRTU140Q7Z0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Kf0PRjSM3Jc",
@@ -1294,7 +1641,15 @@
    "static_ratio": 0.417
   },
   "lesson": "lessons/Kf0PRjSM3Jc.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "KweiXzvm8mo",
@@ -1322,7 +1677,15 @@
    "static_ratio": 0.046
   },
   "lesson": "lessons/KweiXzvm8mo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "KzuKj44a620",
@@ -1350,7 +1713,15 @@
    "static_ratio": 0.051
   },
   "lesson": "lessons/KzuKj44a620.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "L2kBejduZ-I",
@@ -1379,7 +1750,15 @@
    "static_ratio": 0.159
   },
   "lesson": "lessons/L2kBejduZ-I.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "LOWl-NF7v9g",
@@ -1408,7 +1787,15 @@
    "static_ratio": 0.108
   },
   "lesson": "lessons/LOWl-NF7v9g.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Ld5LkPkQodQ",
@@ -1437,7 +1824,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/Ld5LkPkQodQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Lt1jJmG3l_k",
@@ -1466,7 +1861,15 @@
    "static_ratio": 0.024
   },
   "lesson": "lessons/Lt1jJmG3l_k.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "M8qlFIHCwZ4",
@@ -1492,7 +1895,15 @@
    "static_ratio": 0.068
   },
   "lesson": "lessons/M8qlFIHCwZ4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "MJo2UIjJ6LU",
@@ -1520,7 +1931,15 @@
    "static_ratio": 0.156
   },
   "lesson": "lessons/MJo2UIjJ6LU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "MTXVNh3L7h4",
@@ -1548,7 +1967,15 @@
    "static_ratio": 0.03
   },
   "lesson": "lessons/MTXVNh3L7h4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "NdGhkJNcn7U",
@@ -1576,7 +2003,15 @@
    "static_ratio": 0.062
   },
   "lesson": "lessons/NdGhkJNcn7U.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "NoGRmd2qaPY",
@@ -1611,7 +2046,15 @@
    "static_ratio": 0.029
   },
   "lesson": "lessons/NoGRmd2qaPY.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "cinematic",
+   "weary",
+   "aspirational"
+  ],
+  "easing": [
+   "linear"
+  ]
  },
  {
   "id": "OwDVLnFG7-M",
@@ -1636,7 +2079,13 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/OwDVLnFG7-M.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "P9qT6XtgSI4",
@@ -1664,7 +2113,15 @@
    "static_ratio": 0.136
   },
   "lesson": "lessons/P9qT6XtgSI4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Pawe7hLSW9o",
@@ -1692,7 +2149,14 @@
    "static_ratio": 0.982
   },
   "lesson": "lessons/Pawe7hLSW9o.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "PxzhaOqkE9c",
@@ -1717,7 +2181,13 @@
    "static_ratio": 0.373
   },
   "lesson": "lessons/PxzhaOqkE9c.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "Q6H_fYhn3x0",
@@ -1757,7 +2227,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/Q6H_fYhn3x0.md",
-  "loop_verified": true
+  "loop_verified": true,
+  "emotion": [
+   "urgent",
+   "hypnotic"
+  ],
+  "easing": [
+   "linear",
+   "power4.out"
+  ]
  },
  {
   "id": "QRBp9mqDtUw",
@@ -1784,7 +2262,13 @@
    "static_ratio": 0.6
   },
   "lesson": "lessons/QRBp9mqDtUw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "Qaa9NSEpq0w",
@@ -1810,7 +2294,15 @@
    "static_ratio": 0.022
   },
   "lesson": "lessons/Qaa9NSEpq0w.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "RaGn-CAHCPo",
@@ -1838,7 +2330,15 @@
    "static_ratio": 0.072
   },
   "lesson": "lessons/RaGn-CAHCPo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Rgkfq5xpiao",
@@ -1866,7 +2366,14 @@
    "static_ratio": 0.678
   },
   "lesson": "lessons/Rgkfq5xpiao.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "Rvsi6TDsH2M",
@@ -1894,7 +2401,15 @@
    "static_ratio": 0.19
   },
   "lesson": "lessons/Rvsi6TDsH2M.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "U-3WWFDDxLo",
@@ -1921,7 +2436,14 @@
    "static_ratio": 0.329
   },
   "lesson": "lessons/U-3WWFDDxLo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "U-xkcBdc6Nw",
@@ -1949,7 +2471,15 @@
    "static_ratio": 0.25
   },
   "lesson": "lessons/U-xkcBdc6Nw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "UYshgIfGkOo",
@@ -1978,7 +2508,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/UYshgIfGkOo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "UtxfMYGDdFk",
@@ -2004,7 +2542,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/UtxfMYGDdFk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "V4NGcJS5uIo",
@@ -2032,7 +2578,15 @@
    "static_ratio": 0.28
   },
   "lesson": "lessons/V4NGcJS5uIo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "VAbbjYzmPEE",
@@ -2059,7 +2613,14 @@
    "static_ratio": 0.708
   },
   "lesson": "lessons/VAbbjYzmPEE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "VPpnrbNnSs8",
@@ -2087,7 +2648,15 @@
    "static_ratio": 0.243
   },
   "lesson": "lessons/VPpnrbNnSs8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Yn6uug_qBhM",
@@ -2115,7 +2684,14 @@
    "static_ratio": 0.14
   },
   "lesson": "lessons/Yn6uug_qBhM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Ytw5FKFnSrk",
@@ -2141,7 +2717,15 @@
    "static_ratio": 0.033
   },
   "lesson": "lessons/Ytw5FKFnSrk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Yx-1KRcFm6U",
@@ -2169,7 +2753,15 @@
    "static_ratio": 0.432
   },
   "lesson": "lessons/Yx-1KRcFm6U.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Z2xK0L-YDb0",
@@ -2197,7 +2789,14 @@
    "static_ratio": 0.333
   },
   "lesson": "lessons/Z2xK0L-YDb0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "Z4846Hhk0Sk",
@@ -2225,7 +2824,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/Z4846Hhk0Sk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ZIYnjS-xWlM",
@@ -2253,7 +2860,14 @@
    "static_ratio": 0.627
   },
   "lesson": "lessons/ZIYnjS-xWlM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "ZVWMwp68aVg",
@@ -2281,7 +2895,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/ZVWMwp68aVg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "_WCJ0dAf0qE",
@@ -2309,7 +2931,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/_WCJ0dAf0qE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "_sXy3d7atRs",
@@ -2337,7 +2967,15 @@
    "static_ratio": 0.018
   },
   "lesson": "lessons/_sXy3d7atRs.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "aNZeXQmVOjQ",
@@ -2378,7 +3016,16 @@
    "static_ratio": 0.091
   },
   "lesson": "lessons/aNZeXQmVOjQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "confident",
+   "editorial",
+   "product-led"
+  ],
+  "easing": [
+   "power3.out",
+   "linear"
+  ]
  },
  {
   "id": "bMSnD47XAuk",
@@ -2407,7 +3054,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/bMSnD47XAuk.md",
-  "loop_verified": true
+  "loop_verified": true,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "bRpEwZ9w6-w",
@@ -2436,7 +3091,15 @@
    "static_ratio": 0.049
   },
   "lesson": "lessons/bRpEwZ9w6-w.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "cTAm7DsWW20",
@@ -2463,7 +3126,14 @@
    "static_ratio": 0.034
   },
   "lesson": "lessons/cTAm7DsWW20.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "d1MonWlzC48",
@@ -2490,7 +3160,14 @@
    "static_ratio": 0.642
   },
   "lesson": "lessons/d1MonWlzC48.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "d6EVIGiRWik",
@@ -2517,7 +3194,14 @@
    "static_ratio": 0.391
   },
   "lesson": "lessons/d6EVIGiRWik.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "f8mE8RZyICI",
@@ -2545,7 +3229,15 @@
    "static_ratio": 0.098
   },
   "lesson": "lessons/f8mE8RZyICI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "fHZidlnJIV4",
@@ -2573,7 +3265,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/fHZidlnJIV4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ff9wM-ANse0",
@@ -2598,7 +3298,13 @@
    "static_ratio": 0.293
   },
   "lesson": "lessons/ff9wM-ANse0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "getK6x-MepU",
@@ -2625,7 +3331,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/getK6x-MepU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "gwJxE--IS0A",
@@ -2654,7 +3368,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/gwJxE--IS0A.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "hmk9nkwzLrc",
@@ -2681,7 +3403,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/hmk9nkwzLrc.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "iCJXowra3x8",
@@ -2709,7 +3439,13 @@
    "static_ratio": 0.024
   },
   "lesson": "lessons/iCJXowra3x8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "jT0zCngmnpM",
@@ -2734,7 +3470,15 @@
    "static_ratio": 0.522
   },
   "lesson": "lessons/jT0zCngmnpM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "jy0Stu4I65I",
@@ -2762,7 +3506,15 @@
    "static_ratio": 0.033
   },
   "lesson": "lessons/jy0Stu4I65I.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "k2e8WnvTCiI",
@@ -2789,7 +3541,13 @@
    "static_ratio": 0.033
   },
   "lesson": "lessons/k2e8WnvTCiI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "kOoAnPnb9ME",
@@ -2816,7 +3574,15 @@
    "static_ratio": 0.024
   },
   "lesson": "lessons/kOoAnPnb9ME.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "klcpQA-BWY0",
@@ -2847,7 +3613,14 @@
    "static_ratio": 0.263
   },
   "lesson": "lessons/klcpQA-BWY0.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "kxuA_QkPSDM",
@@ -2873,7 +3646,15 @@
    "static_ratio": 0.11
   },
   "lesson": "lessons/kxuA_QkPSDM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "llNAdLPXMYk",
@@ -2900,7 +3681,13 @@
    "static_ratio": 0.259
   },
   "lesson": "lessons/llNAdLPXMYk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "mQmyQZRGQJ4",
@@ -2928,7 +3715,15 @@
    "static_ratio": 0.069
   },
   "lesson": "lessons/mQmyQZRGQJ4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "mSlzJqMZu2Y",
@@ -2957,7 +3752,15 @@
    "static_ratio": 0.041
   },
   "lesson": "lessons/mSlzJqMZu2Y.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "mWhxJPiizXI",
@@ -2982,7 +3785,15 @@
    "static_ratio": 0.011
   },
   "lesson": "lessons/mWhxJPiizXI.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "maHR11JFOFk",
@@ -3010,7 +3821,15 @@
    "static_ratio": 0.036
   },
   "lesson": "lessons/maHR11JFOFk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "me3sFZCXxlg",
@@ -3039,7 +3858,14 @@
    "static_ratio": 0.226
   },
   "lesson": "lessons/me3sFZCXxlg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "n-vhkZJe6fw",
@@ -3066,7 +3892,14 @@
    "static_ratio": 0.581
   },
   "lesson": "lessons/n-vhkZJe6fw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "n8TUH9j116U",
@@ -3094,7 +3927,14 @@
    "static_ratio": 0.503
   },
   "lesson": "lessons/n8TUH9j116U.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "nkcbLo4DaYE",
@@ -3123,7 +3963,14 @@
    "static_ratio": 0.325
   },
   "lesson": "lessons/nkcbLo4DaYE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "okFBYF1N3Dg",
@@ -3152,7 +3999,15 @@
    "static_ratio": 0.007
   },
   "lesson": "lessons/okFBYF1N3Dg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "owheCZ1yJNA",
@@ -3181,7 +4036,14 @@
    "static_ratio": 0.57
   },
   "lesson": "lessons/owheCZ1yJNA.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "p8F-X-56iAY",
@@ -3210,7 +4072,15 @@
    "static_ratio": 0.13
   },
   "lesson": "lessons/p8F-X-56iAY.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "pAZQ-L7skFY",
@@ -3238,7 +4108,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/pAZQ-L7skFY.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "p_zd6TbrFcc",
@@ -3263,7 +4141,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/p_zd6TbrFcc.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "pgQuGENPIFU",
@@ -3291,7 +4177,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/pgQuGENPIFU.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "q3JpTqQp0YQ",
@@ -3320,7 +4214,15 @@
    "static_ratio": 0.177
   },
   "lesson": "lessons/q3JpTqQp0YQ.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "qSv_P_acE_o",
@@ -3347,7 +4249,14 @@
    "static_ratio": 0.832
   },
   "lesson": "lessons/qSv_P_acE_o.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "rAZBn6Ai2k4",
@@ -3375,7 +4284,14 @@
    "static_ratio": 0.702
   },
   "lesson": "lessons/rAZBn6Ai2k4.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "reflective",
+   "deliberate"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "rglfuEehdSY",
@@ -3402,7 +4318,15 @@
    "static_ratio": 0.048
   },
   "lesson": "lessons/rglfuEehdSY.md",
-  "loop_verified": true
+  "loop_verified": true,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "soJRgpL6238",
@@ -3428,7 +4352,15 @@
    "static_ratio": 0.019
   },
   "lesson": "lessons/soJRgpL6238.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "t5rLzpXZ5o8",
@@ -3455,7 +4387,15 @@
    "static_ratio": 0.138
   },
   "lesson": "lessons/t5rLzpXZ5o8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "tCO0dH5otcY",
@@ -3483,7 +4423,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/tCO0dH5otcY.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "tR7wRshIsX8",
@@ -3511,7 +4459,15 @@
    "static_ratio": 0.26
   },
   "lesson": "lessons/tR7wRshIsX8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "vg2bNzJ4K-o",
@@ -3538,7 +4494,13 @@
    "static_ratio": 0.514
   },
   "lesson": "lessons/vg2bNzJ4K-o.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "power2.out"
+  ]
  },
  {
   "id": "vpGBQ5y9FIM",
@@ -3566,7 +4528,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/vpGBQ5y9FIM.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "wMwP3cgsDWo",
@@ -3594,7 +4564,14 @@
    "static_ratio": 0.526
   },
   "lesson": "lessons/wMwP3cgsDWo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "xHdHoejEuSg",
@@ -3622,7 +4599,15 @@
    "static_ratio": 0.322
   },
   "lesson": "lessons/xHdHoejEuSg.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "x_54BAsE1VE",
@@ -3651,7 +4636,15 @@
    "static_ratio": 0.131
   },
   "lesson": "lessons/x_54BAsE1VE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "xiLGX1Z3nbE",
@@ -3677,7 +4670,15 @@
    "static_ratio": 0.035
   },
   "lesson": "lessons/xiLGX1Z3nbE.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "y1QxnmfQsqk",
@@ -3704,7 +4705,14 @@
    "static_ratio": 0.045
   },
   "lesson": "lessons/y1QxnmfQsqk.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "y1y5gSfVGko",
@@ -3729,7 +4737,14 @@
    "static_ratio": 0.525
   },
   "lesson": "lessons/y1y5gSfVGko.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "neutral"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "ythRPCzx4e8",
@@ -3757,7 +4772,15 @@
    "static_ratio": 0.292
   },
   "lesson": "lessons/ythRPCzx4e8.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "zb_nj_06I_w",
@@ -3785,7 +4808,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/zb_nj_06I_w.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "zipjTtkONUo",
@@ -3813,7 +4844,15 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/zipjTtkONUo.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  },
  {
   "id": "zrKSBDRq1nw",
@@ -3839,6 +4878,14 @@
    "static_ratio": 0.0
   },
   "lesson": "lessons/zrKSBDRq1nw.md",
-  "loop_verified": false
+  "loop_verified": false,
+  "emotion": [
+   "urgent",
+   "energetic"
+  ],
+  "easing": [
+   "linear",
+   "power2.out"
+  ]
  }
 ]

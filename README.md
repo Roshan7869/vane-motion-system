@@ -67,11 +67,13 @@ an agent has no reason to invent its own thresholds.
 
 | You need | Read |
 |---|---|
-| To find which lesson supplies a capability | `capabilities.json` — filter `capability` |
+| To find which lesson supplies a capability | `capabilities.json` — **query it via `QUERIES.md`, never load it** |
+| Working `jq`/`python` recipes for the router | `QUERIES.md` |
 | To know what a lesson verified vs inferred | `capabilities.json` — check `basis` |
-| A text/caption reveal | `patterns/caption-systems.md` |
+| A ready-to-use brief | `prompts/chhattisgarh-30s.md` (audited) · `prompts/agent-rebuild.md` |
+| A text/caption reveal | `patterns/caption-systems.md` · `styles/captions.md` |
 | To know which easing encodes which feeling | `patterns/easing-and-emotion.md` |
-| To animate Hindi/Devanagari text | `patterns/devanagari-constraints.md` |
+| To animate Hindi/Devanagari text | `patterns/devanagari-constraints.md` · `styles/clean-bold.md` |
 | A specific primitive's code | `snippets/hyperframes/` (4 snippets) |
 | Whether a piece is a loop | `loop_analysis.json` |
 | Who to learn from next | `CREATORS.md` |

@@ -87,17 +87,22 @@ Give the agent the row, not the repo.
 
 | Task | Read exactly these | Do not read |
 |---|---|---|
-| Caption system | `patterns/caption-systems.md`, `patterns/devanagari-constraints.md` | lessons/ |
+| Hindi / Chhattisgarh local-business ad | `rules.md`, `styles/clean-bold.md`, `styles/captions.md`, `prompts/chhattisgarh-30s.md` | lessons/ |
+| Caption system | `patterns/caption-systems.md`, `styles/captions.md`, `patterns/devanagari-constraints.md` | lessons/ |
 | Easing / pacing feel | `patterns/easing-and-emotion.md` | lessons/ |
-| Editorial / data-card look | `lessons/aNZeXQmVOjQ.md`, `snippets/hyperframes/editorial-card.js` | other lessons |
-| Collage / viral-reel look | `lessons/ISV9R4fYWik.md`, `snippets/hyperframes/collage-stack.js` | other lessons |
-| 3D camera text | `lessons/Q6H_fYhn3x0.md`, `snippets/hyperframes/camera-text-loop.js` | other lessons |
-| SaaS / UI explainer | `lessons/HVTuxncA9JU.md`, `snippets/hyperframes/letterbox-band.js` | other lessons |
-| AI b-roll essay | `lessons/NoGRmd2qaPY.md` | — |
-| HyperFrames vs Remotion choice | `lessons/JNMtnj4-q1U.md` | — |
+| Editorial / data-card look | `styles/editorial-card.md` | lessons/ |
+| Collage / viral-reel look | `styles/collage-reel.md` | lessons/ |
+| 3D camera text | `styles/3d-camera-text.md` | lessons/ |
+| SaaS / UI explainer | `styles/saas-ui.md` | lessons/ |
+| AI b-roll essay | `styles/ai-broll.md` | lessons/ |
 | Rebuilding a reference shot by shot | `templates/shot-breakdown.md`, `prompts/agent-rebuild.md` | lessons/ |
-| Finding a capability | `capabilities.json` (filter it), `VERIFIED-INDEX.md` | lessons/ |
+| Finding a capability | `QUERIES.md` — query `capabilities.json`, never load it | lessons/ |
 | Whether the corpus covers X at all | `VERIFIED-INDEX.md` → "Known gaps" | — |
+
+**Route with `capability` + `shape` + `pacing`. Never with `emotion`.** 91 of 137 lessons are tagged
+`energetic` because the label was auto-derived at scale — filtering on it returns two-thirds of the
+corpus and therefore nothing. `QUERIES.md` has the working recipes and the vocabulary.
+
 
 ---
 
