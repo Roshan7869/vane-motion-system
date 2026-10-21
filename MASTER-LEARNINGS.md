@@ -172,6 +172,30 @@ Corollary: high cut count is not a quality signal. The one outlier with 15 cuts 
 
 ---
 
+## 12. Check for a loop before you believe the cut count
+
+**Why.** A Short with a high cut count is not necessarily a fast-cut edit. The highest-motion
+item in this corpus (`Q6H_fYhn3x0`) measures **14 cuts** — and is actually a **5.5 s sequence
+played three times**. Two independent measurements prove it:
+
+- Sampled keyframes 5.5 s apart differ by **0.4–0.9** on a 0–255 scale, while consecutive
+  keyframes differ by **58.45** — the repeat is 72× closer than a step forward.
+- The cut *intervals* cycle: `1.8 · 1.0 · 0.5 · 0.5 · 1.7`, summing to exactly 5.5 s, repeated
+  three times across 16.5 s.
+
+**Apply.** Before quoting `measured.cuts` to an agent or a client, run the frame-identity
+test: compare keyframes at lag L for all L, require `lag ≥ 2`, and require the loop distance to
+be at least 3× smaller than the consecutive-frame distance. Across these 45 Shorts, **5 are
+true loops** (loop distance 0.3–0.9 against consecutive change of 12–58).
+
+Then author **one cycle** and repeat it. Writing 14 shots by hand when the source has 5 beats
+is the most expensive mistake available in short-form production.
+
+Corollary for the index: `measured.cuts` alone is ambiguous. Read it with `loop_analysis.json`,
+never on its own.
+
+---
+
 ## Open questions this corpus has not answered
 
 - Whether karaoke per-word highlight survives Devanagari at small sizes on mobile
