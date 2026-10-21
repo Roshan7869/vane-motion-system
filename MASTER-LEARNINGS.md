@@ -196,6 +196,36 @@ never on its own.
 
 ---
 
+## 13. Never rank motion by the mean — read median and p95 together
+
+**Why.** `mean_frame_delta` hides the distribution. The discriminator is not the mean itself but
+the ratio between the mean and the median, and between the median and the p95:
+
+| piece | mean | median | p95 | static | mean/median | mechanism |
+|---|---|---|---|---|---|---|
+| viral collage (`ISV9R4fYWik`) | 43.97 | 42.37 | 83.12 | 0.00 | **1.04×** | constant churn |
+| 3D camera text (`Q6H_fYhn3x0`) | 73.09 | 83.69 | 127.42 | 0.00 | **0.87×** | looped, always moving |
+| editorial cards (`aNZeXQmVOjQ`) | 26.17 | **4.71** | **108.35** | 0.091 | **5.56×** | hold still, then snap |
+
+For the collage and the loop, mean ≈ median: motion is uniform, so the average describes every
+frame. For the editorial piece the mean is **5.6× the median** — the average is carried by a
+handful of violent moments and describes almost no actual frame. A single number cannot tell you
+which of those three you are looking at.
+
+**Apply.** Report `median` and `p95` alongside `mean`, and classify by their relationship:
+
+- `mean ≈ median`, both high → **continuous** (collage, loop)
+- `mean ≫ median` (ratio > 2) and `p95` very high → **hold-and-burst** (editorial, product demo,
+  explainer)
+- `mean ≈ median`, both low → **static** (slide deck — a defect in short-form)
+
+Do not "fix" the holds in a hold-and-burst piece by adding drift. The stillness is the design.
+
+Corollary for `index.json`: it must carry median and p95, not just the mean, or an agent reading
+only the index will mis-classify the piece and rebuild it with the wrong motion engine.
+
+---
+
 ## Open questions this corpus has not answered
 
 - Whether karaoke per-word highlight survives Devanagari at small sizes on mobile

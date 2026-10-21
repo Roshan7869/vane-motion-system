@@ -227,6 +227,39 @@
     "lesson": "lessons/ETkuKj-XxAg.md"
   },
   {
+    "id": "Ed34TjjLiRU",
+    "title": "How To Make Map Animation Using AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 41.2,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "map"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 6.0,
+      "median_cut_s": 3.73,
+      "mean_frame_delta": 22.73,
+      "static_ratio": 0.099
+    },
+    "lesson": "lessons/Ed34TjjLiRU.md"
+  },
+  {
     "id": "EjadIKcJPmw",
     "title": "🔥Clean Motion Graphics in After Effects",
     "form": "short",
@@ -431,6 +464,39 @@
     "lesson": "lessons/HVTuxncA9JU.md"
   },
   {
+    "id": "I1Iv3Ykbk00",
+    "title": "Is AI Coming for Motion Designers?",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 51.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 2.0,
+      "median_cut_s": 18.6,
+      "mean_frame_delta": 9.753,
+      "static_ratio": 0.168
+    },
+    "lesson": "lessons/I1Iv3Ykbk00.md"
+  },
+  {
     "id": "ISV9R4fYWik",
     "title": "How to Create VIRAL REELS",
     "form": "short",
@@ -503,6 +569,37 @@
       "static_ratio": 0.0
     },
     "lesson": "lessons/Inbq3t8_TXA.md"
+  },
+  {
+    "id": "JNMtnj4-q1U",
+    "title": "Hyperframes vs Remotion",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 91.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "motion",
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 7.565,
+      "static_ratio": 0.061
+    },
+    "lesson": "lessons/JNMtnj4-q1U.md"
   },
   {
     "id": "KGYqKhlGI6Y",
@@ -705,6 +802,40 @@
     "lesson": "lessons/MTXVNh3L7h4.md"
   },
   {
+    "id": "NoGRmd2qaPY",
+    "title": "HYPERFRAMES PRESENTS: THE BORING REPORT",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 86.4,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 18.0,
+      "median_cut_s": 3.27,
+      "mean_frame_delta": 25.458,
+      "static_ratio": 0.029
+    },
+    "lesson": "lessons/NoGRmd2qaPY.md"
+  },
+  {
     "id": "OwDVLnFG7-M",
     "title": "Who is the GOAT?",
     "form": "short",
@@ -868,6 +999,38 @@
     "lesson": "lessons/Rvsi6TDsH2M.md"
   },
   {
+    "id": "UtxfMYGDdFk",
+    "title": "Everyone Assumed This Was After Effects. It Wasn't.",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 69.9,
+    "resolution": "608x1080",
+    "fps": "24/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 2.71,
+      "mean_frame_delta": 22.763,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/UtxfMYGDdFk.md"
+  },
+  {
     "id": "V4NGcJS5uIo",
     "title": "🔥Free ORDER SCRIPT for After Effects",
     "form": "short",
@@ -900,6 +1063,101 @@
     "lesson": "lessons/V4NGcJS5uIo.md"
   },
   {
+    "id": "VPpnrbNnSs8",
+    "title": "Hyperframes Open Source Platform: Build & Share Interactive",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 54.0,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 8.0,
+      "median_cut_s": 4.37,
+      "mean_frame_delta": 17.32,
+      "static_ratio": 0.243
+    },
+    "lesson": "lessons/VPpnrbNnSs8.md"
+  },
+  {
+    "id": "Yx-1KRcFm6U",
+    "title": "HyperFrames: Add a VS Code Window & Mac Terminal to Any Vide",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 37.4,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 4.33,
+      "mean_frame_delta": 25.718,
+      "static_ratio": 0.432
+    },
+    "lesson": "lessons/Yx-1KRcFm6U.md"
+  },
+  {
+    "id": "Z2xK0L-YDb0",
+    "title": "I Made a Video Using Only Code with HeyGen's Hyperframes 🤯",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 56.2,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 5.0,
+      "median_cut_s": 10.94,
+      "mean_frame_delta": 7.982,
+      "static_ratio": 0.333
+    },
+    "lesson": "lessons/Z2xK0L-YDb0.md"
+  },
+  {
     "id": "_WCJ0dAf0qE",
     "title": "🔥Smooth 3D Camera movement in After Effects",
     "form": "short",
@@ -930,6 +1188,48 @@
       "static_ratio": 0.0
     },
     "lesson": "lessons/_WCJ0dAf0qE.md"
+  },
+  {
+    "id": "aNZeXQmVOjQ",
+    "title": "How to Use HyperFrames in HeyGen's AI Video Agent",
+    "form": "short",
+    "depth": "deep",
+    "duration_s": 66.5,
+    "resolution": "1920x1080",
+    "fps": "30000/1001",
+    "has_captions": "false",
+    "caption_script": "none",
+    "primitives": [
+      "candy-frame-black-card",
+      "editorial-data-card",
+      "ui-demo-card",
+      "whip-blur-transition",
+      "glitch-wordmark"
+    ],
+    "emotion": [
+      "confident",
+      "editorial",
+      "product-led"
+    ],
+    "tags": [
+      "hyperframes",
+      "heygen",
+      "editorial",
+      "data-viz",
+      "ui-demo",
+      "transition"
+    ],
+    "easing": [
+      "power3.out",
+      "linear"
+    ],
+    "measured": {
+      "cuts": 10.0,
+      "median_cut_s": 8.18,
+      "mean_frame_delta": 26.172,
+      "static_ratio": 0.091
+    },
+    "lesson": "lessons/aNZeXQmVOjQ.md"
   },
   {
     "id": "bMSnD47XAuk",
@@ -1032,6 +1332,39 @@
     "lesson": "lessons/d6EVIGiRWik.md"
   },
   {
+    "id": "f8mE8RZyICI",
+    "title": "How To Make Animations Using ReelCraft AI",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 46.4,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "reel"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 5.21,
+      "mean_frame_delta": 18.068,
+      "static_ratio": 0.098
+    },
+    "lesson": "lessons/f8mE8RZyICI.md"
+  },
+  {
     "id": "fHZidlnJIV4",
     "title": "Liquid glass animation like Apple",
     "form": "short",
@@ -1090,6 +1423,70 @@
       "static_ratio": 0.293
     },
     "lesson": "lessons/ff9wM-ANse0.md"
+  },
+  {
+    "id": "getK6x-MepU",
+    "title": "Hyperframes Catalog: Never Start From Scratch Again",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 57.0,
+    "resolution": "608x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 8.194,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/getK6x-MepU.md"
+  },
+  {
+    "id": "gwJxE--IS0A",
+    "title": "The old way of editing videos is over...HyperFrames + AI jus",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 54.9,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 6.0,
+      "median_cut_s": 5.94,
+      "mean_frame_delta": 12.309,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/gwJxE--IS0A.md"
   },
   {
     "id": "hmk9nkwzLrc",
@@ -1220,6 +1617,102 @@
     "lesson": "lessons/kOoAnPnb9ME.md"
   },
   {
+    "id": "kxuA_QkPSDM",
+    "title": "HeyGen’s New AI Video Tools: 30-Minute Avatars, Keyframe Ani",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 87.3,
+    "resolution": "608x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 24.0,
+      "median_cut_s": 2.12,
+      "mean_frame_delta": 20.244,
+      "static_ratio": 0.11
+    },
+    "lesson": "lessons/kxuA_QkPSDM.md"
+  },
+  {
+    "id": "llNAdLPXMYk",
+    "title": "Hyperframes: Turn HTML Into Video with Hermes",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 41.0,
+    "resolution": "1080x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "unclassified"
+    ],
+    "emotion": [
+      "neutral"
+    ],
+    "tags": [
+      "unclassified"
+    ],
+    "easing": [
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 5.11,
+      "static_ratio": 0.259
+    },
+    "lesson": "lessons/llNAdLPXMYk.md"
+  },
+  {
+    "id": "mQmyQZRGQJ4",
+    "title": "Code Your Videos in HTML With ZERO Editing",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 130.9,
+    "resolution": "1920x1080",
+    "fps": "25/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "editing"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 25.0,
+      "median_cut_s": 2.82,
+      "mean_frame_delta": 18.476,
+      "static_ratio": 0.069
+    },
+    "lesson": "lessons/mQmyQZRGQJ4.md"
+  },
+  {
     "id": "mWhxJPiizXI",
     "title": "How to become a Motion Graphics Designer",
     "form": "short",
@@ -1312,6 +1805,40 @@
       "static_ratio": 0.325
     },
     "lesson": "lessons/nkcbLo4DaYE.md"
+  },
+  {
+    "id": "p8F-X-56iAY",
+    "title": "How To Use Viggle AI For Viral Animations And Memes!",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 35.2,
+    "resolution": "608x1080",
+    "fps": "30000/1001",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "fast-cut",
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion",
+      "fast-cut"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 10.0,
+      "median_cut_s": 3.01,
+      "mean_frame_delta": 27.209,
+      "static_ratio": 0.13
+    },
+    "lesson": "lessons/p8F-X-56iAY.md"
   },
   {
     "id": "pAZQ-L7skFY",
@@ -1447,6 +1974,69 @@
     "lesson": "lessons/t5rLzpXZ5o8.md"
   },
   {
+    "id": "tR7wRshIsX8",
+    "title": "HyperFrames HDR (HeyGen): Render True HDR Videos",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 37.0,
+    "resolution": "1920x1080",
+    "fps": "60/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 16.704,
+      "static_ratio": 0.26
+    },
+    "lesson": "lessons/tR7wRshIsX8.md"
+  },
+  {
+    "id": "xHdHoejEuSg",
+    "title": "How to make videos using HeyGen's Video Agent API inside Cla",
+    "form": "long",
+    "depth": "structural",
+    "duration_s": 136.9,
+    "resolution": "1920x1080",
+    "fps": "30/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 7.0,
+      "median_cut_s": 9.73,
+      "mean_frame_delta": 8.129,
+      "static_ratio": 0.322
+    },
+    "lesson": "lessons/xHdHoejEuSg.md"
+  },
+  {
     "id": "ythRPCzx4e8",
     "title": "🔥How to Create a SaaS Explainer Ad in After Effects",
     "form": "short",
@@ -1477,5 +2067,36 @@
       "static_ratio": 0.292
     },
     "lesson": "lessons/ythRPCzx4e8.md"
+  },
+  {
+    "id": "zipjTtkONUo",
+    "title": "HyperFrames Auto-Adds Sound Effects + Music #AI #AIAvatar #H",
+    "form": "short",
+    "depth": "structural",
+    "duration_s": 36.6,
+    "resolution": "608x1080",
+    "fps": "24/1",
+    "has_captions": "unknown",
+    "caption_script": "unknown",
+    "primitives": [
+      "continuous-motion"
+    ],
+    "emotion": [
+      "urgent",
+      "energetic"
+    ],
+    "tags": [
+      "continuous-motion"
+    ],
+    "easing": [
+      "linear",
+      "power2.out"
+    ],
+    "measured": {
+      "cuts": 1.0,
+      "mean_frame_delta": 15.379,
+      "static_ratio": 0.0
+    },
+    "lesson": "lessons/zipjTtkONUo.md"
   }
 ]
