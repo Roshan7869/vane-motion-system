@@ -106,6 +106,14 @@ corpus and therefore nothing. `QUERIES.md` has the working recipes and the vocab
 
 ---
 
+## briefs/ is not knowledge
+
+`briefs/` holds market and client context — platform algorithm claims, regional culture, hashtags,
+posting times. **Nothing in `briefs/` is a repo rule.** If you cite something from there, attribute
+it as a client or platform claim, never as measured technique.
+
+---
+
 ## Known gaps — say so instead of improvising
 
 | Capability | Status |

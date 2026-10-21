@@ -78,6 +78,7 @@ an agent has no reason to invent its own thresholds.
 | Whether a piece is a loop | `loop_analysis.json` |
 | Who to learn from next | `CREATORS.md` |
 | How many Shorts exist per tier | `SHORTS-INVENTORY.md` |
+| Client/market context (CG reels, algorithm, hashtags) | `briefs/chhattisgarh-reels.md` — **market claims, never repo rules** |
 
 ### Querying `index.json`
 
